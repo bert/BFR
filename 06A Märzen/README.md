@@ -79,6 +79,9 @@ SRM: 8 – 17
 
 ABV: 5.6 – 6.3%
 
-<b>Commercial Examples:</b> Hacker-Pschorr Oktoberfest
-Märzen, Hofmark Märzen, Paulaner Oktoberfest, Saalfelder
-Ur-Saalfelder, Weltenburger Kloster Anno 1050.
+<b>Commercial Examples:</b>
+- Hacker-Pschorr Oktoberfest Märzen,
+- Hofmark Märzen,
+- Paulaner Oktoberfest,
+- Saalfelder Ur-Saalfelder,
+- Weltenburger Kloster Anno 1050.
