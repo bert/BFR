@@ -80,6 +80,11 @@ SRM: 9 – 17
 
 ABV: 4.3 – 5.5%
 
-<b>Commercial Examples:</b> Bolten Alt, Diebels Alt, Füchschen
-Alt, Original Schlüssel Alt, Schlösser Alt, Schumacher Alt,
-Uerige Altbier
+<b>Commercial Examples:</b>
+- Bolten Alt,
+- Diebels Alt,
+- Füchschen Alt,
+- Original Schlüssel Alt,
+- Schlösser Alt,
+- Schumacher Alt,
+- Uerige Altbier
