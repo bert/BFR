@@ -61,6 +61,9 @@ SRM: 3 – 6
 
 ABV: 4.0 – 5.5%
 
-<b>Commercial Examples:</b> Bell’s Oberon, Boulevard Unfiltered
-Wheat Beer, GoodLife Sweet As! Pacific Ale, Goose Island 312
-Urban Wheat Ale, Widmer Hefeweizen.
+<b>Commercial Examples:</b>
+- Bell’s Oberon,
+- Boulevard Unfiltered Wheat Beer,
+- GoodLife Sweet As! Pacific Ale,
+- Goose Island 312 Urban Wheat Ale,
+- Widmer Hefeweizen.
