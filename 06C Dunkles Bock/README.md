@@ -64,6 +64,10 @@ SRM: 14 – 22
 
 ABV: 6.3 – 7.2%
 
-<b>Commercial Examples:</b> Aass Bock, Einbecker Ur-Bock
-Dunkel, Kneitinger Bock, Lindeboom Bock, Schell’s Bock, Penn
-Brewery St. Nikolaus Bock.
+<b>Commercial Examples:</b>
+- Aass Bock,
+- Einbecker Ur-Bock Dunkel,
+- Kneitinger Bock,
+- Lindeboom Bock,
+- Schell’s Bock,
+- Penn Brewery St. Nikolaus Bock.
