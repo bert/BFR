@@ -63,6 +63,11 @@ SRM: 2 – 3.5
 
 ABV: 4.2 – 5.3%
 
-<b>Commercial Examples:</b> Budweiser, Coors Original, Grain
-Belt Premium American Lager, Miller High Life, Old Style,
-Pabst Blue Ribbon, Special Export.
+<b>Commercial Examples:</b>
+- Budweiser,
+- Coors Original,
+- Grain Belt Premium American Lager,
+- Miller High Life,
+- Helleman's Old Style,
+- Pabst Blue Ribbon,
+- Helleman's Special Export.
