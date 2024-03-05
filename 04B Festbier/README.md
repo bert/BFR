@@ -80,7 +80,10 @@ SRM: 4 – 6
 
 ABV: 5.8 – 6.3%
 
-<b>Commercial Examples:</b> Augustiner Oktoberfest, Hacker-
-Pschorr Superior Festbier, Hofbräu Oktoberfestbier,
-Löwenbräu Oktoberfestbier, Paulaner Oktoberfest Bier,
-Weihenstephaner Festbier.
+<b>Commercial Examples:</b>
+- Augustiner Oktoberfest,
+- Hacker-Pschorr Superior Festbier,
+- Hofbräu Oktoberfestbier,
+- Löwenbräu Oktoberfestbier,
+- Paulaner Oktoberfest Bier,
+- Weihenstephaner Festbier.
