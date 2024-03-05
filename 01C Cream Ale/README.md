@@ -65,6 +65,10 @@ SRM: 2 – 5
 
 ABV: 4.2 – 5.6%
 
-<b>Commercial Examples:</b> Genesee Cream Ale, Liebotschaner
-Cream Ale, Kiwanda Pre-Prohibition Cream Ale, Little Kings
-Cream Ale, Sleeman Cream Ale, Sun King Sunlight Cream Ale.
+<b>Commercial Examples:</b>
+- Genesee Cream Ale,
+- Liebotschaner Cream Ale,
+- Kiwanda Pre-Prohibition Cream Ale,
+- Little Kings Cream Ale,
+- Sleeman Cream Ale,
+- Sun King Sunlight Cream Ale.
