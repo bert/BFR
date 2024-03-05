@@ -66,7 +66,10 @@ SRM: 19 – 30
 
 ABV: 4.4 – 5.4%
 
-<b>Commercial Examples:</b> Chuckanut Schwarz Lager, Devils
-Backbone Schwartz Bier, Köstritzer Schwarzbier, Kulmbacher
-Mönchshof Schwarzbier, Nuezeller Original Badebier, pFriem
-Schwarzbier.
+<b>Commercial Examples:</b>
+- Chuckanut Schwarz Lager,
+- Devils Backbone Schwartz Bier,
+- Köstritzer Schwarzbier,
+- Kulmbacher Mönchshof Schwarzbier,
+- Nuezeller Original Badebier,
+- pFriem Schwarzbier.
