@@ -62,7 +62,11 @@ SRM: 3 – 5
 
 ABV: 4.7 – 5.4%
 
-<b>Commercial Examples:</b> Augustiner Lagerbier Hell, Hacker-
-Pschorr Münchner Gold, Löwenbraü Original, Paulaner
-Münchner Lager, Schönramer Hell, Spaten Münchner Hell,
-Weihenstephaner Original Helles.
+<b>Commercial Examples:</b>
+- Augustiner Lagerbier Hell,
+- Hacker-Pschorr Münchner Gold,
+- Löwenbraü Original,
+- Paulaner Münchner Lager,
+- Schönramer Hell,
+- Spaten Münchner Hell,
+- Weihenstephaner Original Helles.
