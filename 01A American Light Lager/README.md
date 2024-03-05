@@ -60,6 +60,10 @@ SRM: 2 – 3
 
 ABV: 2.8 – 4.2%
 
-<b>Commercial Examples:</b> Bud Light, Coors Light, Grain Belt
-Premium Light American Lager, Michelob Light, Miller Lite,
-Old Milwaukee Light
+<b>Commercial Examples:</b>
+- Bud Light,
+- Coors Light,
+- Grain Belt Premium Light American Lager,
+- Michelob Light,
+- Miller Lite,
+- Old Milwaukee Light.
