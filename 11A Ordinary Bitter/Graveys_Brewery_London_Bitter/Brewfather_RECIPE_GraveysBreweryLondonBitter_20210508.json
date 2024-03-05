@@ -1,0 +1,1074 @@
+{
+  "fg": 1.01,
+  "_id": "yh3wABdYBSYw1dxagfmSLwrMX8AH0o",
+  "attenuation": 0.737,
+  "nutrition": {
+    "calories": {
+      "alcohol": 20.95727928636123,
+      "carbs": 14.963119377494397,
+      "total": 35.92039866385563,
+      "kJ": 150.29094800957196
+    },
+    "carbs": {
+      "total": 3.792857531617766
+    }
+  },
+  "hopStandMinutes": 0,
+  "_version": "2.7.6",
+  "equipment": {
+    "trubChillerLoss": 0.12,
+    "boilOffPerHr": 1.8,
+    "name": "01 Brouwpunt 5L (60min) (rev 4)",
+    "spargeWaterOverflow": "Top-Up",
+    "spargeWaterMax": null,
+    "hopUtilization": 1,
+    "mashTunLoss": 0.12,
+    "mashTunDeadSpace": 0,
+    "mashWaterVolumeLimitEnabled": true,
+    "hopstandTemperature": 80,
+    "grainAbsorptionRate": 0.96,
+    "calcAromaHopUtilization": true,
+    "waterGrainRatio": 3,
+    "fermenterLoss": 0.6,
+    "_timestamp": {
+      "seconds": 1603469797,
+      "nanoseconds": 350000000
+    },
+    "calcBoilVolume": true,
+    "mashWaterMax": 12,
+    "evaporationRate": 0.23195876288659795,
+    "fermenterLossEstimate": 0,
+    "brewhouseEfficiency": 71.8,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "postBoilKettleVol": 5.958333333333333,
+    "waterCalculation": "Default",
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "efficiency": 71.8,
+    "mashEfficiency": 73.3,
+    "boilTime": 60,
+    "_id": "7cnW0WZ4QkAoYoLszsljpXk4uEoc34",
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "batchSize": 5.6,
+    "_timestamp_ms": 1603469797350,
+    "efficiencyType": "Fermenter",
+    "calcStrikeWaterTemperature": true,
+    "hidden": false,
+    "_version": "2.4.8",
+    "aromaHopUtilization": 0.23,
+    "calcMashEfficiency": true,
+    "spargeWaterMin": null,
+    "bottlingVolume": 5,
+    "fermenterVolume": 5.6,
+    "boilSize": 7.76,
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL"
+  },
+  "_ev": 1.1,
+  "yeasts": [
+    {
+      "userNotes": "The Malt Miller (UK) YEA-02-023",
+      "productId": "",
+      "laboratory": "Lallemand (LalBrew)",
+      "name": "Nottingham Yeast",
+      "costPerAmount": 3.5,
+      "form": "Dry",
+      "maxAbv": null,
+      "flocculation": "Very High",
+      "minTemp": 16.7,
+      "maxTemp": 22.2,
+      "_timestamp": {
+        "seconds": 1596390300,
+        "nanoseconds": 907000000
+      },
+      "unit": "pkg",
+      "_created": {
+        "seconds": 1593424835,
+        "nanoseconds": 501000000
+      },
+      "_id": "default-17a637",
+      "_timestamp_ms": 1596390300907,
+      "manufacturingDate": null,
+      "type": "Ale",
+      "description": "",
+      "inventory": 1,
+      "amount": 0.5,
+      "fermentsAll": false,
+      "_version": "2.3.5",
+      "attenuation": 75
+    }
+  ],
+  "tags": null,
+  "styleAbv": true,
+  "styleBuGu": true,
+  "color": 8.9,
+  "name": "Gravey's Brewery - London Bitter",
+  "hops": [
+    {
+      "_timestamp_ms": 1596365951597,
+      "costPerAmount": 0.041,
+      "year": 2019,
+      "origin": "United Kingdom",
+      "_id": "default-c20dd823",
+      "ibu": 22.9,
+      "_created": {
+        "seconds": 1596362629,
+        "nanoseconds": 50000000
+      },
+      "_version": "2.3.4",
+      "amount": 6,
+      "name": "Challenger (T90)",
+      "notes": "Gives a full-bodied rounded bitterness in copper, with crisp fruity straw like later. An excellent all round hop with good alpha and aroma properties. As the main copper hop it provides a refreshing, full bodied, rounded bitterness which provides an excellent platform for a late hop. As the late addition it can give a very crisp, fruity character which has proved very popular in many beers.",
+      "substitutes": "",
+      "use": "Boil",
+      "userNotes": "The Malt Miller (UK) HOP-04-000",
+      "temp": null,
+      "_timestamp": {
+        "seconds": 1596365951,
+        "nanoseconds": 597000000
+      },
+      "type": "Pellet",
+      "alpha": 7.2,
+      "time": 60,
+      "usedIn": "",
+      "usage": "Both",
+      "inventory": 0.1
+    },
+    {
+      "alpha": 4.5,
+      "_version": "2.3.12",
+      "year": 2019,
+      "_created": {
+        "seconds": 1598204233,
+        "nanoseconds": 644000000
+      },
+      "type": "Pellet",
+      "ibu": 4.8,
+      "temp": null,
+      "origin": "United Kingdom",
+      "inventory": 0.1,
+      "userNotes": "The Malt Miller (UK) HOP-04-002",
+      "hidden": false,
+      "usedIn": "",
+      "amount": 2,
+      "use": "Boil",
+      "_id": "default-f80149bd",
+      "notes": "Traditionally used with Golding. The delicate, minty, grassy, slightly floral aroma produces a clean,refreshing, full-bodied flavour present in many traditional ales. Before the advent of dual purpose and high alpha hops Fuggles were used as the main copper hop and were often complimented by an addition of Golding to give a rounded, full-bodied flavour for which English Ales became famous.",
+      "substitutes": "",
+      "time": 60,
+      "usage": "Aroma",
+      "_timestamp_ms": 1598204637265,
+      "name": "Fuggles",
+      "costPerAmount": 0.0365,
+      "_timestamp": {
+        "seconds": 1598204637,
+        "nanoseconds": 265000000
+      }
+    },
+    {
+      "origin": "United Kingdom",
+      "costPerAmount": 0.0395,
+      "substitutes": "",
+      "_timestamp": {
+        "seconds": 1598198300,
+        "nanoseconds": 200000000
+      },
+      "year": 2019,
+      "inventory": 0.1,
+      "userNotes": "The Malt Miller (UK) HOP-04-001",
+      "_timestamp_ms": 1598198300200,
+      "usage": "Both",
+      "_version": "2.3.12",
+      "ibu": 2.6,
+      "use": "Boil",
+      "time": 60,
+      "type": "Pellet",
+      "hidden": false,
+      "usedIn": "",
+      "name": "East Kent Goldings (EKG)",
+      "_id": "default-7f820fa1",
+      "alpha": 5,
+      "amount": 1,
+      "temp": null,
+      "_created": {
+        "seconds": 1598198300,
+        "nanoseconds": 203000000
+      },
+      "notes": "Traditional English aroma variety, smooth almost sweet ,delicate and slightly spicy. Valued for its smooth slightly spicy aroma that produces the classic Golding finish. As with Fuggles it forms the basis of many well-known and respected recipes."
+    }
+  ],
+  "boilSize": 7.76,
+  "water": {
+    "enableSpargeAdjustments": false,
+    "spargeAdjustments": {
+      "volume": 5.93,
+      "acids": [
+        {
+          "concentration": 80,
+          "type": "lactic",
+          "amount": 0
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "sourceTargetDiff": {
+      "calcium": -11,
+      "magnesium": -1,
+      "sodium": 60.8,
+      "chloride": -9.6,
+      "sulfate": -21,
+      "bicarbonate": 52,
+      "bicarbonateMeqL": 0.8522354792185657,
+      "cations": 2.014,
+      "anions": 0.144,
+      "ionBalance": 43,
+      "ionBalanceOff": true,
+      "soClRatio": 2.19,
+      "hardness": -32,
+      "alkalinity": 42.612,
+      "residualAlkalinity": 51.0572,
+      "residualAlkalinityMeqLCalc": 1.06298
+    },
+    "mashPhDistilled": 5.57,
+    "sparge": {
+      "_version": "2.3.12",
+      "_timestamp": {
+        "seconds": 1598012682,
+        "nanoseconds": 842000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "anions": 3.833,
+      "bicarbonate": 178,
+      "type": "source",
+      "sulfate": 44,
+      "residualAlkalinity": 111.2869,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "magnesium": 9,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "cations": 5.701,
+      "_timestamp_ms": 1598012682842,
+      "calcium": 41,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "soClRatio": null,
+      "ph": 8.1,
+      "hardness": 139,
+      "alkalinity": 145.8643,
+      "ionBalance": 10,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "hidden": false,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "chloride": 0
+    },
+    "totalTargetDiff": {
+      "calcium": -4.772,
+      "magnesium": 0.12,
+      "sodium": 60.8,
+      "chloride": 1.419,
+      "sulfate": -16.573,
+      "bicarbonate": 52,
+      "bicarbonateMeqL": 0.8522354792185657,
+      "cations": 2.416,
+      "anions": 0.547,
+      "ionBalance": 32,
+      "ionBalanceOff": true,
+      "soClRatio": -11.68,
+      "hardness": -11,
+      "alkalinity": 42.612,
+      "residualAlkalinity": 45.95009,
+      "residualAlkalinityMeqLCalc": 0.93552
+    },
+    "style": "default-27",
+    "mashWaterAmount": null,
+    "settings": {
+      "magnesiumSulfate": {
+        "auto": true,
+        "sparge": false,
+        "mash": true
+      },
+      "sodiumChloride": {
+        "sparge": false,
+        "auto": true,
+        "mash": true
+      },
+      "adjustSparge": true,
+      "calciumCarbonate": {
+        "auto": false,
+        "mash": false,
+        "sparge": false
+      },
+      "calciumHydroxide": {
+        "mash": false,
+        "auto": false,
+        "sparge": false
+      },
+      "magnesiumChloride": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "calciumSulfate": {
+        "mash": false,
+        "sparge": false,
+        "auto": false
+      },
+      "calciumChloride": {
+        "mash": true,
+        "form": "liquid",
+        "auto": true,
+        "sparge": false
+      },
+      "sodiumBicarbonate": {
+        "auto": true,
+        "mash": true,
+        "sparge": false
+      },
+      "sodiumMetabisulfite": {
+        "auto": false,
+        "mash": false,
+        "sparge": false
+      }
+    },
+    "mashPh": 5.43,
+    "total": {
+      "_version": "2.3.12",
+      "_timestamp": {
+        "seconds": 1598012682,
+        "nanoseconds": 842000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "anions": 4.236,
+      "bicarbonate": 178,
+      "type": "source",
+      "sulfate": 48.427,
+      "residualAlkalinity": 106.17979,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "magnesium": 10.12,
+      "residualAlkalinityMeqLCalc": 1.92685,
+      "cations": 6.104,
+      "_timestamp_ms": 1598012682842,
+      "calcium": 47.228,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "soClRatio": 4.39,
+      "ph": 8.1,
+      "hardness": 159,
+      "alkalinity": 145.8643,
+      "ionBalance": 9,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "hidden": false,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "chloride": 11.019
+    },
+    "spargeAcidPhAdjustment": 0,
+    "enableAcidAdjustments": true,
+    "acidPhAdjustment": -0.2647,
+    "mashTargetDiff": {
+      "calcium": 8.097,
+      "magnesium": 2.436,
+      "sodium": 60.8,
+      "chloride": 24.188,
+      "sulfate": -7.425,
+      "bicarbonate": 52,
+      "bicarbonateMeqL": 0.8522354792185657,
+      "cations": 3.249,
+      "anions": 1.38,
+      "ionBalance": 20,
+      "ionBalanceOff": true,
+      "soClRatio": -0.31,
+      "hardness": 30,
+      "alkalinity": 42.612,
+      "residualAlkalinity": 35.39619,
+      "residualAlkalinityMeqLCalc": 0.67213
+    },
+    "mashAdjustments": {
+      "sodiumChloride": null,
+      "ltAMS": 0,
+      "magnesium": 3.436,
+      "calcium": 19.097,
+      "acids": [
+        {
+          "concentration": 80,
+          "type": "lactic",
+          "alkalinityMeqL": -3.349452715306373,
+          "amount": 0.7
+        }
+      ],
+      "calciumChloride": 0.46,
+      "sodium": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calciumHydroxide": 0,
+      "sodiumBicarbonate": null,
+      "volume": 2.87,
+      "calciumSulfate": 0,
+      "ltDWB": 0,
+      "chloride": 33.788,
+      "magnesiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "sulfate": 13.575,
+      "bicarbonate": 0,
+      "magnesiumSulfate": 0.1,
+      "calciumCarbonate": 0
+    },
+    "dilutionPercentage": null,
+    "totalAdjustments": {
+      "sodiumChloride": null,
+      "ltAMS": 0,
+      "magnesium": 1.12,
+      "calcium": 6.228,
+      "acids": [
+        {
+          "concentration": 80,
+          "type": "lactic",
+          "alkalinityMeqL": -3.349452715306373,
+          "amount": 0.7
+        }
+      ],
+      "calciumChloride": 0.46,
+      "sodium": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calciumHydroxide": 0,
+      "sodiumBicarbonate": null,
+      "volume": 8.8,
+      "calciumSulfate": 0,
+      "ltDWB": 0,
+      "chloride": 11.019,
+      "magnesiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "sulfate": 4.427,
+      "bicarbonate": 0,
+      "magnesiumSulfate": 0.1,
+      "calciumCarbonate": 0
+    },
+    "target": {
+      "anions": 3.689,
+      "soClRatio": 6.77,
+      "residualAlkalinity": 60.2297,
+      "sulfate": 65,
+      "bicarbonate": 126,
+      "magnesium": 10,
+      "type": "target",
+      "_timestamp_ms": 1597943538262,
+      "name": "English Ale",
+      "hidden": false,
+      "_timestamp": {
+        "seconds": 1597943538,
+        "nanoseconds": 262000000
+      },
+      "ionBalance": 0,
+      "bicarbonateMeqL": 2.065032122721909,
+      "residualAlkalinityMeqLCalc": 0.99133,
+      "ionBalanceOff": false,
+      "chloride": 9.6,
+      "_id": "default-englishale",
+      "_version": "2.3.12",
+      "calcium": 52,
+      "_created": {
+        "seconds": 1593983988,
+        "nanoseconds": 351000000
+      },
+      "alkalinity": 103.2523,
+      "cations": 3.688,
+      "hardness": 171,
+      "sodium": 6.2
+    },
+    "mash": {
+      "_version": "2.3.12",
+      "_timestamp": {
+        "seconds": 1598012682,
+        "nanoseconds": 842000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "anions": 5.069,
+      "bicarbonate": 178,
+      "type": "source",
+      "sulfate": 57.575,
+      "residualAlkalinity": 95.62589,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "magnesium": 12.436,
+      "residualAlkalinityMeqLCalc": 1.66346,
+      "cations": 6.937,
+      "_timestamp_ms": 1598012682842,
+      "calcium": 60.097,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "soClRatio": 1.7,
+      "ph": 8.1,
+      "hardness": 201,
+      "alkalinity": 145.8643,
+      "ionBalance": 8,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "hidden": false,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "chloride": 33.788
+    },
+    "meta": {
+      "equalSourceTotal": false
+    },
+    "diluted": null,
+    "spargeTargetDiff": {
+      "calcium": -11,
+      "magnesium": -1,
+      "sodium": 60.8,
+      "chloride": -9.6,
+      "sulfate": -21,
+      "bicarbonate": 52,
+      "bicarbonateMeqL": 0.8522354792185657,
+      "cations": 2.014,
+      "anions": 0.144,
+      "ionBalance": 43,
+      "ionBalanceOff": true,
+      "soClRatio": 2.19,
+      "hardness": -32,
+      "alkalinity": 42.612,
+      "residualAlkalinity": 51.0572,
+      "residualAlkalinityMeqLCalc": 1.06298
+    },
+    "spargeWaterAmount": null,
+    "source": {
+      "_version": "2.3.12",
+      "_timestamp": {
+        "seconds": 1598012682,
+        "nanoseconds": 842000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "anions": 3.833,
+      "bicarbonate": 178,
+      "type": "source",
+      "sulfate": 44,
+      "residualAlkalinity": 111.2869,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "magnesium": 9,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "cations": 5.701,
+      "_timestamp_ms": 1598012682842,
+      "calcium": 41,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "soClRatio": null,
+      "ph": 8.1,
+      "hardness": 139,
+      "alkalinity": 145.8643,
+      "ionBalance": 10,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "hidden": false,
+      "bicarbonateMeqL": 2.9172676019404746
+    }
+  },
+  "boilTime": 60,
+  "efficiency": 71.8,
+  "hopsTotalAmount": 9,
+  "carbonationStyle": {
+    "carbMax": 2.5,
+    "carbMin": 1.6,
+    "name": "Ordinary Bitter",
+    "_id": "11A"
+  },
+  "avgWeightedHopstandTemp": 80,
+  "styleConformity": true,
+  "teaser": "A London bitter recipe from the Greg Hughes Home Brew Beer book",
+  "styleIbu": true,
+  "ibuFormula": "tinseth",
+  "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/yh3wABdYBSYw1dxagfmSLwrMX8AH0o/yh3wABdYBSYw1dxagfmSLwrMX8AH0o.jpeg",
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "batchSize": 5.6,
+  "diastaticPower": 0,
+  "style": {
+    "type": "Amber Ale",
+    "abvMin": 3.2,
+    "name": "Ordinary Bitter",
+    "ibuMin": 25,
+    "abvMax": 3.8,
+    "ibuMax": 35,
+    "fgMax": 1.011,
+    "categoryNumber": "11",
+    "styleGuide": "BJCP 2015",
+    "ogMax": 1.039,
+    "buGuMax": 1.01,
+    "styleLetter": "A",
+    "carbonationStyle": "11A",
+    "colorMin": 8,
+    "lovibondMin": 8,
+    "ogMin": 1.03,
+    "category": "British Bitter",
+    "_id": "default-34",
+    "rbrMin": 0.7,
+    "fgMin": 1.007,
+    "colorMax": 14,
+    "lovibondMax": 14,
+    "buGuMin": 0.72,
+    "rbrMax": 0.98
+  },
+  "notes": "Target: ABV = 4.9 %, IBU = 25.\nMalt is ordered with standard crush @ The Malt Miller (https://www.themaltmiller.co.uk/).",
+  "totalGravity": 1.038816704,
+  "mash": {
+    "_created": {
+      "seconds": 1592329902,
+      "nanoseconds": 204000000
+    },
+    "_version": "2.3.0",
+    "_timestamp_ms": 1594912240922,
+    "_timestamp": {
+      "seconds": 1594912240,
+      "nanoseconds": 922000000
+    },
+    "steps": [
+      {
+        "displayStepTemp": 67,
+        "type": "Temperature",
+        "stepTime": 60,
+        "stepTemp": 67,
+        "rampTime": null
+      }
+    ],
+    "_id": "6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2",
+    "name": "01 One Step Mash (60 min)"
+  },
+  "data": {
+    "mashFermentablesAmount": 0.956,
+    "allDiastaticPower": false,
+    "totalDiastaticPower": 0,
+    "mashFermentables": [
+      {
+        "usedIn": "",
+        "origin": "Germany",
+        "hidden": false,
+        "color": 3.0456853,
+        "notes": "BEST Pale Ale deepens the light “golden” color of top-fermented beers, creating a pleasant flavor. It forms an excellent enzyme-rich foundation for intensive colored beer styles. It is an excellent base malt for brewing many different styles of British Pale Ale as well as for brewing Kölsch beer.",
+        "name": "Pale Ale Malt",
+        "diastaticPower": null,
+        "protein": null,
+        "ibuPerAmount": null,
+        "_created": {
+          "seconds": 1598204480,
+          "nanoseconds": 639000000
+        },
+        "_version": "2.3.12",
+        "amount": 0.87,
+        "type": "Grain",
+        "_id": "default-592f3ac",
+        "supplier": "BestMalz",
+        "attenuation": 0.81,
+        "potentialPercentage": 82.8,
+        "notFermentable": false,
+        "_timestamp": {
+          "seconds": 1598204480,
+          "nanoseconds": 639000000
+        },
+        "_timestamp_ms": 1598204480639,
+        "inventory": 0.001,
+        "grainCategory": "Base",
+        "percentage": 91,
+        "moisture": null,
+        "substitutes": "",
+        "userNotes": "The Malt Miller (UK) MAL-00-010",
+        "costPerAmount": 1.9,
+        "potential": 1.038088
+      },
+      {
+        "costPerAmount": 1.84,
+        "grainCategory": "Crystal/Caramel",
+        "lovibond": 56.8,
+        "notes": "Adjunct 5% – 10% of grist.\nMain Characteristics -Toffee caramel flavour.",
+        "type": "Grain",
+        "amount": 0.086,
+        "notFermentable": false,
+        "moisture": null,
+        "name": "Crystal Malt",
+        "_version": "2.3.5",
+        "ibuPerAmount": null,
+        "protein": null,
+        "diastaticPower": null,
+        "_created": {
+          "seconds": 1595685546,
+          "nanoseconds": 23000000
+        },
+        "potentialPercentage": 76,
+        "usedIn": "",
+        "userNotes": "The Malt Miller (UK) MAL-01-008",
+        "_id": "default-9916a40",
+        "_timestamp": {
+          "seconds": 1596871020,
+          "nanoseconds": 13000000
+        },
+        "substitutes": "",
+        "color": 76.142132,
+        "inventory": 0.001,
+        "attenuation": null,
+        "_timestamp_ms": 1596871020013,
+        "potential": 1.035,
+        "origin": "UK",
+        "supplier": "Crisp",
+        "percentage": 9
+      }
+    ],
+    "otherFermentablesAmount": 0,
+    "otherFermentables": [],
+    "mashWaterAmount": 2.87,
+    "spargeWaterAmount": 5.93,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 5.93,
+    "totalWaterAmount": 8.8,
+    "hopsAmount": 9,
+    "strikeTemp": 73.3,
+    "mashVolume": 3.51052
+  },
+  "styleColor": true,
+  "abv": 3.81,
+  "fermentables": [
+    {
+      "usedIn": "",
+      "origin": "Germany",
+      "hidden": false,
+      "color": 3.0456853,
+      "notes": "BEST Pale Ale deepens the light “golden” color of top-fermented beers, creating a pleasant flavor. It forms an excellent enzyme-rich foundation for intensive colored beer styles. It is an excellent base malt for brewing many different styles of British Pale Ale as well as for brewing Kölsch beer.",
+      "name": "Pale Ale Malt",
+      "diastaticPower": null,
+      "protein": null,
+      "ibuPerAmount": null,
+      "_created": {
+        "seconds": 1598204480,
+        "nanoseconds": 639000000
+      },
+      "_version": "2.3.12",
+      "amount": 0.87,
+      "type": "Grain",
+      "_id": "default-592f3ac",
+      "supplier": "BestMalz",
+      "attenuation": 0.81,
+      "potentialPercentage": 82.8,
+      "notFermentable": false,
+      "_timestamp": {
+        "seconds": 1598204480,
+        "nanoseconds": 639000000
+      },
+      "_timestamp_ms": 1598204480639,
+      "inventory": 0.001,
+      "grainCategory": "Base",
+      "percentage": 91,
+      "moisture": null,
+      "substitutes": "",
+      "userNotes": "The Malt Miller (UK) MAL-00-010",
+      "costPerAmount": 1.9,
+      "potential": 1.038088
+    },
+    {
+      "costPerAmount": 1.84,
+      "grainCategory": "Crystal/Caramel",
+      "lovibond": 56.8,
+      "notes": "Adjunct 5% – 10% of grist.\nMain Characteristics -Toffee caramel flavour.",
+      "type": "Grain",
+      "amount": 0.086,
+      "notFermentable": false,
+      "moisture": null,
+      "name": "Crystal Malt",
+      "_version": "2.3.5",
+      "ibuPerAmount": null,
+      "protein": null,
+      "diastaticPower": null,
+      "_created": {
+        "seconds": 1595685546,
+        "nanoseconds": 23000000
+      },
+      "potentialPercentage": 76,
+      "usedIn": "",
+      "userNotes": "The Malt Miller (UK) MAL-01-008",
+      "_id": "default-9916a40",
+      "_timestamp": {
+        "seconds": 1596871020,
+        "nanoseconds": 13000000
+      },
+      "substitutes": "",
+      "color": 76.142132,
+      "inventory": 0.001,
+      "attenuation": null,
+      "_timestamp_ms": 1596871020013,
+      "potential": 1.035,
+      "origin": "UK",
+      "supplier": "Crisp",
+      "percentage": 9
+    }
+  ],
+  "fermentablesTotalAmount": 0.956,
+  "carbonation": 2.4,
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "fermentation": {
+    "name": "Ale",
+    "steps": [
+      {
+        "stepTime": 14,
+        "type": "Primary",
+        "stepTemp": 20
+      }
+    ],
+    "_id": "default"
+  },
+  "ogPlato": 9.7,
+  "styleFg": true,
+  "_created": {
+    "seconds": 1598204036,
+    "nanoseconds": 173000000
+  },
+  "buGuRatio": 0.78,
+  "fgFormula": "normal",
+  "styleCarb": true,
+  "yeastToleranceExceededBy": null,
+  "_timestamp": "2021-05-08T20:00:24.171Z",
+  "fermentableIbu": 0,
+  "extraGravity": 0,
+  "_type": "recipe",
+  "mashEfficiency": 73.3,
+  "styleOg": true,
+  "type": "All Grain",
+  "styleRbr": true,
+  "og": 1.038816704,
+  "miscs": [
+    {
+      "waterAdjustment": true,
+      "_timestamp_ms": 1596226482115,
+      "inventory": 100,
+      "name": "Calcium Chloride (CaCl2) 33 %",
+      "type": "Water Agent",
+      "use": "Mash",
+      "concentration": 33,
+      "amount": 0.46,
+      "costPerAmount": 0.026,
+      "_version": "2.3.4",
+      "_timestamp": {
+        "seconds": 1596226482,
+        "nanoseconds": 115000000
+      },
+      "_created": {
+        "seconds": 1591700262,
+        "nanoseconds": 104000000
+      },
+      "amountPerL": null,
+      "_id": "default-3b1827",
+      "userNotes": "Brouwstore (NL) 055.035.0\n\n",
+      "substitutes": "",
+      "notes": "Density 1.335 kg/L",
+      "time": null,
+      "timeIsDays": false,
+      "unit": "ml"
+    },
+    {
+      "unit": "g",
+      "waterAdjustment": true,
+      "substitutes": "",
+      "type": "Water Agent",
+      "_created": {
+        "seconds": 1591163786,
+        "nanoseconds": 273000000
+      },
+      "amountPerL": null,
+      "amount": 0.1,
+      "_timestamp": {
+        "seconds": 1596226628,
+        "nanoseconds": 989000000
+      },
+      "time": null,
+      "name": "Epsom Salt (MgSO4)",
+      "costPerAmount": 0.0205,
+      "_version": "2.3.4",
+      "inventory": 100,
+      "notes": "",
+      "use": "Mash",
+      "userNotes": "Brouwstore (NL) 055.027.7",
+      "timeIsDays": false,
+      "_timestamp_ms": 1596226628989,
+      "_id": "default-4e9d62"
+    },
+    {
+      "_timestamp": {
+        "seconds": 1596226859,
+        "nanoseconds": 631000000
+      },
+      "_version": "2.3.4",
+      "substitutes": "",
+      "concentration": 80,
+      "unit": "ml",
+      "name": "Lactic Acid 80%",
+      "inventory": 100,
+      "timeIsDays": false,
+      "_id": "default-07adb1",
+      "type": "Water Agent",
+      "use": "Mash",
+      "notes": "",
+      "userNotes": "Brouwstore (NL) 003.002.3",
+      "amount": 0.7,
+      "costPerAmount": 0.035,
+      "amountPerL": null,
+      "_timestamp_ms": 1596226859631,
+      "waterAdjustment": true,
+      "time": null,
+      "_created": {
+        "seconds": 1593887035,
+        "nanoseconds": 410000000
+      }
+    },
+    {
+      "inventory": 15,
+      "_id": "oYnlpgCXfleOJsh6lgnGaajdDcWylQ",
+      "type": "Other",
+      "time": 60,
+      "_created": {
+        "seconds": 1593885485,
+        "nanoseconds": 290000000
+      },
+      "_timestamp": {
+        "seconds": 1596226892,
+        "nanoseconds": 934000000
+      },
+      "costPerAmount": 0.2,
+      "_version": "2.3.4",
+      "notes": "",
+      "name": "Lipohop K",
+      "_timestamp_ms": 1596226892934,
+      "use": "Boil",
+      "amount": 0.15,
+      "unit": "g",
+      "substitutes": "",
+      "userNotes": "The Malt Miller (UK) CH-03-013",
+      "amountPerL": 0.03
+    },
+    {
+      "costPerAmount": 0.00445,
+      "type": "Fining",
+      "_id": "default-5adf6e",
+      "_version": "2.3.4",
+      "name": "Irish Moss",
+      "_timestamp": {
+        "seconds": 1596226833,
+        "nanoseconds": 821000000
+      },
+      "unit": "g",
+      "timeIsDays": false,
+      "amount": 1,
+      "notes": "",
+      "_timestamp_ms": 1596226833821,
+      "time": 10,
+      "use": "Boil",
+      "userNotes": "Brouwstore (NL) 125.249.1",
+      "_created": {
+        "seconds": 1592652066,
+        "nanoseconds": 261000000
+      },
+      "substitutes": "",
+      "amountPerL": 0.2,
+      "inventory": 100
+    },
+    {
+      "costPerAmount": 0.5495,
+      "_timestamp": {
+        "seconds": 1597777710,
+        "nanoseconds": 950000000
+      },
+      "name": "Wort Chiller",
+      "use": "Boil",
+      "_version": "2.3.12",
+      "notes": "",
+      "_id": "j5Wgp9yHbnuLdRtAX0djJN6uWQpJ0F",
+      "substitutes": "",
+      "unit": "items",
+      "amountPerL": 0,
+      "inventory": 0,
+      "_created": {
+        "seconds": 1596225227,
+        "nanoseconds": 95000000
+      },
+      "hidden": false,
+      "amount": 1,
+      "userNotes": "Brouwstore (NL) 057.020.20",
+      "time": 10,
+      "type": "Other",
+      "_timestamp_ms": 1597777710950
+    },
+    {
+      "_version": "2.3.12",
+      "substitutes": "",
+      "use": "Bottling",
+      "type": "Other",
+      "amount": 15,
+      "amountPerL": 3,
+      "hidden": false,
+      "_timestamp_ms": 1598182194411,
+      "_timestamp": {
+        "seconds": 1598182194,
+        "nanoseconds": 411000000
+      },
+      "_id": "PPrvXTYJNeXNRwSwkecHJuUsWwFODg",
+      "name": "Steinie bottle 33 cl (swing-top)",
+      "unit": "items",
+      "inventory": -26,
+      "time": null,
+      "notes": "",
+      "_created": {
+        "seconds": 1598179006,
+        "nanoseconds": 728000000
+      },
+      "userNotes": "Brouwstore (NL) 017.500.0"
+    }
+  ],
+  "author": "Gravey's Brewery / Greg Hughes",
+  "sumDryHopPerLiter": 0,
+  "rbRatio": 0.76,
+  "hidden": false,
+  "_timestamp_ms": 1620504024171,
+  "_init": true,
+  "postBoilGravity": 1.038816704,
+  "path": "",
+  "primaryTemp": 20,
+  "firstWortGravity": null,
+  "thumb": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABIAEgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcFBggEAQP/xAA3EAACAQMEAQIEBQIDCQAAAAABAgMEBREABhIhMRNBByJRYQgUcYGRIzIVFkIkUlOCobLBwtH/xAAaAQACAwEBAAAAAAAAAAAAAAADBAACBQEG/8QAKxEAAgICAQMDAAsAAAAAAAAAAQIAAwQRIRIxQQUTURQiQmFxkaGx4fDx/9oADAMBAAIRAxEAPwDVOjRrku1xpbTbKm4XCZYaSmjMkkjeFUakk8u9zorPQS1t0qoqWkiGXllbAH/0/bSpq/jBVXesem2VZlqlUkfmq6X0kOAW6Qd+ASMkE48aXO791Hc7ncO5A4tSsRabV3wkXOGZ2HQkx332vy9EdFeVt6u24q+UUSl3aMBkj8uieOv9R+Y/ycADrS9lh8RN7mY6SOuh+Jm8q2nSqp5rA3KMSfl2ikVu2K8fPbZU+PbGpuzfGn8vUPBu60NRxRzNTtX0ZMsHNTg5BHLHR7GdZgBrndVDSPITx4quTn6Yx+2pezbmuNmkanqMtTnnHLA48BunAyDwYjIyP40JHYeYJbXHO5uS3V1LcqKGst9RFU0sy8o5YmDKw+x106y3sjd/+UJIr3aGeXblTIBdLcqkJSOx6MWT2wGDgZyOzjIxp6iqoK6jhqqSVZqeZBJHIhyGUjII/bTatuO12BxPto0aNWhIaQv4lt1pDNatuYeSmdlrK6KN+BkjDYSPl3jJDHx7DT4lkSKJ5JXVEQFmZjgAD3J1knflpu++PibuGe2wq8MUojSSVvTQxqAilSf7gSCes+dCtdUXbHUDcHZelBsmUXd18N9vLyLzSmQBIkcKGCAYHLiAC2PJ98D6antp2ZYlpK2nleaOqj4TRBQjFc98HB/vVsMBlWwMgatG2vh1V2tJBdJrQssrAq5/qOex8uHXjjz4Ge/ONT9Ft2AmaVLrbJadDzqVjRcdAlWJUjiynvljPWD1rGycoPtV7RnFwSp637/tKstHFDXSV6xn8zPHhzA2PmB+ZUHnlIeIx7An7HVTvm3jHS1txq6iCKRSXZIELRhmbAUOPlznPQzgDvvrTRa3W6jqedTuC2rK3F2Vm4ZDdkj5ug/RJH7edfOSz0FU6ML3ZGZB/RGFIiGfCKxIH06Gl0tZDsRq3FWwa1/fmJ/bF7NlrZFYGalmjaKWNQpZkI7ClgQpI65AZAJ1ob8M26RXWu4bekLAULevSK7cmWB2PyZ9+Lf92qJuX4e1VzhVLW1peVXLl8+k6qfCjgoBBGBlgfAx5Ovn8LLddNj/ABTtIu0Qip6mOSKSWN+cYRgcFmHS/Mq+ca18fKSzXPMymxrKHHkfP4zV2jXikMoZSCCMgjRp+MTnukXr2yrh/wCJC6fypGlbTuZKjmSTiCPyfrk6bZ8ayv8AEbdd02zuy4WaOLh+W4KkqSsolQqCrFcecHHR9tZvqGO13SV8bhqshKQS51LPvnbdReamlqaSnFRNEjIoZwoRs8lfv6MAeuzjHvqPi2tdKWouM9LR0cb1gljcSTgBlbiQcKvnkM9n+3ryc6XFhrrnuOrrxV3qrhdMSKjTuyAFwD1nPEA+3fjo+1moTYoaNYbobgt1jR0nQliqyh+v245zrONb1/U2OJ18/pUOF4PncsX+UKiRKI1FPRM1KkqIpqeXynPprnhjrmTnHXFetFq2SUNqhuFtpJYKd5TKwlDEhlIBI4jJzg9YA/bOo31dr8vFZx9Vh4OPT7wfrn+3I/XUTcjaqiOOmsorWuMvpInzsq8zn1Ovp4x+p+mqDrP2h+cEvqgJ0F/X+Jdtrbemtm4aipa3ilp/SdFb1FOcsuAADkjinlvHX31ZajJqJEUn+rAU6Pk8sf8AtpCXi53LbVyoRS3iqqSyeq6GeQIQSwHWc4IAPff6avnwk3Rcd0b1obZPDyj4tNLK8rPwRCGOBj3IUdk+dFXEstIccgxn6agJR+G+P8mm0UIoVegBgaNe6NehikNZ5/FDthxNbty00eUKijqiB4OSY2P8sv8AGtDa4b7aqS+Wirtlyi9WkqozHIv2PuPoQewfqNcYbGoO1OtSswjba+az3OGvpgpZDhlbwwIwQfsR1pr2i3WneE9DUU80qEDjPxYFmVV6Rh/pYdAH3H6apu/9l1+y75JQV6mWlkJNNU8flnT/AMMPce36Y1Frab7t9qK70cc8AZFqIZl8qrEgZ+gOD03kfXWXk4/ucg6Ii2Pke0DVau1+I/22jYjB6X+HRgYxzDMH/XlnOqDdKO17ONwlqZZJZSWjhLMAxQgHgo9yc4ZvYA9djUE/xV3Qab0hS0azYx6wgOf1xy4/9NVOotV4uCVd2uKSsuPWlklOGkBYLyGeyMkAkdD7aRowX2fcPEetzcddNSm2H3dpxXGunutynr6rHqSnOAOgPAA+wGBrRH4XdsPTW64bkqYypq/9mps+8anLsPsWwP8Al0pfhnsOu3xfFp4VeG2QMDV1QHSL/ur9XPsPbydbJtlDTWy301DQxLDS08axRRr4VQMAa3KV0OO0RoUu3uNOnRo0aPHYaNGjUkkduCyW7cFtkoLxSR1VK/ZRx4PsQfII+o70mb58FLnRyc9rXhZaUSLMKSvz0UJ4jkAQwGT0QPOjRqjoH7wb1K/eR0uxt/Sgxmz2YMRIvresuRzYMSDnOQVGD5H76mLX8Grndqpaje979WIO0n5ShHEZY5YcyBgEgdAfpjRo1RaVEoMdR35jistpoLJboqC00sVLSRDCxxjAH3+5+57Ou7Ro0aH7Q0aNGpJP/9k=",
+  "ibu": 30.3,
+  "searchTags": [
+    "Ordinary Bitter",
+    "BestMalz Pale Ale Malt",
+    "Crisp Crystal Malt",
+    "Challenger",
+    "Fuggles",
+    "East Kent Goldings",
+    "Lallemand Nottingham"
+  ],
+  "preBoilGravity": 1.03,
+  "fgEstimated": 1.01
+}
