@@ -56,7 +56,10 @@ SRM: 1.5 – 4
 
 ABV: 2.4 – 3.6%
 
-<b>Commercial Examples:</b> Autenrieder Schlossbräu Leicht,
-Greif Bräu Leicht, Hohenthanner Tannen Hell Leicht,
-Müllerbrau Heimer Leicht, Schönramer Surtaler Schankbier,
-Waldhaus Sommer Bier.
+<b>Commercial Examples:</b>
+- Autenrieder Schlossbräu Leicht,
+- Greif Bräu Leicht,
+- Hohenthanner Tannen Hell Leicht,
+- Müllerbrau Heimer Leicht,
+- Schönramer Surtaler Schankbier,
+- Waldhaus Sommer Bier.
