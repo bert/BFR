@@ -69,7 +69,11 @@ SRM: 17 – 35
 
 ABV: 4.4 – 5.8%
 
-<b>Commercial Examples:</b> Bernard černý ležák 12°, Budvar
-tmavý ležák, Herold lmavé silné pivo 13°, Kozel Dark,
-Krušovice černé, Primátor dark lager, U Fleků Flekovský
-tmavý ležák 13°.
+<b>Commercial Examples:</b>
+- Bernard černý ležák 12°,
+- Budvar tmavý ležák,
+- Herold lmavé silné pivo 13°,
+- Kozel Dark,
+- Krušovice černé,
+- Primátor dark lager,
+- U Fleků Flekovský tmavý ležák 13°.
