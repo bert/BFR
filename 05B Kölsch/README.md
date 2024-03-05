@@ -72,6 +72,11 @@ SRM: 3.5 – 5
 
 ABV: 4.4 – 5.2%
 
-<b>Commercial Examples:</b> Früh Kölsch, Gaffel Kölsch, Mühlen
-Kölsch, Päffgen Kolsch, Reissdorf Kölsch, Sion Kölsch, Sünner
-Kölsch.
+<b>Commercial Examples:</b>
+- Früh Kölsch,
+- Gaffel Kölsch,
+- Mühlen Kölsch,
+- Päffgen Kolsch,
+- Reissdorf Kölsch,
+- Sion Kölsch,
+- Sünner Kölsch.
