@@ -75,7 +75,11 @@ SRM: 3.5 – 6
 
 ABV: 4.2 – 5.8%
 
-<b>Commercial Examples:</b> Bernard světlé ležák 12°, Budvar 33
-světlý ležák, Pilsner Urquell, Pivovar Jihlava Ježek 11%,
-Primátor Premium lager, Radegast Ryze hořká 12, Únětická
-pivo 12°.
+<b>Commercial Examples:</b>
+- Bernard světlé ležák 12°,
+- Budvar 33 světlý ležák,
+- Pilsner Urquell,
+- Pivovar Jihlava Ježek 11%,
+- Primátor Premium lager,
+- Radegast Ryze hořká 12,
+- Únětická pivo 12°.
