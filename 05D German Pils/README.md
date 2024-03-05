@@ -69,6 +69,12 @@ SRM: 2 – 4
 
 ABV: 4.4 – 5.2%
 
-<b>Commercial Examples:</b> ABK Pils Anno 1907, Jever
-Pilsener, König Pilsener, Paulaner Pils, Bierstadt Slow-Pour
-Pils, Rothaus Pils, Schönramer Pils, Trumer Pils.
+<b>Commercial Examples:</b>
+- ABK Pils Anno 1907,
+- Jever Pilsener,
+- König Pilsener,
+- Paulaner Pils,
+- Bierstadt Slow-Pour Pils,
+- Rothaus Pils,
+- Schönramer Pils,
+- Trumer Pils.
