@@ -73,7 +73,10 @@ SRM: 2 – 6
 
 ABV: 4.3 – 5.6%
 
-<b>Commercial Examples:</b> Ayinger Bräuweisse, Distelhäuser
-Hell Weizen, Hacker-Pschorr Hefeweißbier, Hofbräuhaus
-Münchner Weisse, Schneider Weisse Original Weissbier,
-Weihenstephaner Hefeweißbier.
+<b>Commercial Examples:</b>
+- Ayinger Bräuweisse,
+- Distelhäuser Hell Weizen,
+- Hacker-Pschorr Hefeweißbier,
+- Hofbräuhaus Münchner Weisse,
+- Schneider Weisse Original Weissbier,
+- Weihenstephaner Hefeweißbier.
