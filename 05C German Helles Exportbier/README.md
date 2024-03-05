@@ -64,7 +64,10 @@ SRM: 4 – 6
 
 ABV: 5.0 – 6.0%
 
-<b>Commercial Examples:</b> Chuckanut Export Dortmunder
-Lager, DAB Dortmunder Export, Dortmunder Kronen,
-Landshuter Edel Hell, Müllerbräu Export Gold, Schönramer
-Gold.
+<b>Commercial Examples:</b>
+- Chuckanut Export Dortmunder Lager,
+- DAB Dortmunder Export,
+- Dortmunder Kronen,
+- Landshuter Edel Hell,
+- Müllerbräu Export Gold,
+- Schönramer Gold.
