@@ -64,6 +64,12 @@ SRM: 2 – 6
 
 ABV: 4.5 – 6.0%
 
-<b>Commercial Examples:</b> Asahi Super Dry, Birra Moretti,
-Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail
-Session Premium Lager, Heineken, Red Stripe, Singha.
+<b>Commercial Examples:</b>
+- Asahi Super Dry,
+- Birra Moretti,
+- Corona Extra,
+- Devils Backbone Gold Leaf Lager,
+- Full Sail Session Premium Lager,
+- Heineken,
+- Red Stripe,
+- Singha.
