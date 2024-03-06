@@ -1,0 +1,888 @@
+{
+  "ibuFormula": "tinseth",
+  "_public": false,
+  "styleCarb": true,
+  "rbRatio": 0.76,
+  "hops": [
+    {
+      "_timestamp": {
+        "seconds": 1598880188,
+        "nanoseconds": 837000000
+      },
+      "inventory": 0,
+      "alpha": 7.5,
+      "_created": {
+        "seconds": 1598441631,
+        "nanoseconds": 808000000
+      },
+      "amount": 3.8,
+      "_version": "2.3.14",
+      "notes": "An excellent high alpha variety which gives good bitterness. Tends to be too harsh for aroma purposes late in the boil but has produced very good results when used as a dry hop in the cask.",
+      "origin": "United Kingdom",
+      "hidden": false,
+      "name": "Target (T90)",
+      "manufacturingDate": null,
+      "bestBeforeDate": null,
+      "temp": null,
+      "substitutes": "",
+      "use": "Boil",
+      "time": 30,
+      "costPerAmount": 0.0375,
+      "ibu": 14.9,
+      "userNotes": "The Malt Miller (UK) HOP-04-003",
+      "usedIn": "",
+      "_id": "default-b8b9fdba",
+      "_timestamp_ms": 1598880188837,
+      "_editFlag": true,
+      "type": "Pellet",
+      "year": 2019,
+      "usage": "Bittering"
+    },
+    {
+      "temp": null,
+      "bestBeforeDate": null,
+      "amount": 2,
+      "_created": {
+        "seconds": 1596362629,
+        "nanoseconds": 50000000
+      },
+      "_timestamp_ms": 1598879983326,
+      "userNotes": "The Malt Miller (UK) HOP-04-000",
+      "_timestamp": {
+        "seconds": 1598879983,
+        "nanoseconds": 326000000
+      },
+      "_id": "default-c20dd823",
+      "name": "Challenger (T90)",
+      "type": "Pellet",
+      "manufacturingDate": null,
+      "hidden": false,
+      "substitutes": "",
+      "ibu": 7.5,
+      "usedIn": "",
+      "use": "Boil",
+      "year": 2019,
+      "costPerAmount": 0.041,
+      "origin": "United Kingdom",
+      "inventory": 0,
+      "usage": "Both",
+      "_version": "2.3.14",
+      "alpha": 7.2,
+      "notes": "Gives a full-bodied rounded bitterness in copper, with crisp fruity straw like later. An excellent all round hop with good alpha and aroma properties. As the main copper hop it provides a refreshing, full bodied, rounded bitterness which provides an excellent platform for a late hop. As the late addition it can give a very crisp, fruity character which has proved very popular in many beers.",
+      "_editFlag": true,
+      "time": 30
+    },
+    {
+      "ibu": 7.7,
+      "inventory": null,
+      "hidden": false,
+      "substitutes": "",
+      "temp": null,
+      "bestBeforeDate": null,
+      "notes": "Dual purpose with Challenger type aroma but richer flavour. An excellent all round hop in the dual-purpose bracket with good alpha and aroma properties. Very popular used either on its own or in conjunction with an aroma variety. A slightly richer flavour than Challenger although quite similar in many other ways.",
+      "name": "Northdown (T90)",
+      "userNotes": "The Malt Miller (UK) HOP-04-005",
+      "alpha": 7.4,
+      "_editFlag": true,
+      "amount": 2,
+      "_timestamp": {
+        "seconds": 1610235766,
+        "nanoseconds": 979000000
+      },
+      "manufacturingDate": null,
+      "_timestamp_ms": 1610235766979,
+      "usedIn": "",
+      "type": "Pellet",
+      "_parent": "default-dd3c5876",
+      "costPerAmount": 0.037,
+      "use": "Boil",
+      "year": 2019,
+      "origin": "United Kingdom",
+      "usage": "Both",
+      "time": 30,
+      "_version": "2.5.2",
+      "_id": "h9DlUVCOBFo9Xt3fv3b13lWz08ahvl",
+      "_created": {
+        "seconds": 1610235631,
+        "nanoseconds": 500000000
+      }
+    },
+    {
+      "usedIn": "",
+      "usage": "Both",
+      "manufacturingDate": null,
+      "temp": null,
+      "use": "Boil",
+      "notes": "Traditional English aroma variety, smooth almost sweet ,delicate and slightly spicy. Valued for its smooth slightly spicy aroma that produces the classic Golding finish. As with Fuggles it forms the basis of many well-known and respected recipes.",
+      "_id": "default-7f820fa1",
+      "hidden": false,
+      "alpha": 5,
+      "_version": "2.4.10",
+      "origin": "United Kingdom",
+      "substitutes": "",
+      "type": "Pellet",
+      "ibu": 2.5,
+      "year": 2019,
+      "bestBeforeDate": null,
+      "_timestamp_ms": 1605538185508,
+      "inventory": 0,
+      "_timestamp": {
+        "seconds": 1605538185,
+        "nanoseconds": 508000000
+      },
+      "userNotes": "The Malt Miller (UK) HOP-04-001",
+      "costPerAmount": 0.0395,
+      "_created": {
+        "seconds": 1598198300,
+        "nanoseconds": 203000000
+      },
+      "time": 10,
+      "name": "East Kent Goldings (EKG)",
+      "amount": 2,
+      "_editFlag": true
+    }
+  ],
+  "water": {
+    "totalTargetDiff": null,
+    "settings": {
+      "calciumHydroxide": {
+        "mash": false,
+        "auto": false,
+        "sparge": false
+      },
+      "magnesiumChloride": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "calciumChloride": {
+        "form": "liquid",
+        "auto": true,
+        "mash": true,
+        "sparge": true
+      },
+      "calciumSulfate": {
+        "sparge": true,
+        "auto": true,
+        "mash": true
+      },
+      "adjustSparge": false,
+      "sodiumMetabisulfite": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      },
+      "sodiumChloride": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      },
+      "magnesiumSulfate": {
+        "sparge": true,
+        "mash": true,
+        "auto": true
+      },
+      "sodiumBicarbonate": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      },
+      "calciumCarbonate": {
+        "sparge": true,
+        "auto": true,
+        "mash": true
+      }
+    },
+    "mashAdjustments": {
+      "volume": 0.26,
+      "sulfate": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "calciumChloride": 0,
+      "calcium": 0,
+      "acids": [
+        {
+          "type": "lactic",
+          "amount": 0,
+          "alkalinityMeqL": 0,
+          "concentration": 80
+        }
+      ],
+      "magnesiumSulfate": 0,
+      "bicarbonate": 0,
+      "chloride": 0,
+      "calciumCarbonate": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "sourceTargetDiff": null,
+    "acidPhAdjustment": 0,
+    "diluted": null,
+    "spargeWaterAmount": null,
+    "enableSpargeAcidAdjustments": true,
+    "spargeAdjustments": {
+      "volume": 7.7,
+      "acids": [
+        {
+          "type": "lactic",
+          "amount": 0,
+          "concentration": 80
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "mashPhDistilled": 4.39,
+    "spargeWaterTargetPh": 6,
+    "totalAdjustments": {
+      "volume": 7.96,
+      "sulfate": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "calciumChloride": 0,
+      "calcium": 0,
+      "acids": [
+        {
+          "type": "lactic",
+          "amount": 0,
+          "alkalinityMeqL": 0,
+          "concentration": 80
+        }
+      ],
+      "magnesiumSulfate": 0,
+      "bicarbonate": 0,
+      "chloride": 0,
+      "calciumCarbonate": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "total": {
+      "bicarbonate": 0,
+      "cations": 0,
+      "magnesium": 0,
+      "sulfate": 0,
+      "hardness": 0,
+      "_timestamp_ms": 1609245633124,
+      "name": "Distilled Water",
+      "alkalinity": 0,
+      "bicarbonateMeqL": 0,
+      "residualAlkalinity": 0,
+      "sodium": 0,
+      "ph": 7,
+      "_created": {
+        "seconds": 1597299768,
+        "nanoseconds": 409000000
+      },
+      "calcium": 0,
+      "type": "source",
+      "anions": 0,
+      "chloride": 0,
+      "_version": "2.5.1",
+      "soClRatio": 0,
+      "ionBalanceOff": false,
+      "hidden": false,
+      "_timestamp": {
+        "seconds": 1609245633,
+        "nanoseconds": 124000000
+      },
+      "_id": "default-distilled",
+      "residualAlkalinityMeqLCalc": 0,
+      "ionBalance": 0
+    },
+    "mash": {
+      "bicarbonate": 0,
+      "cations": 0,
+      "magnesium": 0,
+      "sulfate": 0,
+      "hardness": 0,
+      "_timestamp_ms": 1609245633124,
+      "name": "Distilled Water",
+      "alkalinity": 0,
+      "bicarbonateMeqL": 0,
+      "residualAlkalinity": 0,
+      "sodium": 0,
+      "ph": 7,
+      "_created": {
+        "seconds": 1597299768,
+        "nanoseconds": 409000000
+      },
+      "calcium": 0,
+      "type": "source",
+      "anions": 0,
+      "chloride": 0,
+      "_version": "2.5.1",
+      "soClRatio": 0,
+      "ionBalanceOff": false,
+      "hidden": false,
+      "_timestamp": {
+        "seconds": 1609245633,
+        "nanoseconds": 124000000
+      },
+      "_id": "default-distilled",
+      "residualAlkalinityMeqLCalc": 0,
+      "ionBalance": 0
+    },
+    "dilutionPercentage": null,
+    "enableAcidAdjustments": true,
+    "spargeTargetDiff": null,
+    "target": null,
+    "sparge": {
+      "bicarbonate": 0,
+      "cations": 0,
+      "magnesium": 0,
+      "sulfate": 0,
+      "hardness": 0,
+      "_timestamp_ms": 1609245633124,
+      "name": "Distilled Water",
+      "alkalinity": 0,
+      "bicarbonateMeqL": 0,
+      "residualAlkalinity": 0,
+      "sodium": 0,
+      "ph": 7,
+      "_created": {
+        "seconds": 1597299768,
+        "nanoseconds": 409000000
+      },
+      "calcium": 0,
+      "type": "source",
+      "anions": 0,
+      "chloride": 0,
+      "_version": "2.5.1",
+      "soClRatio": 0,
+      "ionBalanceOff": false,
+      "hidden": false,
+      "_timestamp": {
+        "seconds": 1609245633,
+        "nanoseconds": 124000000
+      },
+      "_id": "default-distilled",
+      "residualAlkalinityMeqLCalc": 0,
+      "ionBalance": 0
+    },
+    "spargeAcidPhAdjustment": -2.0999999999999996,
+    "meta": {
+      "equalSourceTotal": true
+    },
+    "mashWaterAmount": null,
+    "mashTargetDiff": null,
+    "source": {
+      "bicarbonate": 0,
+      "cations": 0,
+      "magnesium": 0,
+      "sulfate": 0,
+      "hardness": 0,
+      "_timestamp_ms": 1609245633124,
+      "name": "Distilled Water",
+      "alkalinity": 0,
+      "bicarbonateMeqL": 0,
+      "residualAlkalinity": 0,
+      "sodium": 0,
+      "ph": 7,
+      "_created": {
+        "seconds": 1597299768,
+        "nanoseconds": 409000000
+      },
+      "calcium": 0,
+      "type": "source",
+      "anions": 0,
+      "chloride": 0,
+      "_version": "2.5.1",
+      "soClRatio": 0,
+      "ionBalanceOff": false,
+      "hidden": false,
+      "_timestamp": {
+        "seconds": 1609245633,
+        "nanoseconds": 124000000
+      },
+      "_id": "default-distilled",
+      "residualAlkalinityMeqLCalc": 0,
+      "ionBalance": 0
+    },
+    "mashPh": 4.39,
+    "style": "default-25",
+    "spargeWaterPh": 8.1,
+    "enableSpargeAdjustments": false
+  },
+  "postBoilGravity": 1.041487015,
+  "tags": null,
+  "fermentation": {
+    "_id": "default",
+    "steps": [
+      {
+        "type": "Primary",
+        "stepTemp": 20,
+        "ramp": null,
+        "displayPressure": null,
+        "pressure": null,
+        "stepTime": 14,
+        "displayStepTemp": 20
+      },
+      {
+        "stepTemp": 20,
+        "displayStepTemp": 20,
+        "ramp": null,
+        "displayPressure": null,
+        "type": "Conditioning",
+        "stepTime": 45,
+        "pressure": null
+      }
+    ],
+    "name": "Ale"
+  },
+  "styleAbv": true,
+  "fermentablesTotalAmount": 0.835,
+  "hopStandMinutes": 0,
+  "abv": 3.94,
+  "_created": {
+    "seconds": 1610233957,
+    "nanoseconds": 161000000
+  },
+  "styleConformity": true,
+  "primaryTemp": 20,
+  "avgWeightedHopstandTemp": 80,
+  "mash": {
+    "name": "01 One Step Mash (30 min)",
+    "_created": {
+      "seconds": 1592329902,
+      "nanoseconds": 204000000
+    },
+    "_timestamp_ms": 1599244924266,
+    "_id": "6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2",
+    "hidden": false,
+    "_version": "2.3.14",
+    "steps": [
+      {
+        "type": "Temperature",
+        "stepTime": 30,
+        "rampTime": null,
+        "displayStepTemp": 66,
+        "stepTemp": 66
+      }
+    ],
+    "_timestamp": {
+      "seconds": 1599244924,
+      "nanoseconds": 266000000
+    }
+  },
+  "_share": null,
+  "nutrition": {
+    "calories": {
+      "alcohol": 22.274780571058642,
+      "carbs": 16.294684854191605,
+      "total": 38.56946542525024,
+      "kJ": 161.37464333924703
+    },
+    "carbs": {
+      "total": 4.124650516943848
+    }
+  },
+  "_type": "recipe",
+  "_timestamp": "2021-05-05T20:52:04.445Z",
+  "hopsTotalAmount": 9.8,
+  "buGuRatio": 0.79,
+  "_id": "Q4iHVVoaTnqcIMTMulPrN1NvnzVcqk",
+  "_timestamp_ms": 1620247924445,
+  "styleFg": true,
+  "fgFormula": "normal",
+  "boilSize": 7.76,
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "color": 8.3,
+  "fermentables": [
+    {
+      "origin": "UK",
+      "potentialPercentage": 75.8,
+      "moisture": null,
+      "type": "Liquid Extract",
+      "_parent": "default-edd3c5d",
+      "color": 2.538071,
+      "notFermentable": false,
+      "name": "Premium Grade Light Liquid Malt Extract",
+      "lovibond": 2.4,
+      "_created": {
+        "seconds": 1610233776,
+        "nanoseconds": 193000000
+      },
+      "_timestamp_ms": 1610233928712,
+      "bestBeforeDate": null,
+      "protein": null,
+      "amount": 0.75,
+      "_version": "2.5.2",
+      "time": 10,
+      "userNotes": "The Malt Miller (UK) EXT-01-010",
+      "ibuPerAmount": null,
+      "hidden": false,
+      "usedIn": "",
+      "notes": "",
+      "percentage": 89.82,
+      "supplier": "Neales Brewing Supplies",
+      "costPerAmount": 4.97,
+      "manufacturingDate": null,
+      "substitutes": "",
+      "potential": 1.035,
+      "diastaticPower": null,
+      "inventory": null,
+      "attenuation": null,
+      "_timestamp": {
+        "seconds": 1610233928,
+        "nanoseconds": 712000000
+      },
+      "_id": "872yg80O2As7yny6sFs7FqlRIWwTsG",
+      "use": "Boil",
+      "grainCategory": null
+    },
+    {
+      "potential": 1.035,
+      "origin": "UK",
+      "amount": 0.085,
+      "_timestamp": {
+        "seconds": 1598879586,
+        "nanoseconds": 471000000
+      },
+      "_timestamp_ms": 1598879586471,
+      "inventory": 0,
+      "lovibond": 56.8,
+      "ibuPerAmount": null,
+      "maxInBatch": 10,
+      "grainCategory": "Crystal/Caramel",
+      "costPerAmount": 1.84,
+      "potentialPercentage": 76,
+      "bestBeforeDate": null,
+      "protein": null,
+      "percentage": 10.18,
+      "usedIn": "",
+      "type": "Grain",
+      "notes": "Adjunct 5% – 10% of grist.\nMain Characteristics -Toffee caramel flavour.",
+      "use": "Mash",
+      "attenuation": null,
+      "supplier": "Crisp",
+      "manufacturingDate": null,
+      "_version": "2.3.14",
+      "_created": {
+        "seconds": 1595685546,
+        "nanoseconds": 23000000
+      },
+      "time": 30,
+      "_id": "default-9916a40",
+      "substitutes": "",
+      "moisture": null,
+      "color": 76.142132,
+      "name": "Crystal Malt",
+      "notFermentable": false,
+      "acid": 0,
+      "coarseFineDiff": 71,
+      "hidden": false,
+      "diastaticPower": null,
+      "userNotes": "The Malt Miller (UK) MAL-01-008"
+    }
+  ],
+  "og": 1.041487015,
+  "yeasts": [
+    {
+      "minTemp": 18,
+      "_version": "2.4.8",
+      "unit": "pkg",
+      "flocculation": "Medium",
+      "name": "Classic English Ale",
+      "inventory": 0.5,
+      "manufacturingDate": null,
+      "amount": 0.3,
+      "lotNumber": "03012001180611V",
+      "fermentsAll": false,
+      "bestBeforeDate": 1635721200000,
+      "type": "Ale",
+      "laboratory": "Neales Brewing Supplies",
+      "maxAttenuation": null,
+      "productId": "",
+      "_created": {
+        "seconds": 1594730702,
+        "nanoseconds": 675000000
+      },
+      "maxAbv": null,
+      "hidden": false,
+      "userNotes": "The Malt Miller (UK) YEA-02-021",
+      "costPerAmount": 2.9,
+      "_timestamp": {
+        "seconds": 1603556964,
+        "nanoseconds": 393000000
+      },
+      "maxTemp": 22,
+      "minAttenuation": null,
+      "_timestamp_ms": 1603556964393,
+      "_id": "JsxcgMiT3zgCO3VgiqAgPzQI3xJAg3",
+      "form": "Dry",
+      "attenuation": 74,
+      "description": "This yeast is best used in Extra Special Bitters and Pale Ales as well as other British styles.\nVacuum packed in foil for freshness.\nEach 12 g sachet is suitable for up to 23 litres of wort.\nBest fermented between 18-22 C for medium attenuation, this will leave some body in the finished product.\nAttenuation 66-74%\nIngredients: Yeast, emulsifier (E491)."
+    }
+  ],
+  "fgEstimated": 1.011,
+  "_origin": null,
+  "firstWortGravity": null,
+  "author": "nic-firth / The Malt Miller",
+  "name": "Fuller's Brewery - London Pride (clone)",
+  "thumb": "data:image/jpeg;base64,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",
+  "ogPlato": 10.4,
+  "path": "",
+  "mashEfficiency": 73.3,
+  "carbonationStyle": {
+    "carbMin": 1.6,
+    "carbMax": 2.5,
+    "name": "Best Bitter",
+    "_id": "11B"
+  },
+  "styleBuGu": true,
+  "efficiency": 71.8,
+  "batchSize": 5.6,
+  "styleOg": true,
+  "boilTime": 60,
+  "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/Q4iHVVoaTnqcIMTMulPrN1NvnzVcqk/Q4iHVVoaTnqcIMTMulPrN1NvnzVcqk.jpeg",
+  "teaser": "",
+  "sumDryHopPerLiter": 0,
+  "styleRbr": true,
+  "_version": "2.7.6",
+  "equipment": {
+    "_meta": {
+      "efficiencyIsCalculated": true,
+      "mashEfficiencyIsCalculated": true
+    },
+    "hidden": false,
+    "_version": "2.4.8",
+    "_id": "7cnW0WZ4QkAoYoLszsljpXk4uEoc34",
+    "waterGrainRatio": 3,
+    "_timestamp": {
+      "seconds": 1603469797,
+      "nanoseconds": 350000000
+    },
+    "boilOffPerHr": 1.8,
+    "calcAromaHopUtilization": true,
+    "spargeWaterMin": null,
+    "waterCalculation": "Default",
+    "spargeWaterOverflow": "Top-Up",
+    "boilSize": 7.76,
+    "brewhouseEfficiency": 71.8,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "fermenterLoss": 0.6,
+    "mashTunDeadSpace": 0,
+    "mashEfficiency": 73.3,
+    "batchSize": 5.6,
+    "postBoilKettleVol": 5.958333333333333,
+    "evaporationRate": 0.23195876288659795,
+    "calcStrikeWaterTemperature": true,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "hopstandTemperature": 80,
+    "mashWaterVolumeLimitEnabled": true,
+    "trubChillerLoss": 0.12,
+    "efficiencyType": "Fermenter",
+    "spargeWaterMax": null,
+    "_timestamp_ms": 1603469797350,
+    "bottlingVolume": 5,
+    "fermenterLossEstimate": 0,
+    "calcMashEfficiency": true,
+    "mashTunLoss": 0.12,
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "mashWaterMax": 12,
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "aromaHopUtilization": 0.23,
+    "name": "01 Brouwpunt 5L (60min) (rev 4)",
+    "boilTime": 60,
+    "hopUtilization": 1,
+    "calcBoilVolume": true,
+    "efficiency": 71.8,
+    "fermenterVolume": 5.6,
+    "grainAbsorptionRate": 0.96
+  },
+  "notes": "Target: ABV = 4 %, IBU = 31, OG = 1.042, FG = 1.011\nPlace the malt grains in a hop sock and soak them in the water for half an hour @ 67 C.\nhttps://www.themaltmiller.co.uk/product/london-pride-mini-mash/\nTweaked the hop bill.\nCorrection in LME for target OG.",
+  "hidden": false,
+  "style": {
+    "styleLetter": "B",
+    "ogMin": 1.04,
+    "name": "Best Bitter",
+    "buGuMax": 0.91,
+    "carbonationStyle": "11B",
+    "ibuMax": 40,
+    "colorMax": 16,
+    "lovibondMax": 16,
+    "styleGuide": "BJCP 2015",
+    "ogMax": 1.048,
+    "_id": "default-35",
+    "lovibondMin": 8,
+    "rbrMin": 0.57,
+    "ibuMin": 25,
+    "category": "British Bitter",
+    "type": "Amber Ale",
+    "abvMax": 4.6,
+    "rbrMax": 0.91,
+    "buGuMin": 0.57,
+    "abvMin": 3.8,
+    "fgMin": 1.008,
+    "categoryNumber": "11",
+    "colorMin": 8,
+    "fgMax": 1.012
+  },
+  "miscs": [],
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "_init": true,
+  "carbonation": 2,
+  "styleColor": true,
+  "type": "Extract",
+  "preBoilGravity": 1.002,
+  "yeastToleranceExceededBy": null,
+  "fermentableIbu": 0,
+  "attenuation": 0.725,
+  "ibu": 32.6,
+  "searchTags": [
+    "Ordinary Bitter",
+    "Distilled Water"
+  ],
+  "styleIbu": true,
+  "fg": 1.011,
+  "data": {
+    "mashFermentablesAmount": 0.085,
+    "allDiastaticPower": false,
+    "totalDiastaticPower": 0,
+    "mashFermentables": [
+      {
+        "potential": 1.035,
+        "origin": "UK",
+        "amount": 0.085,
+        "_timestamp": {
+          "seconds": 1598879586,
+          "nanoseconds": 471000000
+        },
+        "_timestamp_ms": 1598879586471,
+        "inventory": 0,
+        "lovibond": 56.8,
+        "ibuPerAmount": null,
+        "maxInBatch": 10,
+        "grainCategory": "Crystal/Caramel",
+        "costPerAmount": 1.84,
+        "potentialPercentage": 76,
+        "bestBeforeDate": null,
+        "protein": null,
+        "percentage": 10.18,
+        "usedIn": "",
+        "type": "Grain",
+        "notes": "Adjunct 5% – 10% of grist.\nMain Characteristics -Toffee caramel flavour.",
+        "use": "Mash",
+        "attenuation": null,
+        "supplier": "Crisp",
+        "manufacturingDate": null,
+        "_version": "2.3.14",
+        "_created": {
+          "seconds": 1595685546,
+          "nanoseconds": 23000000
+        },
+        "time": 30,
+        "_id": "default-9916a40",
+        "substitutes": "",
+        "moisture": null,
+        "color": 76.142132,
+        "name": "Crystal Malt",
+        "notFermentable": false,
+        "acid": 0,
+        "coarseFineDiff": 71,
+        "hidden": false,
+        "diastaticPower": null,
+        "userNotes": "The Malt Miller (UK) MAL-01-008"
+      }
+    ],
+    "otherFermentablesAmount": 0.75,
+    "otherFermentables": [
+      {
+        "origin": "UK",
+        "potentialPercentage": 75.8,
+        "moisture": null,
+        "type": "Liquid Extract",
+        "_parent": "default-edd3c5d",
+        "color": 2.538071,
+        "notFermentable": false,
+        "name": "Premium Grade Light Liquid Malt Extract",
+        "lovibond": 2.4,
+        "_created": {
+          "seconds": 1610233776,
+          "nanoseconds": 193000000
+        },
+        "_timestamp_ms": 1610233928712,
+        "bestBeforeDate": null,
+        "protein": null,
+        "amount": 0.75,
+        "_version": "2.5.2",
+        "time": 10,
+        "userNotes": "The Malt Miller (UK) EXT-01-010",
+        "ibuPerAmount": null,
+        "hidden": false,
+        "usedIn": "",
+        "notes": "",
+        "percentage": 89.82,
+        "supplier": "Neales Brewing Supplies",
+        "costPerAmount": 4.97,
+        "manufacturingDate": null,
+        "substitutes": "",
+        "potential": 1.035,
+        "diastaticPower": null,
+        "inventory": null,
+        "attenuation": null,
+        "_timestamp": {
+          "seconds": 1610233928,
+          "nanoseconds": 712000000
+        },
+        "_id": "872yg80O2As7yny6sFs7FqlRIWwTsG",
+        "use": "Boil",
+        "grainCategory": null
+      }
+    ],
+    "mashWaterAmount": 0.26,
+    "spargeWaterAmount": 7.7,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 7.7,
+    "totalWaterAmount": 7.96,
+    "hopsAmount": 9.8,
+    "strikeTemp": 72,
+    "mashVolume": 0.31695
+  },
+  "_ev": 1.1,
+  "extraGravity": 0,
+  "totalGravity": 1.041487015,
+  "diastaticPower": 0
+}
