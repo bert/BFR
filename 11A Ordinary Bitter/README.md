@@ -63,7 +63,6 @@ SRM: 8 – 14
 ABV: 3.2 – 3.8%
 
 <b>Commercial Examples:</b>
-
 - Bateman’s XB,
 - Brains Bitter,
 - Brakspear Gravity,
