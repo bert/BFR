@@ -90,4 +90,3 @@ ABV: 4.6 – 6.2%
 - Samuel Smith’s Organic Pale Ale,
 - Shepherd Neame Bishop's Finger,
 - Summit Extra Pale Ale.
-- 
