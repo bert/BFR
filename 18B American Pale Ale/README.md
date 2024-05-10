@@ -51,3 +51,39 @@ English pale ale, reflecting indigenous ingredients. Sierra
 Nevada Pale Ale was first made in 1980 and helped popularize
 the style. Prior to the explosion in popularity of IPAs, this style
 was the most well-known and popular of American craft beers.
+
+<b>Characteristic Ingredients:</b> Neutral pale malt. American or
+New World hops. Neutral to lightly fruity American or English
+ale yeast. Small amounts of various specialty malts.
+
+<b>Style Comparison:</b> Typically lighter in color, cleaner in
+fermentation profile, and having fewer caramel flavors than
+English counterparts. There can be some overlap in color
+between American Pale Ale and American Amber Ale. The
+American Pale Ale will generally be cleaner, have a less
+caramelly malt profile, less body, and often more finishing
+hops. Less bitterness in the balance and alcohol strength than
+an American IPA. Maltier, more balanced and drinkable, and
+less intensely hop-focused and bitter than session-strength
+American IPAs (aka Session IPAs). More bitter and hoppy than
+a Blonde Ale.
+
+<b>Vital Statistics:</b>
+
+OG: 1.045 – 1.060
+
+IBUs: 30 – 50
+
+FG: 1.010 – 1.015
+
+SRM: 5 – 10
+
+ABV: 4.5 – 6.2%
+
+<b>Commercial Examples:</b>
+- Deschutes Mirror Pond Pale Ale,
+- Half Acre Daisy Cutter Pale Ale,
+- Great Lakes Burning River,
+- La Cumbre Acclimated APA,
+- Sierra Nevada Pale Ale,
+- Stone Pale Ale 2.0
