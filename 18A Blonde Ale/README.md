@@ -46,7 +46,8 @@ positioned as an entry-level house ale.
 include wheat malt or sugar adjuncts. Any hop variety can be
 used. Clean American, lightly fruity English, or Kölsch yeast.
 May also be made with lager yeast, or cold-conditioned.
-Style Comparison: Typically has more flavor than American
+
+<b>Style Comparison:</b> Typically has more flavor than American
 Lager and Cream Ale. Less bitterness than an American Pale
 Ale. Perhaps similar to some maltier examples of Kölsch.
 
