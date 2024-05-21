@@ -2,7 +2,7 @@
 
 <b>BJCP 2021 Category:</b> 15A Irish Red Ale
 
-<b>Overall Impression:<b> An easy-drinking pint, often with
+<b>Overall Impression:</b> An easy-drinking pint, often with
 subtle flavors. Slightly malty in the balance sometimes with an
 initial soft toffee or caramel sweetness, a slightly grainy-
 biscuity palate, and a touch of roasted dryness in the finish.
