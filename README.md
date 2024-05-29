@@ -1,6 +1,6 @@
 ## A backup of Brewfather recipes I hoarded over the years.
 
-- Recipes are sorted in folders named by BJCP category.
+- Recipes are sorted in folders named by BJCP style.
 
 - All recipes are normalized for 5 Liter batch size (fermenting vessel)
   and can be brewed in a 12 Liter stove pot.
