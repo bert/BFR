@@ -16,10 +16,10 @@ category are not typically complex, and have smooth, accessible flavors. The ale
 appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are
 described in the International Lager category.
 
-["01A American Light Lager"]("01A American Light Lager/README.md")
+[01A](01A American Light Lager/README.md) 01A American Light Lager
 
-[01B American Lager](01B American Lager/README.md)
+[01B](01B American Lager/README.md) 01B American Light Lager
 
-[01C Cream Ale](01C Cream Ale/README.md)
+[01C](01C Cream Ale/README.md) 01C Cream Ale
 
-[01D American Wheat Beer](01D American Wheat Beer/README.md)
+[01D](01D American Wheat Beer/README.md) 01D American Wheat Beer
