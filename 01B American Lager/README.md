@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 1 Standard American Beer
+<b>BJCP 2021 Category:</b> 1 Standard American Beer
 
-<b>BJCP 2021 Category:</b> 01B American Lager
+<b>BJCP 2021 Style:</b> 01B American Lager
 
 <b>Overall Impression:</b> A very pale, highly-carbonated, light-
 bodied, well-attenuated lager with a very neutral flavor profile
