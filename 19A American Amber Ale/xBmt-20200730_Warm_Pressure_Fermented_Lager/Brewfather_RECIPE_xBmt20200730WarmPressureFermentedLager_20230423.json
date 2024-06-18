@@ -1,0 +1,592 @@
+{
+  "rbRatio": 0.44,
+  "yeastToleranceExceededBy": null,
+  "fg": 1.014,
+  "mashEfficiency": 73.3,
+  "buGuRatio": 0.47,
+  "avgWeightedHopstandTemp": 80,
+  "boilTime": 75,
+  "_share": null,
+  "thumb": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABIAEgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAcEBgIDBQgB/8QANxAAAQMEAAUEAAIGCwAAAAAAAQIDBAAFBhEHEhMhQRQiMVEVMjNhcXKBkRYjJCVCQ1JTYoKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APKlFFFAV9HevldLHrNOv94jWy1MF+ZIVyoQDofGyST2AA2ST2AFA1r5gsmLw4MP1FuLUMrmiSlew88kSS60g63z9JtjaT2HKD5G0wfmvUt2xV2Zfb9a7dY93N6BJZS71v7v6fQSlp1gnt13FJQhXc66Szrv28vSmHY0l1iQ2tp5pZQttY0pKgdEEeCDQaqKKKAooooCskIUs6QkqP0BusabOQ5JcsAtOOW3D3UWxMy0sXCTOYbT6iS67sq26QVBKSOUJGh7T8k0Cpcacb/SIWn94aphY8r+jHCy7XpHtuN9eNoir8ojpSFSFD97aEb+iajt8XM11yTL0u4sn8zVxZblIUPohxJq/ZvdMeucbEbBf8cfbkrtjcpD1g02pp2SorKUxiClWwEHQIJPx9UFHn8QVyLAplt+emWsuLDBIDDLzqEoeeSQdkqSlWk6HKXFEE7o4pgXuBj+ZNpAdvDCmp/KND1jJCXFftWkoX+0mra7wOZguy5Uy+uSoUZlMhcCBF6l0CVeFx+b+rI8kk6rfbcrtEbhff04rjkdr8FnR5DarwBOcPWBbW5yqAQlW0pGgCP/AGgRiGXVjaGlqH2Ek1gQUkgggjwavbnFzOzoNZJNjIHw3F5GED/qhIFdSddpGb8NL7dckQy9drPJiiNcg0lDryXSsKZcKQAvQTzAnuNHvqgV9FFFAUyccDee4ezi61pTktq53LMVHXq2lHmci7/172tH2SpPkUtqt/D3HE3WVJutylu26wWkJfmzW+y0nfsba+3VEaSPHc+KDVieFT785LekuN2q0QFan3GaClqP31y6+VOH4CB3J+vmnVkOReh4uwMYxuIzEDSIceddu/qpEZqO2pSUE/oUdNJ2E9yd7PiqvkWWW7i6hFtkyRj1zjPLXb0Pvf2SZzH4eVocr5/3T2V8HVReJk6TjHH+XLdhLfKSyhcfvt1C4yG1pSR5IKgCN96Dq47d5LuTwHH7VY4MN95g+qjQmWn2UyuforQ4lIcCh7STzb7H7rfiF8ZzKy5xZ8vaiWu8pt49Ve0NEFfSfQB12kdlKCyAXAN63veqkPQmbcy+l23vykWdiBMWy2hYnSG0BwsNPM/DIR/mLG+3JoDmqpcJIdwyt/iAtKmhJm2h0uPPLDTSFrfbUSpZ7JHZR7/VBT7lgeQQcoiWIwVSJs0gw1Rj1GpSFfDjax2Uj9fjvvWjXW4gz4Vns8LCrHIRKjQXTIuMxs+2XMI5Ty/bbY9qT59x81cbVn2PYpbE4VGlz7jaHg61NvbSilcdTgAUYaT3S2Ne4HRcG/ilbmeNSsWvSoUpxuQytCXo0tk7aksq7ocQfojx4Owfig4NFFFBKtcM3C5w4SXEtqkvIZC1/lSVKA2f1d6Zs2NLXjUPHV2F+PYorrkkuiRyyXpClBG1j8hcA0Eta2Adc3fmpVNrU24laDpSSFA/RFN9u+Yy5CRdZDZMPopQ9bkFKG1PcwWpAb5ubmJ3p74A/WnRBW3y2u2i8TLe8oKcjOKbUQNbIp/XHKLtJyLFIybG/kcN60wZkMRUalwnA2ELWw6Ade9skpWCg+QKWz2a4q3IdkwcAhLkuEqK7hPfkpBP/EFI/nVky3Nr7kHB+0zIEsW6PDmO22dCtqPTs8qh1GSUp8a6g0e2x90DFj2mRCv82bEvltuVwZb634RarXbmryVK3zIW4lJCSN91IKlfSRVCfyS4q4Z53CctDeP2pj0kGPa2myjlcW6VKU4pXvcc5W+6lfwApJNuLbcSttRStJ2lSTog/YPinZcc9vFl4V41Fvoj3566vPTFMXhv1ATGQQ20Ad8w2oOEHe+1Akf8XemzlxRJ4T2+KtiOV2duGWzs9Zn1AeU4DvvykhB1vQPwBvvCst+wm83mJGnYKxGVIeQ2pca7PMtjZ0TpXNr+dSGvxy4ZHkkKbbrhEtE9t/qJfjKQmOlCdsqUSPby9NtJJPwT90CqooooCiiigKuXDm+wYTtxsmQKWnH700I8pxA5lR1g7afSPJQr5HlJUKKKDvt8H7nAf/EcjlxIeIN6dXeW3Q42+0fjopHuUtXwE6Hc99VUc+yQZRkbs1lj0sBtCI0KNvfQjtjlbR+3Q2T5JNFFBXKlO3CY7HDDsuQtgfDanCUj+G9UUUEWiiig/9k=",
+  "_timestamp": "2023-04-23T12:30:06.567Z",
+  "hopStandMinutes": 0,
+  "_timestamp_ms": 1682253006567,
+  "ibuFormula": "tinseth",
+  "_init": true,
+  "manualFg": false,
+  "fermentables": [
+    {
+      "supplier": "",
+      "type": "Dry Extract",
+      "name": "Pilsner Dry Extract",
+      "potential": 1.042,
+      "percentage": 100,
+      "color": 3,
+      "amount": 0.78,
+      "potentialPercentage": 91.3043478,
+      "addAfterBoil": "FALSE",
+      "origin": "US",
+      "_id": "new-kmBYja4cMclZhY35JkmdVYd0EO3pej",
+      "grainCategory": null
+    }
+  ],
+  "styleAbv": true,
+  "preBoilGravity": 1.035,
+  "styleConformity": false,
+  "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/Qsu5sHqliiMFUZdqL9H0aZsIG4sCO3/Qsu5sHqliiMFUZdqL9H0aZsIG4sCO3.jpeg",
+  "water": {
+    "totalTargetDiff": null,
+    "mashWaterAmount": null,
+    "totalAdjustments": {
+      "volume": 16,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "settings": {
+      "calciumChloride": {
+        "auto": false,
+        "mash": true,
+        "form": "liquid",
+        "sparge": false
+      },
+      "calciumSulfate": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "magnesiumChloride": {
+        "auto": false,
+        "mash": false,
+        "sparge": false
+      },
+      "calciumHydroxide": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      },
+      "sodiumMetabisulfite": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "adjustSparge": true,
+      "magnesiumSulfate": {
+        "mash": true,
+        "auto": false,
+        "sparge": false
+      },
+      "sodiumChloride": {
+        "mash": true,
+        "auto": false,
+        "sparge": false
+      },
+      "sodiumBicarbonate": {
+        "auto": false,
+        "mash": true,
+        "sparge": false
+      },
+      "calciumCarbonate": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      }
+    },
+    "spargeWaterAmount": null,
+    "spargeTargetDiff": null,
+    "mashAdjustments": {
+      "volume": 0,
+      "magnesiumChloride": 0,
+      "sodium": 0,
+      "calciumCarbonate": 0,
+      "calciumHydroxide": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "sodiumChloride": null,
+      "sodiumMetabisulfite": 0,
+      "sodiumBicarbonate": null,
+      "magnesiumSulfate": null,
+      "calciumSulfate": 0,
+      "sulfate": 0,
+      "chloride": 0,
+      "acids": [
+        {
+          "amount": 0,
+          "type": "phosphoric",
+          "concentration": 75
+        }
+      ],
+      "calciumChloride": null,
+      "bicarbonate": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "spargeAdjustments": {
+      "volume": 16,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "acids": [
+        {
+          "concentration": 75,
+          "type": "phosphoric",
+          "amount": 0
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "enableSpargeAdjustments": true,
+    "source": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "calcium": 41,
+      "alkalinity": 145.8643,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "cations": 5.701,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "_timestamp": {
+        "seconds": 1596380772,
+        "nanoseconds": 599000000
+      },
+      "hardness": 139,
+      "type": "source",
+      "soClRatio": null,
+      "_timestamp_ms": 1596380772599,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "ph": 8.1,
+      "ionBalance": 10,
+      "magnesium": 9,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.3.4",
+      "residualAlkalinity": 111.2869,
+      "anions": 3.833,
+      "bicarbonate": 178,
+      "sulfate": 44
+    },
+    "mashTargetDiff": null,
+    "sparge": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "calcium": 41,
+      "alkalinity": 145.8643,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "cations": 5.701,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "_timestamp": {
+        "seconds": 1596380772,
+        "nanoseconds": 599000000
+      },
+      "hardness": 139,
+      "type": "source",
+      "soClRatio": null,
+      "_timestamp_ms": 1596380772599,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "ph": 8.1,
+      "ionBalance": 10,
+      "magnesium": 9,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.3.4",
+      "residualAlkalinity": 111.2869,
+      "anions": 3.833,
+      "bicarbonate": 178,
+      "sulfate": 44,
+      "chloride": 0
+    },
+    "sourceTargetDiff": null,
+    "mash": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "calcium": 41,
+      "alkalinity": 145.8643,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "cations": 5.701,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "_timestamp": {
+        "seconds": 1596380772,
+        "nanoseconds": 599000000
+      },
+      "hardness": 139,
+      "type": "source",
+      "soClRatio": null,
+      "_timestamp_ms": 1596380772599,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "ph": 8.1,
+      "ionBalance": 10,
+      "magnesium": 9,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.3.4",
+      "residualAlkalinity": 111.2869,
+      "anions": 3.833,
+      "bicarbonate": 178,
+      "sulfate": 44,
+      "chloride": 0
+    },
+    "total": {
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q1 WQR)",
+      "calcium": 41,
+      "alkalinity": 145.8643,
+      "residualAlkalinityMeqLCalc": 2.0543,
+      "sodium": 67,
+      "ionBalanceOff": true,
+      "cations": 5.701,
+      "_id": "c6KMkaP0m0ZNr1CaOm93XMahQcxWJI",
+      "_timestamp": {
+        "seconds": 1596380772,
+        "nanoseconds": 599000000
+      },
+      "hardness": 139,
+      "type": "source",
+      "soClRatio": null,
+      "_timestamp_ms": 1596380772599,
+      "bicarbonateMeqL": 2.9172676019404746,
+      "ph": 8.1,
+      "ionBalance": 10,
+      "magnesium": 9,
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "_version": "2.3.4",
+      "residualAlkalinity": 111.2869,
+      "anions": 3.833,
+      "bicarbonate": 178,
+      "sulfate": 44,
+      "chloride": 0
+    },
+    "diluted": null,
+    "dilutionPercentage": null
+  },
+  "type": "Extract",
+  "attenuation": 0.7,
+  "path": "",
+  "mash": {
+    "steps": [
+      {
+        "rampTime": 2,
+        "stepTemp": 65.5555556,
+        "stepTime": 75,
+        "name": "Mash In",
+        "type": "Infusion"
+      }
+    ],
+    "_id": null,
+    "name": "Single Infusion, Light Body, No Mash Out"
+  },
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "tags": null,
+  "notes": "http://brulosophy.com/2020/07/30/examining-the-qualitative-and-quantitative-impact-of-fermenting-pale-lager-under-pressure-at-ale-temperature-the-bru-club-xbmt-series/",
+  "searchTags": [],
+  "og": 1.047973838,
+  "nutrition": {
+    "calories": {
+      "alcohol": 25.11815338614682,
+      "carbs": 20.025500827300117,
+      "total": 45.143654213446936,
+      "kJ": 188.881049229062
+    },
+    "carbs": {
+      "total": 5.052136497572554
+    }
+  },
+  "styleBuGu": true,
+  "yeasts": [
+    {
+      "laboratory": "Wyeast Labs",
+      "form": "Liquid",
+      "amount": 1,
+      "name": "Bohemian Lager",
+      "unit": "pkg",
+      "attenuation": 71,
+      "type": "Lager",
+      "_id": "new-uhARuDPuxMJzfL8D5mL9Ms4ckVM2Jo",
+      "productId": "2124"
+    }
+  ],
+  "batchSize": 5.6,
+  "sumDryHopPerLiter": 0,
+  "_created": {
+    "seconds": 1596568175,
+    "nanoseconds": 958000000
+  },
+  "primaryTemp": 19.4,
+  "fgEstimated": 1.014,
+  "efficiency": 71.8,
+  "_type": "recipe",
+  "carbonationStyle": {
+    "name": "American Amber Ale",
+    "_id": "19A",
+    "carbMin": 2.3,
+    "carbMax": 3
+  },
+  "color": 3.5,
+  "styleOg": true,
+  "name": "xBmt-20200730 Warm Pressure Fermented Lager",
+  "fermentation": {
+    "name": "Imported",
+    "_id": null,
+    "steps": [
+      {
+        "stepTime": 4,
+        "type": "Primary",
+        "stepTemp": 19.4
+      },
+      {
+        "stepTime": 10,
+        "type": "Secondary",
+        "stepTemp": 19.4
+      },
+      {
+        "stepTime": 30,
+        "stepTemp": 18.3,
+        "type": "Conditioning"
+      }
+    ]
+  },
+  "boilSize": 8.21,
+  "hopsTotalAmount": 17,
+  "_version": "2.9.1",
+  "style": {
+    "categoryNumber": 6,
+    "ogMax": 1.056,
+    "notes": "Variation of the American Pale Ale style from the West Coast. Slightly darker in color and more caramel flavor than American Pale.",
+    "buGuMax": 0.79,
+    "colorMax": 18,
+    "lovibondMax": 18,
+    "appearance": null,
+    "category": "American Pale Ale",
+    "origin": null,
+    "ibuMax": 40,
+    "abvMax": 5.7,
+    "fgMin": 1.01,
+    "flavor": null,
+    "styleGuide": "BJCP 1999",
+    "abvMin": 4.5,
+    "buGuMin": 0.4,
+    "aroma": null,
+    "ogMin": 1.045,
+    "ingredients": "American 2-row Pale Malt. Medium to dark crystal malt. American hops. Dry hopping for aroma. American ale yeast.",
+    "type": "Ale",
+    "examples": "North Coast Red Seal Ale, Fat Tire Amber Ale, Full Sail Amber Ale",
+    "history": null,
+    "mouthfeel": null,
+    "ibuMin": 20,
+    "fgMax": 1.015,
+    "rbrMin": 0.39,
+    "profile": "Medium body, less malty with noticable caramel/crystal malt flavor. Medium to high hop rate with corresponding aroma. Light copper to brown in color. Fruity and estery with low diacetyl. Moderate carbonation.",
+    "colorMin": 11,
+    "styleLetter": "B",
+    "lovibondMin": 11,
+    "name": "American Amber Ale",
+    "rbrMax": 0.77
+  },
+  "hidden": false,
+  "fermentableIbu": 0,
+  "hops": [
+    {
+      "use": "Boil",
+      "origin": "Czech Republic",
+      "_id": "new-C5co8NRiQiTMUroCim8leS5yxsSwv7",
+      "name": "Saaz",
+      "temp": null,
+      "amount": 9.4,
+      "ibu": 19.9,
+      "time": 75,
+      "alpha": 4,
+      "type": "Pellet",
+      "actualTime": null
+    },
+    {
+      "origin": "Czech Republic",
+      "alpha": 4,
+      "name": "Saaz",
+      "use": "Boil",
+      "_id": "new-C5co8NRiQiTMUroCim8leS5yxsSwv7",
+      "time": 10,
+      "type": "Pellet",
+      "ibu": 2.8,
+      "temp": null,
+      "amount": 3.8,
+      "actualTime": null
+    },
+    {
+      "name": "Saaz",
+      "use": "Boil",
+      "_id": "new-C5co8NRiQiTMUroCim8leS5yxsSwv7",
+      "temp": null,
+      "type": "Pellet",
+      "ibu": 0,
+      "alpha": 4,
+      "amount": 3.8,
+      "origin": "Czech Republic",
+      "time": 0,
+      "actualTime": null
+    }
+  ],
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "styleColor": false,
+  "styleFg": true,
+  "ibu": 22.7,
+  "equipment": {
+    "mashWaterVolumeLimitEnabled": true,
+    "mashTunLoss": 0.12,
+    "mashWaterMax": 12,
+    "fermenterLoss": 0.6,
+    "boilOffPerHr": 1.8,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "_timestamp": {
+      "seconds": 1604155195,
+      "nanoseconds": 279000000
+    },
+    "mashTunDeadSpace": 0,
+    "spargeWaterOverflow": "Top-Up",
+    "waterCalculation": "Default",
+    "calcBoilVolume": true,
+    "grainAbsorptionRate": 0.96,
+    "bottlingVolume": 5,
+    "efficiencyType": "Fermenter",
+    "calcStrikeWaterTemperature": true,
+    "aromaHopUtilization": 0.23,
+    "waterGrainRatio": 3,
+    "efficiency": 71.8,
+    "hopUtilization": 1,
+    "postBoilKettleVol": 5.958333333333333,
+    "trubChillerLoss": 0.12,
+    "hidden": false,
+    "fermenterVolume": 5.6,
+    "evaporationRate": 0.21924482338611448,
+    "batchSize": 5.6,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "brewhouseEfficiency": 71.8,
+    "calcMashEfficiency": true,
+    "calcAromaHopUtilization": true,
+    "boilTime": 75,
+    "_version": "2.4.9",
+    "mashEfficiency": 73.3,
+    "spargeWaterMax": null,
+    "_timestamp_ms": 1604155195279,
+    "boilSize": 8.21,
+    "spargeWaterMin": null,
+    "_id": "zxK3E9OiksjCCAuqpShE5CYI85YsdQ",
+    "fermenterLossEstimate": 0,
+    "name": "01 Brouwpunt 5L (75min) (rev 4)",
+    "hopstandTemperature": 80,
+    "_meta": {
+      "efficiencyIsCalculated": true,
+      "mashEfficiencyIsCalculated": true
+    },
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL"
+  },
+  "author": "Mike Olivier and Josh Sharp",
+  "fgFormula": "normal",
+  "_id": "Qsu5sHqliiMFUZdqL9H0aZsIG4sCO3",
+  "firstWortGravity": null,
+  "styleRbr": true,
+  "styleIbu": true,
+  "carbonation": 2.3,
+  "styleCarb": true,
+  "postBoilGravity": 1.047973838,
+  "data": {
+    "mashFermentablesAmount": 0,
+    "allDiastaticPower": true,
+    "mashFermentables": [],
+    "otherFermentablesAmount": 0.78,
+    "otherFermentables": [
+      {
+        "supplier": "",
+        "type": "Dry Extract",
+        "name": "Pilsner Dry Extract",
+        "potential": 1.042,
+        "percentage": 100,
+        "color": 3,
+        "amount": 0.78,
+        "potentialPercentage": 91.3043478,
+        "addAfterBoil": "FALSE",
+        "origin": "US",
+        "_id": "new-kmBYja4cMclZhY35JkmdVYd0EO3pej",
+        "grainCategory": null
+      }
+    ],
+    "mashWaterAmount": 0,
+    "spargeWaterAmount": 0,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 8.33,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 8.33,
+    "totalWaterAmount": 8.33,
+    "hopsAmount": 17,
+    "strikeTemp": null,
+    "mashVolume": null
+  },
+  "ogPlato": 11.9,
+  "abv": 4.46,
+  "miscs": [],
+  "fermentablesTotalAmount": 0.78,
+  "_ev": 1.1,
+  "extraGravity": 0,
+  "totalGravity": 1.047973838,
+  "sumAromaHopPerLiter": 0
+}
