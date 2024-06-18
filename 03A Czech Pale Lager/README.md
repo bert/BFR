@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 3 Czech Lager
+<b>BJCP 2021 Category:</b> 3 Czech Lager
 
-<b>BJCP 2021 Category:</b> 03A Czech Pale Lager
+<b>BJCP 2021 Style:</b> 03A Czech Pale Lager
 
 <b>Overall Impression:</b> A lighter-bodied, rich, refreshing,
 hoppy, bitter pale Czech lager having the familiar flavors of the
