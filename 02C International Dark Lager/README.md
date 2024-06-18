@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 2 International Lager
+<b>BJCP 2021 Category:</b> 2 International Lager
 
-<b>BJCP 2021 Category:</b> 02C International Dark Lager
+<b>BJCP 2021 Style:</b> 02C International Dark Lager
 
 <b>Overall Impression:</b> A darker, richer, and somewhat
 sweeter version of international pale lager with a little more
