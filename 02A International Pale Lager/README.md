@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 2 International Lager
+<b>BJCP 2021 Category:</b> 2 International Lager
 
-<b>BJCP 2021 Category:</b> 02A International Pale Lager
+<b>BJCP 2021 Style:</b> 02A International Pale Lager
 
 <b>Overall Impression:</b> A highly-attenuated pale lager without
 strong flavors, typically well-balanced and highly carbonated.
