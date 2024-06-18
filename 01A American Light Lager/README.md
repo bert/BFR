@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 1 Standard American Beer
+<b>BJCP 2021 Category:</b> 1 Standard American Beer
 
-<b>BJCP 2021 Category:</b> 01A American Light Lager
+<b>BJCP 2021 Style:</b> 01A American Light Lager
 
 <b>Overall Impression:</b> A highly carbonated, very light-bodied,
 nearly flavorless lager designed to be consumed very cold. Very
