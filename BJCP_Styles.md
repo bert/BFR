@@ -1,4 +1,4 @@
-## BJCP Category
+## BJCP Categories and Styles
 
 ### BJCP Category 1 Standard American Beer
 
