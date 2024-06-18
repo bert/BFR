@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 1 Standard American Beer
+<b>BJCP 2021 Category:</b> 1 Standard American Beer
 
-<b>BJCP 2021 Category:</b> 01C Cream Ale
+<b>BJCP 2021 Style:</b> 01C Cream Ale
 
 <b>Overall Impression:</b> A clean, well-attenuated, highly
 carbonated, flavorful American “lawnmower” beer. Easily
