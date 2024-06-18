@@ -16,7 +16,7 @@ category are not typically complex, and have smooth, accessible flavors. The ale
 appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are
 described in the International Lager category.
 
-[01A American Light Lager](01A American Light Lager/README.md)
+["01A American Light Lager"]("01A American Light Lager/README.md")
 
 [01B American Lager](01B American Lager/README.md)
 
