@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 1 Standard American Beer
+<b>BJCP 2021 Category:</b> 1 Standard American Beer
 
-<b>BJCP 2021 Category:</b> 01D American Wheat Beer
+<b>BJCP 2021 Style:</b> 01D American Wheat Beer
 
 <b>Overall Impression:</b> A pale, refreshing grainy, doughy, or
 bready wheat beer with a clean fermentation profile and a
