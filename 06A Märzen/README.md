@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 6 Amber Malty European Lager
+<b>BJCP 2021 Category:</b> 6 Amber Malty European Lager
 
-<b>BJCP 2021 Category:</b> 06A Märzen
+<b>BJCP 2021 Style:</b> 06A Märzen
 
 <b>Overall Impression:</b> An amber, malty German lager with a
 clean, rich, toasty, bready malt flavor, restrained bitterness,
