@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 16 Dark British Beer
+<b>BJCP 2021 Category:</b> 16 Dark British Beer
 
-<b>BJCP 2021 Category:</b> 16D Foreign Extra Stout
+<b>BJCP 2021 Style:</b> 16D Foreign Extra Stout
 
 <b>Overall Impression:</b> A very dark, rich, moderately strong,
 fairly dry stout with prominent roast flavors.
