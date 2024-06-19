@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 15 Irish Beer
+<b>BJCP 2021 Category:</b> 15 Irish Beer
 
-<b>BJCP 2021 Category:</b> 15B Irish Stout
+<b>BJCP 2021 Style:</b> 15B Irish Stout
 
 <b>Overall Impression:</b> A black beer with a pronounced
 roasted flavor, often similar to coffee. The balance can range
