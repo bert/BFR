@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 9 Strong European Beer
+<b>BJCP 2021 Category:</b> 9 Strong European Beer
 
-<b>BJCP 2021 Category:</b> 09A Doppelbock
+<b>BJCP 2021 Style:</b> 09A Doppelbock
 
 <b>Overall Impression:</b> A strong, rich, and very malty German
 lager that can have both pale and dark variants. The darker
