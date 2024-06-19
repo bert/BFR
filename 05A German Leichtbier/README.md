@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 5 Pale Bitter European Beer
+<b>BJCP 2021 Category:</b> 5 Pale Bitter European Beer
 
-<b>BJCP 2021 Category:</b> 05A German Leichtbier
+<b>BJCP 2021 Style:</b> 05A German Leichtbier
 
 <b>Overall Impression:</b> A pale, highly-attenuated, light-bodied
 German lager with lower alcohol and calories than standard-
