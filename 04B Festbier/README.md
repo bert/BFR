@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 4 Pale Malty European Lager
+<b>BJCP 2021 Category:</b> 4 Pale Malty European Lager
 
-<b>BJCP 2021 Category:</b> 04B Festbier
+<b>BJCP 2021 Style:</b> 04B Festbier
 
 <b>Overall Impression:</b> A smooth, clean, pale German lager
 with a moderately strong malty flavor and a light hop
