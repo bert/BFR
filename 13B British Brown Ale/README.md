@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 13 Brown British Beer
+<b>BJCP 2021 Category:</b> 13 Brown British Beer
 
-<b>BJCP 2021 Category:</b> 13B British Brown Ale
+<b>BJCP 2021 Style:</b> 13B British Brown Ale
 
 <b>Overall Impression:</b> A malty, caramelly, brown British ale
 without the roasted flavors of a Porter. Balanced and flavorful,
