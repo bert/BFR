@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 11 British Bitter
+<b>BJCP 2021 Category:</b> 11 British Bitter
 
-<b>BJCP 2021 Category:</b> 11A Ordinary Bitter
+<b>BJCP 2021 Style:</b> 11A Ordinary Bitter
 
 <b>Overall Impression:</b> Low gravity, alcohol, and carbonation
 make this an easy-drinking session beer. The malt profile can
