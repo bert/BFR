@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 5 Pale Bitter European Beer
+<b>BJCP 2021 Category:</b> 5 Pale Bitter European Beer
 
-<b>BJCP 2021 Category:</b> 05C German Helles Exportbier
+<b>BJCP 2021 Style:</b> 05C German Helles Exportbier
 
 <b>Overall Impression:</b> A golden German lager balancing a
 smooth malty profile with a bitter, hoppy character in a slightly
