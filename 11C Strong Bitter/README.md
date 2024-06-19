@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 11 British Bitter
+<b>BJCP 2021 Category:</b> 11 British Bitter
 
-<b>BJCP 2021 Category:</b> 11C Strong Bitter
+<b>BJCP 2021 Style:</b> 11C Strong Bitter
 
 <b>Overall Impression:</b> An average-strength to moderately-
 strong British bitter ale. The balance may vary between fairly
