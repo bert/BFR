@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 10 German Wheat Beer
+<b>BJCP 2021 Category:</b> 10 German Wheat Beer
 
-<b>BJCP 2021 Category:</b> 10B Dunkles Weissbier
+<b>BJCP 2021 Style:</b> 10B Dunkles Weissbier
 
 <b>Overall Impression:</b> A moderately dark German wheat beer
 with a distinctive banana-and-clove weizen yeast fermentation
