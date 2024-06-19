@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 15 Irish Beer
+<b>BJCP 2021 Category:</b> 15 Irish Beer
 
-<b>BJCP 2021 Category:</b> 15C Irish Extra Stout
+<b>BJCP 2021 Style:</b> 15C Irish Extra Stout
 
 <b>Overall Impression:</b> A fuller-bodied black beer with a
 pronounced roasted flavor, often similar to coffee and dark
