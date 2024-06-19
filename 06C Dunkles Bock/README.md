@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 6 Amber Malty European Lager
+<b>BJCP 2021 Category:</b> 6 Amber Malty European Lager
 
-<b>BJCP 2021 Category:</b> 06C Dunkles Bock
+<b>BJCP 2021 Style:</b> 06C Dunkles Bock
 
 <b>Overall Impression:</b> A strong, dark, malty German lager
 beer that emphasizes the malty-rich and somewhat toasty
