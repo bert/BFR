@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 3 Czech Lager
+<b>BJCP 2021 Category:</b> 3 Czech Lager
 
-<b>BJCP 2021 Category:</b> 03D Czech Dark Lager
+<b>BJCP 2021 Style:</b> 03D Czech Dark Lager
 
 <b>Overall Impression:</b> A rich, dark, malty Czech lager with a
 roast character that can vary from almost absent to quite
