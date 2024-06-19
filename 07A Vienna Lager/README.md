@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 7 Amber Bitter European Beer
+<b>BJCP 2021 Category:</b> 7 Amber Bitter European Beer
 
-<b>BJCP 2021 Category:</b> 07A Vienna Lager
+<b>BJCP 2021 Style:</b> 07A Vienna Lager
 
 <b>Overall Impression:</b> A moderate-strength continental
 amber lager with a soft, smooth maltiness and a balanced,
