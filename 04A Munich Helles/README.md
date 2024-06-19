@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 4 Pale Malty European Lager
+<b>BJCP 2021 Category:</b> 4 Pale Malty European Lager
 
-<b>BJCP 2021 Category:</b> 04A Munich Helles
+<b>BJCP 2021 Style:</b> 04A Munich Helles
 
 <b>Overall Impression:</b> A gold-colored German lager with a
 smooth, malty flavor and a soft, dry finish. Subtle spicy, floral,
