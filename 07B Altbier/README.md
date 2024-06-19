@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 7 Amber Bitter European Beer
+<b>BJCP 2021 Category:</b> 7 Amber Bitter European Beer
 
-<b>BJCP 2021 Category:</b> 07B Altbier
+<b>BJCP 2021 Style:</b> 07B Altbier
 
 A cold-conditioned, top-fermenting beer from Düsseldorf that
 has a cleaner and smoother palate than is typical for most
