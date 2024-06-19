@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 17 Strong British Ale
+<b>BJCP 2021 Category:</b> 17 Strong British Ale
 
-<b>BJCP 2021 Category:</b> 17B Old Ale
+<b>BJCP 2021 Style:</b> 17B Old Ale
 
 <b>Overall Impression:</b> A stronger-than-average English ale,
 though usually not as strong or rich as an English Barley Wine,
