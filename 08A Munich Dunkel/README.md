@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 8 Dark European Lager
+<b>BJCP 2021 Category:</b> 8 Dark European Lager
 
-<b>BJCP 2021 Category:</b> 08A Munich Dunkel
+<b>BJCP 2021 Style:</b> 08A Munich Dunkel
 
 <b>Overall Impression:</b> A traditional malty brown lager from
 Bavaria. Deeply toasted, bready malt flavors without any roasty
