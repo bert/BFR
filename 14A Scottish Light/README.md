@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 14 Scottish Ale
+<b>BJCP 2021 Category:</b> 14 Scottish Ale
 
-<b>BJCP 2021 Category:</b> 14A Scottish Light
+<b>BJCP 2021 Style:</b> 14A Scottish Light
 
 <b>Overall Impression:</b> A low-alcohol, malty beer with light
 caramel, toast, toffee, and fruit flavors. A slight roast dryness
