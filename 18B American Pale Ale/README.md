@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 18 Pale American Ale
+<b>BJCP 2021 Category:</b> 18 Pale American Ale
 
-<b>BJCP 2021 Category:</b>  18B American Pale Ale
+<b>BJCP 2021 Style:</b>  18B American Pale Ale
 
 <b>Overall Impression:</b> An average-strength, hop-forward, pale
 American craft beer with sufficient supporting malt to make
