@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 19 Amber and Brown American Beer
+<b>BJCP 2021 Category:</b> 19 Amber and Brown American Beer
 
-<b>BJCP 2021 Category:</b> 19C American Brown Ale
+<b>BJCP 2021 Style:</b> 19C American Brown Ale
 
 <b>Overall Impression:</b> A malty but hoppy standard-strength
 American ale frequently with chocolate and caramel flavors.
