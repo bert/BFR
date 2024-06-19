@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 18 Pale American Ale
+<b>BJCP 2021 Category:</b> 18 Pale American Ale
 
-<b>BJCP 2021 Category:</b> 18A Blonde Ale
+<b>BJCP 2021 Style:</b> 18A Blonde Ale
 
 <b>Overall Impression:</b> Easy-drinking, approachable, malt-
 oriented American craft beer, often with interesting fruit, hop,
