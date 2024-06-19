@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 16 Dark British Beer
+<b>BJCP 2021 Category:</b> 16 Dark British Beer
 
-<b>BJCP 2021 Category:</b> 16B Oatmeal Stout
+<b>BJCP 2021 Style:</b> 16B Oatmeal Stout
 
 <b>Overall Impression:</b> A dark, roasty, full-bodied stout with
 enough sweetness to support the oat backbone. The sweetness,
