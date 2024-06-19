@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 3 Czech Lager
+<b>BJCP 2021 Category:</b> 3 Czech Lager
 
-<b>BJCP 2021 Category:</b> 03B Czech Premium Pale Lager
+<b>BJCP 2021 Style:</b> 03B Czech Premium Pale Lager
 
 <b>Overall Impression:</b> A refreshing pale Czech lager with
 considerable malt and hop character and a long finish. The
