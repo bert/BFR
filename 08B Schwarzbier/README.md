@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 8 Dark European Lager
+<b>BJCP 2021 Category:</b> 8 Dark European Lager
 
-<b>BJCP 2021 Category:</b> 08B Schwarzbier
+<b>BJCP 2021 Style:</b> 08B Schwarzbier
 
 <b>Overall Impression:</b> A dark German lager that balances
 roasted yet smooth malt flavors with moderate hop bitterness.
