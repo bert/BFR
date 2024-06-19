@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 6 Amber Malty European Lager
+<b>BJCP 2021 Category:</b> 6 Amber Malty European Lager
 
-<b>BJCP 2021 Category:</b> 06B Rauchbier
+<b>BJCP 2021 Style:</b> 06B Rauchbier
 
 <b>Overall Impression:</b> A beechwood-smoked, malty, amber
 German lager. The expected Märzen profile of toasty-rich malt,
