@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 4 Pale Malty European Lager
+<b>BJCP 2021 Category:</b> 4 Pale Malty European Lager
 
-<b>BJCP 2021 Category:</b> 04C Helles Bock
+<b>BJCP 2021 Style:</b> 04C Helles Bock
 
 <b>Overall Impression:</b> A relatively pale, strong, malty German
 lager with a nicely attenuated finish that enhances drinkability.
