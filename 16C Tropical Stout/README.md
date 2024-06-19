@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 16 Dark British Beer
+<b>BJCP 2021 Category:</b> 16 Dark British Beer
 
-<b>BJCP 2021 Category:</b> 16C Tropical Stout
+<b>BJCP 2021 Style:</b> 16C Tropical Stout
 
 <b>Overall Impression:</b> A very dark, sweet, fruity, moderately
 strong stout with smooth, roasty flavors, yet no burnt
