@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 12 Pale Commonwealth Beer
+<b>BJCP 2021 Category:</b> 12 Pale Commonwealth Beer
 
-<b>BJCP 2021 Category:</b> 12B Australian Sparkling Ale
+<b>BJCP 2021 Style:</b> 12B Australian Sparkling Ale
 
 <b>Overall Impression:</b> A well-balanced, pale, highly-
 carbonated, and refreshing ale suitable for drinking in a hot
