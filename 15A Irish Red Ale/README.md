@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 15 Irish Beer
+<b>BJCP 2021 Category:</b> 15 Irish Beer
 
-<b>BJCP 2021 Category:</b> 15A Irish Red Ale
+<b>BJCP 2021 Style:</b> 15A Irish Red Ale
 
 <b>Overall Impression:</b> An easy-drinking pint, often with
 subtle flavors. Slightly malty in the balance sometimes with an
