@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 12 Pale Commonwealth Beer
+<b>BJCP 2021 Category:</b> 12 Pale Commonwealth Beer
 
-<b>BJCP 2021 Category:</b> 12C English IPA
+<b>BJCP 2021 Style:</b> 12C English IPA
 
 <b>Overall Impression:</b> A bitter, moderately-strong, very well-
 attenuated pale British ale with a dry finish and a hoppy aroma
