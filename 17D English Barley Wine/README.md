@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 17 Strong British Ale
+<b>BJCP 2021 Category:</b> 17 Strong British Ale
 
-<b>BJCP 2021 Category:</b> 17D English Barley Wine
+<b>BJCP 2021 Style:</b> 17D English Barley Wine
 
 <b>Overall Impression:</b> A strong and richly malty ale with a
 pleasant fruity or hoppy depth. A wintertime sipper with a full,
