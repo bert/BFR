@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 13 Brown British Beer
+<b>BJCP 2021 Category:</b> 13 Brown British Beer
 
-<b>BJCP 2021 Category:</b> 13A Dark Mild
+<b>BJCP 2021 Style:</b> 13A Dark Mild
 
 <b>Overall Impression:</b> A dark, low-gravity, malt-focused
 British session ale readily suited to drinking in quantity.
