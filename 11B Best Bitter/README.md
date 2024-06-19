@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 11 British Bitter
+<b>BJCP 2021 Category:</b> 11 British Bitter
 
-<b>BJCP 2021 Category:</b> 11B Best Bitter
+<b>BJCP 2021 Style:</b> 11B Best Bitter
 
 <b>Overall Impression:</b> A flavorful, yet refreshing, session beer.
 Some examples can be more malt balanced, but this should not
