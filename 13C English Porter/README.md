@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 13 Brown British Beer
+<b>BJCP 2021 Category:</b> 13 Brown British Beer
 
-<b>BJCP 2021 Category:</b> 13C English Porter
+<b>BJCP 2021 Style:</b> 13C English Porter
 
 <b>Overall Impression:</b> A moderate-strength dark brown
 English ale with a restrained roasty, bitter character. May have
