@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 16 Dark British Beer
+<b>BJCP 2021 Category:</b> 16 Dark British Beer
 
-<b>BJCP 2021 Category:</b> 16A Sweet Stout
+<b>BJCP 2021 Style:</b> 16A Sweet Stout
 
 <b>Overall Impression:</b> A very dark, sweet, full-bodied, slightly
 roasty stout that can suggest coffee-and-cream, or sweetened
