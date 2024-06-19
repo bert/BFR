@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 17 Strong British Ale
+<b>BJCP 2021 Category:</b> 17 Strong British Ale
 
-<b>BJCP 2021 Category:</b> 17C Wee Heavy
+<b>BJCP 2021 Style:</b> 17C Wee Heavy
 
 <b>Overall Impression:</b> Rich, sweet malt depth with caramel,
 toffee, and fruity flavors. Full-bodied and chewy, with warming
