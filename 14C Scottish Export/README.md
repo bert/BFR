@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 14 Scottish Ale
+<b>BJCP 2021 Category:</b> 14 Scottish Ale
 
-<b>BJCP 2021 Category:</b> 14C Scottish Export
+<b>BJCP 2021 Style:</b> 14C Scottish Export
 
 <b>Overall Impression:</b> A moderate-strength, malty beer with
 light caramel, toast, toffee, and fruit flavors. A slight roast
