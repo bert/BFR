@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 5 Pale Bitter European Beer
+<b>BJCP 2021 Category:</b> 5 Pale Bitter European Beer
 
-<b>BJCP 2021 Category:</b> 05B Kölsch
+<b>BJCP 2021 Style:</b> 05B Kölsch
 
 <b>Overall Impression:</b> A subtle, brilliantly clear, pale beer
 with a delicate balance of malt, fruit, and hop character,
