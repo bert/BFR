@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 10 German Wheat Beer
+<b>BJCP 2021 Category:</b> 10 German Wheat Beer
 
-<b>BJCP 2021 Category:</b> 10C Weizenbock
+<b>BJCP 2021 Style:</b> 10C Weizenbock
 
 <b>Overall Impression:</b> A strong and malty German wheat beer
 combining the best wheat and yeast flavors of a Weissbier with
