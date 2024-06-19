@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 5 Pale Bitter European Beer
+<b>BJCP 2021 Category:</b> 5 Pale Bitter European Beer
 
-<b>BJCP 2021 Category:</b> 05D German Pils
+<b>BJCP 2021 Style:</b> 05D German Pils
 
 <b>Overall Impression:</b> A pale, dry, bitter German lager
 featuring a prominent hop aroma. Crisp, clean, and refreshing,
