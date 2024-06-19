@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 17 Strong British Ale
+<b>BJCP 2021 Category:</b> 17 Strong British Ale
 
-<b>BJCP 2021 Category:</b> 17A British Strong Ale
+<b>BJCP 2021 Style:</b> 17A British Strong Ale
 
 <b>Overall Impression:</b> An ale of respectable alcoholic
 strength, traditionally bottled-conditioned and cellared. Can
