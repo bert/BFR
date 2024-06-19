@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> New Zealand Styles
+<b>BJCP 2021 Category:</b> New Zealand Styles
 
-<b>BJCP 2021 Category:</b> 0X5 New Zealand Pilsner
+<b>BJCP 2021 Style:</b> 0X5 New Zealand Pilsner
 
 Suggested style placement: Category 12 (Pale Commonwealth
 Beer)
