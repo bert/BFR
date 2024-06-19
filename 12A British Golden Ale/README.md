@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 12 Pale Commonwealth Beer
+<b>BJCP 2021 Category:</b> 12 Pale Commonwealth Beer
 
-<b>BJCP 2021 Category:</b> 12A British Golden Ale
+<b>BJCP 2021 Style:</b> 12A British Golden Ale
 
 <b>Overall Impression:</b> A hop-forward, average-strength to
 moderately-strong pale bitter. Drinkability and a refreshing
