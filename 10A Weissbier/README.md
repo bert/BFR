@@ -1,6 +1,6 @@
-<b>BJCP 2021 Style:</b> 10 German Wheat Beer
+<b>BJCP 2021 Category:</b> 10 German Wheat Beer
 
-<b>BJCP 2021 Category:</b> 10A Weissbier
+<b>BJCP 2021 Style:</b> 10A Weissbier
 
 <b>Overall Impression:</b> A pale, refreshing, lightly-hopped
 German wheat beer with high carbonation, dry finish, fluffy
