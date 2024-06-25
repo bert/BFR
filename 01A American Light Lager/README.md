@@ -63,7 +63,7 @@ ABV: 2.8 – 4.2%
 <b>Commercial Examples:</b>
 - [Bud Light](https://untappd.com/b/anheuser-busch-bud-light/3784),
 - [Coors Light](https://untappd.com/b/coors-brewing-company-coors-light/3834),
-- Grain Belt Premium Light American Lager,
+- [Grain Belt Premium Light American Lager](https://untappd.com/b/grain-belt-beer-premium-light/14012),
 - Michelob Light,
 - Miller Lite,
 - Old Milwaukee Light.
