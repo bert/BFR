@@ -64,6 +64,6 @@ ABV: 2.8 – 4.2%
 - [Bud Light](https://untappd.com/b/anheuser-busch-bud-light/3784),
 - [Coors Light](https://untappd.com/b/coors-brewing-company-coors-light/3834),
 - [Grain Belt Premium Light American Lager](https://untappd.com/b/grain-belt-beer-premium-light/14012),
-- Michelob Light,
+- [Michelob Light](https://untappd.com/b/anheuser-busch-michelob-light/7054),
 - Miller Lite,
 - Old Milwaukee Light.
