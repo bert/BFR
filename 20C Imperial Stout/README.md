@@ -93,7 +93,7 @@ ABV: 8.0 – 12.0%
   - North Coast Old Rasputin Imperial Stout,
   - Oskar Blues Ten Fidy,
   - Sierra Nevada Narwhal Imperial Stout
-- English
+- English:
   - 2SP Brewing Co The Russian,
   - Courage Imperial Russian Stout,
   - Le Coq Imperial Extra Double Stout,
