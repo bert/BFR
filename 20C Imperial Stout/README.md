@@ -95,7 +95,7 @@ ABV: 8.0 – 12.0%
   - Sierra Nevada Narwhal Imperial Stout
 - English
   - 2SP Brewing Co The Russian,
-    - Courage Imperial Russian Stout,
-    - Le Coq Imperial Extra Double Stout,
-    - Samuel Smith Imperial Stout,
-    - Thornbridge Saint Petersburg.
+  - Courage Imperial Russian Stout,
+  - Le Coq Imperial Extra Double Stout,
+  - Samuel Smith Imperial Stout,
+  - Thornbridge Saint Petersburg.
