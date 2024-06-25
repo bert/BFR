@@ -61,7 +61,7 @@ SRM: 2 – 3
 ABV: 2.8 – 4.2%
 
 <b>Commercial Examples:</b>
-- Bud Light,
+- [Bud Light](https://untappd.com/b/anheuser-busch-bud-light/3784),
 - Coors Light,
 - Grain Belt Premium Light American Lager,
 - Michelob Light,
