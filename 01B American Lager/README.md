@@ -64,10 +64,10 @@ SRM: 2 – 3.5
 ABV: 4.2 – 5.3%
 
 <b>Commercial Examples:</b>
-- Budweiser,
+- [Budweiser](https://untappd.com/b/anheuser-busch-budweiser/3783),
 - Coors Original,
-- Grain Belt Premium American Lager,
-- Miller High Life,
-- Helleman's Old Style,
-- Pabst Blue Ribbon,
-- Helleman's Special Export.
+- [Grain Belt Premium American Lager](https://untappd.com/b/grain-belt-beer-premium/14011),
+- [Miller High Life](https://untappd.com/b/miller-brewing-company-high-life/3778),
+- [Heileman's Old Style](https://untappd.com/b/pabst-brewing-company-heileman-s-old-style/3093),
+- [Pabst Blue Ribbon](https://untappd.com/b/pabst-brewing-company-pabst-blue-ribbon/3883),
+- [Heileman's Special Export](https://untappd.com/b/pabst-brewing-company-heileman-s-special-export/3293).
