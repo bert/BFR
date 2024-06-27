@@ -69,7 +69,7 @@ ABV: 4.4 – 5.8%
 <b>Commercial Examples:</b>
 - [Bernard Jantarový ležák 12°](https://untappd.com/b/bernard-family-brewery-amber-lager-jantarovy-lezak/461769),
 - [Gambrinus Polotmavá 12°](https://untappd.com/b/plzensky-prazdroj-gambrinus-polotmava-12/1407132),
-- [Kozel Semi-Dark](https://untappd.com/b/pivovar-velke-popovice-kozel-cerny-dark/70150),
+- [Kozel Semi-Dark](https://untappd.com/b/pivovar-velke-popovice-kozel-rezany-11-polotmavy/1496847),
 - [Lobkowicz Démon 13](https://untappd.com/b/pivovary-lobkowicz-demon/70987),
 - [Primátor 13 polotmavé](https://untappd.com/b/primator-13-polotmave/72045),
 - [Strakonický Dudák Klostermann polotmavý ležák](https://untappd.com/b/pivovar-strakonice-klostermann-polotmavy-lezak/380127).
