@@ -76,10 +76,10 @@ SRM: 3.5 – 6
 ABV: 4.2 – 5.8%
 
 <b>Commercial Examples:</b>
-- Bernard světlé ležák 12°,
-- Budvar 33 světlý ležák,
-- Pilsner Urquell,
-- Pivovar Jihlava Ježek 11%,
-- Primátor Premium lager,
-- Radegast Ryze hořká 12,
-- Únětická pivo 12°.
+- [Bernard světlé ležák 12°](https://untappd.com/b/bernard-family-brewery-bohemian-lager-svetly-lezak-12/64209),
+- [Budvar 33 světlý ležák](https://untappd.com/b/budejovicky-budvar-budvar-33/3080615),
+- [Pilsner Urquell](https://untappd.com/b/plzensky-prazdroj-pilsner-urquell/37936),
+- [Pivovar Jihlava Ježek 11%](https://untappd.com/b/pivovar-jihlava-jezek-11-jedenactka/366267),
+- [Primátor Premium lager](https://untappd.com/b/primator-premium/41568),
+- [Radegast Ryze hořká 12](https://untappd.com/b/radegast-radegast-ryze-horka-12/770120),
+- [Únětická pivo 12°](https://untappd.com/b/uneticky-pivovar-uneticke-pivo-120-nefiltrovane/103923).
