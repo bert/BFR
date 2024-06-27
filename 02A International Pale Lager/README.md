@@ -65,9 +65,9 @@ SRM: 2 – 6
 ABV: 4.5 – 6.0%
 
 <b>Commercial Examples:</b>
-- Asahi Super Dry,
-- Birra Moretti,
-- Corona Extra,
+- [Asahi Super Dry](https://untappd.com/b/asahi-breweries-asahi-super-dry/8020),
+- [Birra Moretti](https://untappd.com/b/birra-moretti-birra-moretti-l-autentica-ricetta-originale/6347),
+- [Corona Extra](https://untappd.com/b/grupo-modelo-corona-extra/5848),
 - Devils Backbone Gold Leaf Lager,
 - Full Sail Session Premium Lager,
 - Heineken,
