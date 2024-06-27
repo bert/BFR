@@ -68,8 +68,8 @@ ABV: 4.5 – 6.0%
 - [Asahi Super Dry](https://untappd.com/b/asahi-breweries-asahi-super-dry/8020),
 - [Birra Moretti](https://untappd.com/b/birra-moretti-birra-moretti-l-autentica-ricetta-originale/6347),
 - [Corona Extra](https://untappd.com/b/grupo-modelo-corona-extra/5848),
-- Devils Backbone Gold Leaf Lager,
-- Full Sail Session Premium Lager,
-- Heineken,
-- Red Stripe,
-- Singha.
+- [Devils Backbone Gold Leaf Lager](https://untappd.com/b/devils-backbone-brewing-company-gold-leaf-lager/19364),
+- [Full Sail Session Premium Lager](https://untappd.com/b/full-sail-brewing-company-session-premium-lager/428),
+- [Heineken](https://untappd.com/b/heineken-heineken/5860),
+- [Red Stripe](https://untappd.com/b/desnoes-and-geddes-red-stripe/3692),
+- [Singha](https://untappd.com/b/boon-rawd-brewery-singha/6344).
