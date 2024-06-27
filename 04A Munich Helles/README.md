@@ -63,10 +63,10 @@ SRM: 3 – 5
 ABV: 4.7 – 5.4%
 
 <b>Commercial Examples:</b>
-- Augustiner Lagerbier Hell,
-- Hacker-Pschorr Münchner Gold,
-- Löwenbraü Original,
-- Paulaner Münchner Lager,
-- Schönramer Hell,
-- Spaten Münchner Hell,
-- Weihenstephaner Original Helles.
+- [Augustiner Lagerbier Hell](https://untappd.com/b/augustiner-brau-munchen-lagerbier-hell/9254),
+- [Hacker-Pschorr Münchner Gold](https://untappd.com/b/hacker-pschorr-munchner-munich-gold/16313),
+- [Löwenbraü Original](https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-original/25914),
+- [Paulaner Münchner Lager](https://untappd.com/b/paulaner-brauerei-paulaner-munchner-hell-munchner-lager-original-munich-lager/3235),
+- [Schönramer Hell](https://untappd.com/b/private-landbrauerei-schonram-schonramer-hell/87641),
+- [Spaten Münchner Hell](https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-munchen-munchner-hell-premium-lager/1633),
+- [Weihenstephaner Original Helles](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-original/2716).
