@@ -65,9 +65,9 @@ SRM: 4 – 6
 ABV: 5.0 – 6.0%
 
 <b>Commercial Examples:</b>
-- Chuckanut Export Dortmunder Lager,
-- DAB Dortmunder Export,
-- Dortmunder Kronen,
-- Landshuter Edel Hell,
-- Müllerbräu Export Gold,
-- Schönramer Gold.
+- [Chuckanut Export Dortmunder Lager](https://untappd.com/b/chuckanut-brewery-export-dortmunder-lager/2718594),
+- [DAB Dortmunder Export](https://untappd.com/b/dortmunder-actien-brauerei-dab-export-dortmunder-export/30445),
+- [Dortmunder Kronen](https://untappd.com/b/dortmunder-actien-brauerei-dortmunder-kronen-pilsener/30635),
+- [Landshuter Edel Hell](https://untappd.com/b/landshuter-brauhaus-edelhell/84440),
+- [Müllerbräu Export Gold](https://untappd.com/b/mullerbrau-pfaffenhofen-gold-export/179731),
+- [Schönramer Gold](https://untappd.com/b/private-landbrauerei-schonram-gold/27321).
