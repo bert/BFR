@@ -56,9 +56,9 @@ SRM: 3 – 6
 ABV: 3.0 – 4.1%
 
 <b>Commercial Examples:</b>
-- Bernard světlé pivo 10,
-- Březňák světlé výčepní pivo,
-- Notch Session Pils,
-- Primátor Antonín světlé výčepní,
-- Radegast Rázna 10,
-- Únětické pivo 10°.
+- [Bernard světlé pivo 10](https://untappd.com/b/bernard-family-brewery-light-lager-svetle-pivo-10/29830),
+- [Březňák světlé výčepní pivo](https://untappd.com/b/velke-brezno-breznak-svetle-vycepni/317366),
+- [Notch Session Pils](https://untappd.com/b/notch-brewing-notch-session-pils/24772),
+- [Primátor Antonín světlé výčepní](https://untappd.com/b/primator-antonin/1997565),
+- [Radegast Rázna 10](https://untappd.com/b/radegast-radegast-razna-10/2108664),
+- [Únětické pivo 10°](https://untappd.com/b/uneticky-pivovar-uneticke-pivo-100-nefiltrovane/202474).
