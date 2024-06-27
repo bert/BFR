@@ -58,9 +58,9 @@ SRM: 14 – 30
 ABV: 4.2 – 6.0%
 
 <b>Commercial Examples:</b>
-- Baltika #4 Original,
-- Dixie Blackened Voodoo,
-- Heineken Dark Lager,
-- Saint Pauli Girl Special Dark,
-- San Miguel Dark,
-- Shiner Bock.
+- [Baltika #4 Original](https://untappd.com/b/baltika-breweries-baltika-baltika-4-original-baltika-4-originalnoe/19510),
+- [Dixie Blackened Voodoo](https://untappd.com/b/faubourg-brewing-co-blackened-voodoo/5648),
+- [Heineken Dark Lager](https://untappd.com/b/heineken-heineken-dark/660),
+- [Saint Pauli Girl Special Dark](https://untappd.com/b/anheuser-busch-st-pauli-girl-special-dark/1544),
+- [San Miguel Dark](https://untappd.com/b/grupo-mahou-san-miguel-san-miguel-dark-lager/4438162),
+- [Shiner Bock](https://untappd.com/b/spoetzl-brewery-shiner-bock/4488).
