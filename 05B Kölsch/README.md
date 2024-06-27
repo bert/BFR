@@ -73,10 +73,10 @@ SRM: 3.5 – 5
 ABV: 4.4 – 5.2%
 
 <b>Commercial Examples:</b>
-- Früh Kölsch,
-- Gaffel Kölsch,
-- Mühlen Kölsch,
-- Päffgen Kolsch,
-- Reissdorf Kölsch,
-- Sion Kölsch,
-- Sünner Kölsch.
+- [Früh Kölsch](https://untappd.com/b/colner-hofbrau-fruh-fruh-kolsch/1639),
+- [Gaffel Kölsch](https://untappd.com/b/privatbrauerei-gaffel-becker-gaffel-kolsch/13647),
+- [Mühlen Kölsch](https://untappd.com/b/brauerei-zur-malzmuhle-muhlen-kolsch/49150),
+- [Päffgen Kolsch](https://untappd.com/b/brauerei-paffgen-paffgen-kolsch/138063),
+- [Reissdorf Kölsch](https://untappd.com/b/privat-brauerei-heinrich-reissdorf-reissdorf-kolsch/27194),
+- [Sion Kölsch](https://untappd.com/b/altstadt-brau-johann-sion-gmbh-sion-kolsch/1643),
+- [Sünner Kölsch](https://untappd.com/b/sunner-brauerei-und-brennerei-sunner-kolsch/55014).
