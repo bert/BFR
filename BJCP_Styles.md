@@ -9,7 +9,8 @@ described in the International Lager category.
 
 #### BJCP Styles:
 
-- 01A American Light Lager
+[01A American Light Lager](01A American Light Lager/README.md)
+
 - 01B American Light Lager
 - 01C Cream Ale
 - 01D American Wheat Beer
