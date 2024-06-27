@@ -67,9 +67,9 @@ SRM: 6 – 9
 ABV: 6.3 – 7.4%
 
 <b>Commercial Examples:</b>
-- Altenmünster Maibock,
-- Ayinger Maibock,
-- Chuckanut Maibock,
-- Einbecker Mai-Ur-Bock,
-- Hofbräu Maibock,
-- Mahr’s Heller Bock.
+- [Altenmünster Maibock](https://untappd.com/b/allgauer-brauhaus-altenmunster-maibock-hell/29821),
+- [Ayinger Maibock](https://untappd.com/b/ayinger-privatbrauerei-ayinger-maibock-goldenbock/258709),
+- [Chuckanut Maibock](https://untappd.com/b/chuckanut-brewery-maibock/1538136),
+- [Einbecker Mai-Ur-Bock](https://untappd.com/b/einbecker-brauhaus-einbecker-mai-ur-bock/8480),
+- [Hofbräu Maibock](https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-maibock/20290),
+- [Mahr’s Heller Bock](https://untappd.com/b/mahr-s-brau-heller-bock/273011).
