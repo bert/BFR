@@ -81,9 +81,9 @@ SRM: 4 – 6
 ABV: 5.8 – 6.3%
 
 <b>Commercial Examples:</b>
-- Augustiner Oktoberfest,
-- Hacker-Pschorr Superior Festbier,
-- Hofbräu Oktoberfestbier,
-- Löwenbräu Oktoberfestbier,
-- Paulaner Oktoberfest Bier,
-- Weihenstephaner Festbier.
+- [Augustiner Oktoberfest](https://untappd.com/b/augustiner-brau-munchen-oktoberfest-bier/75128),
+- [Hacker-Pschorr Superior Festbier](https://untappd.com/b/hacker-pschorr-superior/785219),
+- [Hofbräu Oktoberfestbier](https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-oktoberfestbier/40139),
+- [Löwenbräu Oktoberfestbier](https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-oktoberfestbier/65549),
+- [Paulaner Oktoberfest Bier](https://untappd.com/b/paulaner-brauerei-paulaner-oktoberfest-bier/78539),
+- [Weihenstephaner Festbier](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-festbier/14192).
