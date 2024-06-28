@@ -72,7 +72,7 @@ ABV: 4.4 – 5.2%
 <b>Commercial Examples:</b>
 - [ABK Pils Anno 1907](https://untappd.com/b/abk-aktienbrauerei-kaufbeuren-pils-anno-1907/1040),
 - [Jever Pilsener](https://untappd.com/b/friesisches-brauhaus-zu-jever-jever-pilsener/5325),
-- [König Pilsener](https://untappd.com/b/konig-brauerei-konig-pilsener/7521_,
+- [König Pilsener](https://untappd.com/b/konig-brauerei-konig-pilsener/7521),
 - [Paulaner Pils](https://untappd.com/b/paulaner-brauerei-paulaner-pils-munchner-pils/15622),
 - [Bierstadt Slow-Pour Pils](https://untappd.com/b/bierstadt-lagerhaus-slow-pour-pils/1688706),
 - [Rothaus Pils](https://untappd.com/b/badische-staatsbrauerei-rothaus-rothaus-pils-tannen-zapfle/2395),
