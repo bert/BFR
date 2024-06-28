@@ -66,7 +66,7 @@ or Czech hops.
 <b>Style Comparison:</b> Like a Märzen with but with a balanced,
 sweet, smoky aroma and flavor and a somewhat darker color.
 
-<b>Vital Statistics:<b/>
+<b>Vital Statistics:</b>
 
 OG: 1.050 – 1.057
 
@@ -79,8 +79,8 @@ SRM: 12 – 22
 ABV: 4.8 – 6%
 
 <b>Commercial Examples:</b>
-- Cervejaria Bamberg Rauchbier,
-- Göller Rauchbier,
-- Rittmayer Rauchbier,
-- Schlenkerla Rauchbier Märzen,
-- Spezial Rauchbier Märzen.
+- [Cervejaria Bamberg Rauchbier](https://untappd.com/b/dragornia-cervejaria-bamberg-marzen-rauchbier/3314836),
+- [Göller Rauchbier](https://untappd.com/b/brauerei-goller-rauchbier/104244),
+- [Rittmayer Rauchbier](https://untappd.com/b/brauerei-rittmayer-hallerndorfer-rauchbier/129949),
+- [Schlenkerla Rauchbier Märzen](https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-marzen/471),
+- [Spezial Rauchbier Märzen](https://untappd.com/b/brauerei-spezial-spezial-rauchbier-marzen/1675).
