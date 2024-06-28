@@ -70,11 +70,11 @@ SRM: 2 – 4
 ABV: 4.4 – 5.2%
 
 <b>Commercial Examples:</b>
-- ABK Pils Anno 1907,
-- Jever Pilsener,
-- König Pilsener,
-- Paulaner Pils,
-- Bierstadt Slow-Pour Pils,
-- Rothaus Pils,
-- Schönramer Pils,
-- Trumer Pils.
+- [ABK Pils Anno 1907](https://untappd.com/b/abk-aktienbrauerei-kaufbeuren-pils-anno-1907/1040),
+- [Jever Pilsener](https://untappd.com/b/friesisches-brauhaus-zu-jever-jever-pilsener/5325),
+- [König Pilsener](https://untappd.com/b/konig-brauerei-konig-pilsener/7521_,
+- [Paulaner Pils](https://untappd.com/b/paulaner-brauerei-paulaner-pils-munchner-pils/15622),
+- [Bierstadt Slow-Pour Pils](https://untappd.com/b/bierstadt-lagerhaus-slow-pour-pils/1688706),
+- [Rothaus Pils](https://untappd.com/b/badische-staatsbrauerei-rothaus-rothaus-pils-tannen-zapfle/2395),
+- [Schönramer Pils](https://untappd.com/b/private-landbrauerei-schonram-pils/16059),
+- [Trumer Pils](https://untappd.com/b/trumer-privatbrauerei-trumer-pils/7025).
