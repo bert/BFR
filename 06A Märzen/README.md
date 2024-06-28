@@ -80,8 +80,8 @@ SRM: 8 – 17
 ABV: 5.6 – 6.3%
 
 <b>Commercial Examples:</b>
-- Hacker-Pschorr Oktoberfest Märzen,
-- Hofmark Märzen,
-- Paulaner Oktoberfest,
-- Saalfelder Ur-Saalfelder,
-- Weltenburger Kloster Anno 1050.
+- [Hacker-Pschorr Oktoberfest Märzen](https://untappd.com/b/hacker-pschorr-oktoberfest-marzen/1827),
+- [Hofmark Märzen](https://untappd.com/b/hofmark-brauerei-marzen/2749792),
+- [Paulaner Oktoberfest](https://untappd.com/b/paulaner-brauerei-oktoberfest-marzen-original-munchner-marzen/15180),
+- [Saalfelder Ur-Saalfelder](https://untappd.com/b/burgerliches-brauhaus-saalfeld-ur-saalfelder/92175),
+- [Weltenburger Kloster Anno 1050](https://untappd.com/b/klosterbrauerei-weltenburg-weltenburger-anno-1050/25588).
