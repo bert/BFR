@@ -65,9 +65,9 @@ SRM: 17 – 28
 ABV: 4.5 – 5.6%
 
 <b>Commercial Examples:</b>
-- Ayinger Altbairisch Dunkel,
-- Ettaler Kloster-Dunkel,
-- Eittinger Urtyp Dunkel,
-- Hacker-Pschorr Münchner Dunkel,
-- Hofbräuhaus Dunkel,
-- Weltenburger Kloster Barock-Dunkel.
+- [Ayinger Altbairisch Dunkel](https://untappd.com/b/ayinger-privatbrauerei-ayinger-altbairisch-dunkel/26091),
+- [Ettaler Kloster-Dunkel](https://untappd.com/b/klosterbrauerei-ettal-ettaler-kloster-dunkel/494),
+- [Eittinger Urtyp Dunkel](https://untappd.com/b/eittinger-fischer-brau-eittinger-urtyp-dunkel/603282),
+- [Hacker-Pschorr Münchner Dunkel](https://untappd.com/b/hacker-pschorr-munchner-dunkel-munich-dark/2790),
+- [Hofbräuhaus Dunkel](https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-dunkel-dunkel-gold/8314),
+- [Weltenburger Kloster Barock-Dunkel](https://untappd.com/b/klosterbrauerei-weltenburg-weltenburger-kloster-barock-dunkel/18497).
