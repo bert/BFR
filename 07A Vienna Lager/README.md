@@ -62,10 +62,10 @@ SRM: 9 – 15
 ABV: 4.7 – 5.5%
 
 <b>Commercial Examples:</b>
-- Chuckanut Vienna Lager,
-- Devils Backbone Vienna Lager,
-- Figueroa Mountain Red Lager,
-- Heavy Seas Cutlass,
-- Ottakringer Wiener Original,
-- Schell’s Firebrick,
-- Theresianer Vienna.
+- [Chuckanut Vienna Lager](https://untappd.com/b/chuckanut-brewery-vienna-lager/33961),
+- [Devils Backbone Vienna Lager](https://untappd.com/b/devils-backbone-brewing-company-vienna-lager/18974),
+- [Figueroa Mountain Red Lager](https://untappd.com/b/figueroa-mountain-brewing-co-danish-red-lager/39441),
+- [Heavy Seas Cutlass](https://untappd.com/b/heavy-seas-beer-cutlass/293529),
+- [Ottakringer Wiener Original](https://untappd.com/b/ottakringer-brauerei-wiener-original/575290),
+- [Schell’s Firebrick](https://untappd.com/b/schell-s-brewery-firebrick/9049),
+- [Theresianer Vienna](https://untappd.com/b/theresianer-vienna/47730).
