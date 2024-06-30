@@ -81,10 +81,10 @@ SRM: 9 – 17
 ABV: 4.3 – 5.5%
 
 <b>Commercial Examples:</b>
-- Bolten Alt,
-- Diebels Alt,
-- Füchschen Alt,
-- Original Schlüssel Alt,
-- Schlösser Alt,
-- Schumacher Alt,
-- Uerige Altbier
+- [Bolten Alt](https://untappd.com/b/privatbrauerei-bolten-boltens-alt/77038),
+- [Diebels Alt](https://untappd.com/b/brauerei-diebels-abinbev-alt/23116),
+- [Füchschen Alt](https://untappd.com/b/brauerei-im-fuchschen-fuchschen-alt/36242),
+- [Original Schlüssel Alt](https://untappd.com/b/hausbrauerei-zum-schlussel-original-schlussel/57714),
+- [Schlösser Alt](https://untappd.com/b/radeberger-gruppe-schlosser-alt/30877),
+- [Schumacher Alt](https://untappd.com/b/brauerei-schumacher-schumacher-alt/20196),
+- [Uerige Altbier](https://untappd.com/b/uerige-obergarige-hausbrauerei-alt/18116).
