@@ -67,9 +67,9 @@ SRM: 19 – 30
 ABV: 4.4 – 5.4%
 
 <b>Commercial Examples:</b>
-- Chuckanut Schwarz Lager,
-- Devils Backbone Schwartz Bier,
-- Köstritzer Schwarzbier,
-- Kulmbacher Mönchshof Schwarzbier,
-- Nuezeller Original Badebier,
-- pFriem Schwarzbier.
+- [Chuckanut Schwarz Lager](https://untappd.com/b/chuckanut-brewery-schwarzbier/91352),
+- [Devils Backbone Schwartz Bier](https://untappd.com/b/devils-backbone-brewing-company-schwartz-bier-black-lager/81327),
+- [Köstritzer Schwarzbier](https://untappd.com/b/kostritzer-schwarzbierbrauerei-kostritzer-schwarzbier/25784),
+- [Kulmbacher Mönchshof Schwarzbier](https://untappd.com/b/kulmbacher-brauerei-monchshof-schwarzbier/480),
+- [Neuzeller Original Badebier](https://untappd.com/b/klosterbrauerei-neuzelle-original-badebier/1515),
+- [pFriem Schwarzbier](https://untappd.com/b/pfriem-family-brewers-schwarzbier/387956).
