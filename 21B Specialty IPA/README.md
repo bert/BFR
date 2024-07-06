@@ -65,9 +65,9 @@ that style (e.g., double [American] IPA). A Session IPA is a 21B
 Specialty IPA with a base style of 21A American IPA with
 Session strength. A Double IPA is Category 22A not 21B.
 
-<b>Entry Instructions:</b> Entrant <u>must</u> specify a <b>strength</b>
+<b>Entry Instructions:</b> Entrant _must_ specify a <b>strength</b>
 (session, standard, double); if no strength is specified, standard
-will be assumed. Entrant __must__ specify specific <b>type</b> of
+will be assumed. Entrant _must_ specify specific <b>type</b> of
 Specialty IPA from the list of Currently Defined Types
 identified in the Style Guidelines, or as amended by Provisional
 Styles on the BJCP website; OR the entrant must describe the
