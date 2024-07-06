@@ -78,8 +78,15 @@ feel that judges may not recognize the varietal characteristics of
 newer hops. Entrants may specify a combination of defined
 IPA types (e.g., Black Rye IPA) without providing additional
 descriptions.
-Currently Defined Types: Belgian IPA, Black IPA, Brown
-IPA, Red IPA, Rye IPA, White IPA, Brut IPA
+
+<b>Currently Defined Types:</b>
+- Belgian IPA,
+- Black IPA,
+- Brown IPA,
+- Red IPA,
+- Rye IPA,
+- White IPA,
+- Brut IPA.
 
 <b>Vital Statistics:</b>
 
