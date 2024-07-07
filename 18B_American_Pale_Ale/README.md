@@ -81,9 +81,9 @@ SRM: 5 – 10
 ABV: 4.5 – 6.2%
 
 <b>Commercial Examples:</b>
-- Deschutes Mirror Pond Pale Ale,
-- Half Acre Daisy Cutter Pale Ale,
-- Great Lakes Burning River,
-- La Cumbre Acclimated APA,
-- Sierra Nevada Pale Ale,
-- Stone Pale Ale 2.0
+- [Deschutes Mirror Pond Pale Ale](https://untappd.com/b/deschutes-brewery-mirror-pond/3587),
+- [Half Acre Daisy Cutter Pale Ale](https://untappd.com/b/half-acre-beer-company-daisy-cutter-pale-ale/7249),
+- [Great Lakes Burning River](https://untappd.com/b/great-lakes-brewing-company-burning-river-pale-ale/11397),
+- [La Cumbre Acclimated APA](https://untappd.com/b/la-cumbre-brewing-company-acclimated-apa/3162884),
+- [Sierra Nevada Pale Ale](https://untappd.com/b/sierra-nevada-brewing-co-pale-ale/6284),
+- [Stone Pale Ale 2.0](https://untappd.com/b/stone-brewing-stone-pale-ale-2-0/1001272).
