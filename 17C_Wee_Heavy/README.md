@@ -65,9 +65,9 @@ SRM: 14 – 25
 ABV: 6.5 – 10.0%
 
 <b>Commercial Examples:</b>
-- Belhaven Wee Heavy,
-- Broughton Old Jock,
-- McEwan’s Scotch Ale,
-- Orkney Skull Splitter,
-- Traquair House Ale,
-- The Duck-Rabbit Wee Heavy Scotch-Style Ale.
+- [Belhaven Wee Heavy](https://untappd.com/b/belhaven-brewery-90-wee-heavy/404110),
+- [Broughton Old Jock](https://untappd.com/b/broughton-ales-old-jock/1901),
+- [McEwan’s Scotch Ale](https://untappd.com/b/eagle-brewery-formerly-charles-wells-mcewan-s-scotch-ale/24727),
+- [Orkney Skull Splitter](https://untappd.com/b/orkney-brewery-skull-splitter/3108),
+- [Traquair House Ale](https://untappd.com/b/traquair-house-brewery-house-ale/2245),
+- [The Duck-Rabbit Wee Heavy Scotch-Style Ale](https://untappd.com/b/the-duck-rabbit-craft-brewery-wee-heavy-scotch-style-ale/9566).
