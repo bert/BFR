@@ -78,9 +78,9 @@ SRM: 6 – 14
 ABV: 5.5 – 7.5%
 
 <b>Commercial Examples:</b>
-- Bell’s Two-Hearted Ale,
-- Cigar City Jai Alai,
-- Fat Heads Head Hunter IPA,
-- Firestone Walker Union Jack,
-- Maine Lunch,
-- Russian River Blind Pig IPA.
+- [Bell’s Two-Hearted Ale](https://untappd.com/b/bell-s-brewery-two-hearted-ipa/4133),
+- [Cigar City Jai Alai](https://untappd.com/b/cigar-city-brewing-jai-alai/5724),
+- [Fat Heads Head Hunter IPA](https://untappd.com/b/fat-head-s-brewery-head-hunter-ipa/11845),
+- [Firestone Walker Union Jack](https://untappd.com/b/firestone-walker-brewing-company-union-jack-ipa/5428),
+- [Maine Lunch](https://untappd.com/b/maine-beer-company-lunch/49892),
+- [Russian River Blind Pig IPA](https://untappd.com/b/russian-river-brewing-company-blind-pig-ipa/4041).
