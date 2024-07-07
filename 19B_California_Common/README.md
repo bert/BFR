@@ -65,5 +65,5 @@ SRM: 9 – 14
 ABV: 4.5 – 5.5%
 
 <b>Commercial Examples:</b>
-- Anchor Steam,
-- Steamworks Steam Engine Lager.
+- [Anchor Steam](https://untappd.com/b/anchor-brewing-company-anchor-steam-beer/6204),
+- [Steamworks Steam Engine Lager](https://untappd.com/b/steamworks-brewing-steam-engine-lager/21859).
