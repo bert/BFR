@@ -67,8 +67,8 @@ SRM: 30 – 40
 ABV: 5.0 – 7.0%
 
 <b>Commercial Examples:</b>
-- Avery Out of Bounds Stout,
-- Bell’s Kalamazoo Stout,
-- Deschutes Obsidian Stout,
-- Sierra Nevada Stout,
-- Trillium Secret Stairs.
+- [Avery Out of Bounds Stout](https://untappd.com/b/avery-brewing-company-out-of-bounds-stout/9915),
+- [Bell’s Kalamazoo Stout](https://untappd.com/b/bell-s-brewery-kalamazoo-stout/4134),
+- [Deschutes Obsidian Stout](https://untappd.com/b/deschutes-brewery-obsidian-stout/3622),
+- [Sierra Nevada Stout](https://untappd.com/b/sierra-nevada-brewing-co-stout/6201),
+- [Trillium Secret Stairs](https://untappd.com/b/trillium-brewing-company-secret-stairs/1399429).
