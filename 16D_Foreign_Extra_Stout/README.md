@@ -67,9 +67,9 @@ SRM: 30 – 40
 ABV: 6.3 – 8.0%
 
 <b>Commercial Examples:</b>
-- Coopers Best Extra Stout,
-- Guinness Foreign Extra Stout,
-- The Kernel Export Stout London 1890,
-- La Cumbre Malpais Stout,
-- Pelican Tsunami Export Stout,
-- Ridgeway Foreign Export Stout.
+- [Coopers Best Extra Stout](https://untappd.com/b/coopers-best-extra-stout/4933),
+- [Guinness Foreign Extra Stout](https://untappd.com/b/guinness-guinness-foreign-extra-stout/1199),
+- [The Kernel Export Stout London 1890](https://untappd.com/b/the-kernel-brewery-export-stout-london-1890/13241),
+- [La Cumbre Malpais Stout](https://untappd.com/b/la-cumbre-brewing-company-malpais-stout/14241),
+- [Pelican Tsunami Export Stout](https://untappd.com/b/pelican-brewing-company-tsunami/7940),
+- [Ridgeway Foreign Export Stout](https://untappd.com/b/ridgeway-brewing-foreign-export-stout/15111).
