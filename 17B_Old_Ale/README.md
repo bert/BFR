@@ -80,8 +80,8 @@ SRM: 10 – 22
 ABV: 5.5 – 9.0%
 
 <b>Commercial Examples:</b>
-- Avery Old Jubilation,
-- Berlina Old Ale,
-- Greene King Strong Suffolk Ale,
-- Marston Owd Roger,
-- Theakston Old Peculier.
+- [Avery Old Jubilation](https://untappd.com/b/avery-brewing-co-old-jubilation-ale/6829),
+- [Berlina Old Ale](https://untappd.com/b/berlina-patagonica-brewery-old-ale/681631),
+- [Greene King Strong Suffolk Ale](https://untappd.com/b/greene-king-strong-suffolk-dark-ale-vintage-ale-olde-suffolk-english-ale/16482),
+- [Marston Owd Roger](https://untappd.com/b/marston-s-brewery-owd-rodger/26140),
+- [Theakston Old Peculier](https://untappd.com/b/theakston-old-peculier/2323).
