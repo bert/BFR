@@ -86,9 +86,9 @@ SRM: 8 – 22
 ABV: 8.0 – 12.0%
 
 <b>Commercial Examples:</b>
-- Burton Bridge Thomas Sykes Old Ale,
-- Coniston No. 9 Barley Wine,
-- Fuller’s Golden Pride,
-- Hogs Back A over T,
-- J.W. Lee’s Vintage Harvest Ale,
-- Robinson’s Old Tom.
+- [Burton Bridge Thomas Sykes Old Ale](https://untappd.com/b/burton-bridge-brewery-thomas-sykes/2052),
+- [Coniston No. 9 Barley Wine](https://untappd.com/b/coniston-brewing-no-9-barley-wine/25667),
+- [Fuller’s Golden Pride](https://untappd.com/b/fuller-s-griffin-brewery-golden-pride/15068),
+- [Hogs Back A over T](https://untappd.com/b/hogs-back-brewery-a-over-t-aromas-over-tongham/122600),
+- [J.W. Lee’s Vintage Harvest Ale](https://untappd.com/b/j-w-lees-and-co-harvest-ale/891753),
+- [Robinson’s Old Tom](https://untappd.com/b/robinsons-brewery-old-tom-original/15276).
