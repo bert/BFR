@@ -73,9 +73,9 @@ SRM: 18 – 35
 ABV: 4.3 – 6.2%
 
 <b>Commercial Examples:</b>
-- Avery Ellie’s Brown Ale,
-- Big Sky Moose Drool Brown Ale,
-- Brooklyn Brown Ale,
-- Bell’s Best Brown,
-- Smuttynose Old Brown Dog Ale,
-- Telluride Face Down Brown.
+- [Avery Ellie’s Brown Ale](https://untappd.com/b/avery-brewing-co-ellie-s-brown-ale/6206),
+- [Big Sky Moose Drool Brown Ale](https://untappd.com/b/big-sky-brewing-company-moose-drool-brown-ale/3762),
+- [Brooklyn Brown Ale](https://untappd.com/b/brooklyn-brewery-brooklyn-brown-ale/3557),
+- [Bell’s Best Brown](https://untappd.com/b/bell-s-brewery-best-brown-ale/7230),
+- [Smuttynose Old Brown Dog Ale](https://untappd.com/b/smuttynose-brewing-co-old-brown-dog-ale/5158),
+- [Telluride Face Down Brown](https://untappd.com/b/telluride-brewing-company-face-down-brown/110827).
