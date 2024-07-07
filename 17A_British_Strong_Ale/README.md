@@ -79,9 +79,9 @@ SRM: 8 – 22
 ABV: 5.5 – 8.0%
 
 <b>Commercial Examples:</b>
-- Fuller’s 1845,
-- Harvey’s Elizabethan Ale,
-- J.W. Lees Moonraker,
-- McEwan’s Champion,
-- Samuel Smith’s Winter Welcome,
-- Shepherd Neame 1698.
+- [Fuller’s 1845](https://untappd.com/b/fuller-s-griffin-brewery-1845/19611),
+- [Harvey’s Elizabethan Ale](https://untappd.com/b/harvey-s-brewery-elizabethan-ale/2354),
+- [J.W. Lees Moonraker](https://untappd.com/b/j-w-lees-and-co-moonraker/448),
+- [McEwan’s Champion](https://untappd.com/b/eagle-brewery-formerly-charles-wells-mcewan-s-champion/19378),
+- [Samuel Smith’s Winter Welcome](https://untappd.com/b/samuel-smith-winter-welcome-ale/632964),
+- [Shepherd Neame 1698](https://untappd.com/b/shepherd-neame-1698/45432).
