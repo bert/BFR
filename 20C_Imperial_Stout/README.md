@@ -88,14 +88,14 @@ ABV: 8.0 – 12.0%
 
 <b>Commercial Examples:</b>
 - American:
-  - Bell’s Expedition Stout,
-  - Great Divide Yeti Imperial Stout,
-  - North Coast Old Rasputin Imperial Stout,
-  - Oskar Blues Ten Fidy,
-  - Sierra Nevada Narwhal Imperial Stout
+  - [Bell’s Expedition Stout](https://untappd.com/b/bell-s-brewery-expedition-stout/17513),
+  - [Great Divide Yeti Imperial Stout](https://untappd.com/b/great-divide-brewing-company-yeti/833),
+  - [North Coast Old Rasputin Imperial Stout](https://untappd.com/b/north-coast-brewing-company-old-rasputin/30855),
+  - [Oskar Blues Ten Fidy](https://untappd.com/b/oskar-blues-brewery-ten-fidy/4744),
+  - [Sierra Nevada Narwhal Imperial Stout](https://untappd.com/b/sierra-nevada-brewing-co-narwhal/263666).
 - English:
-  - 2SP Brewing Co The Russian,
-  - Courage Imperial Russian Stout,
-  - Le Coq Imperial Extra Double Stout,
-  - Samuel Smith Imperial Stout,
-  - Thornbridge Saint Petersburg.
+  - [2SP Brewing Co The Russian](https://untappd.com/b/2sp-brewing-company-the-russian/1183407),
+  - [Courage Imperial Russian Stout](https://untappd.com/b/eagle-brewery-formerly-charles-wells-courage-russian-imperial-stout/86964),
+  - [Le Coq Imperial Extra Double Stout](https://untappd.com/b/a-le-coq-imperial-extra-double-stout/2320666),
+  - [Samuel Smith Imperial Stout](https://untappd.com/b/samuel-smith-imperial-stout/14),
+  - [Thornbridge Saint Petersburg](https://untappd.com/b/thornbridge-brewery-saint-petersburg/11934).
