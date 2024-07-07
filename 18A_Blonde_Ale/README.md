@@ -64,9 +64,9 @@ SRM: 3 – 6
 ABV: 3.8 – 5.5%
 
 <b>Commercial Examples:</b>
-- Firestone Walker 805,
-- Kona Big Wave Golden Ale,
-- Real Ale Firemans #4 Blonde Ale,
-- Russian River Aud Blonde,
-- Victory Summer Love,
-- Widmer Citra Summer Blonde Brew.
+- [Firestone Walker 805](https://untappd.com/b/firestone-walker-brewing-company-805/124504),
+- [Kona Big Wave Golden Ale](https://untappd.com/b/kona-brewing-hawaii-big-wave/9657),
+- [Real Ale Firemans #4 Blonde Ale](https://untappd.com/b/real-ale-brewing-company-firemans-4/6497),
+- [Russian River Aud Blonde](https://untappd.com/b/russian-river-brewing-company-aud-blonde/4502),
+- [Victory Summer Love](https://untappd.com/b/victory-brewing-company-summer-love/18545),
+- [Widmer Citra Summer Blonde Brew](https://untappd.com/b/widmer-brothers-brewing-citra-blonde-summer-brew/48918).
