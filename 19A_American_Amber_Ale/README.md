@@ -70,9 +70,9 @@ SRM: 10 – 17
 ABV: 4.5 – 6.2%
 
 <b>Commercial Examples:</b>
-- Anderson Valley Boont Amber Ale,
-- Bell’s Amber Ale,
-- Full Sail Amber,
-- North Coast Red Seal Ale,
-- Saint Arnold Amber Ale,
-- Tröegs Hopback Amber Ale.
+- [Anderson Valley Boont Amber Ale](https://untappd.com/b/anderson-valley-brewing-company-boont-amber-ale/4481),
+- [Bell’s Amber Ale](https://untappd.com/b/bell-s-brewery-amber-ale/4136),
+- [Full Sail Amber](https://untappd.com/b/full-sail-brewing-company-amber-ale/3465),
+- [North Coast Red Seal Ale](https://untappd.com/b/north-coast-brewing-company-ruedrich-s-red-seal-ale/5112),
+- [Saint Arnold Amber Ale](https://untappd.com/b/saint-arnold-brewing-company-amber-ale/5321),
+- [Tröegs Hopback Amber Ale](https://untappd.com/b/troegs-independent-brewing-hopback-amber-ale/9350).
