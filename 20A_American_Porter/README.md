@@ -53,7 +53,7 @@ American hops typically used for bittering, but US or UK
 finishing hops can be used. Ale yeast can either be clean US
 versions or characterful English varieties.
 
-<b>Style Comparison:<.b> More bitter and often stronger with more
+<b>Style Comparison:</b> More bitter and often stronger with more
 dark malt qualities and dryness than English Porters or Pre-
 Prohibition Porters. Less strong and assertive than American
 Stouts.
@@ -71,10 +71,9 @@ SRM: 22 – 40
 ABV: 4.8 – 6.5%
 
 <b>Commercial Examples:</b>
-- Anchor Porter,
-- Bell’s Porter,
-- Deschutes Black Butte Porter,
-- Great Lakes Edmund Fitzgerald Porter,
-- Sierra Nevada Porter,
-- Smuttynose Robust Porter.
-- 
+- [Anchor Porter](https://untappd.com/b/anchor-brewing-company-anchor-porter/2240),
+- [Bell’s Porter](https://untappd.com/b/bell-s-brewery-porter/23175),
+- [Deschutes Black Butte Porter](https://untappd.com/b/deschutes-brewery-black-butte-porter/2025),
+- [Great Lakes Edmund Fitzgerald Porter](https://untappd.com/b/great-lakes-brewing-company-edmund-fitzgerald-porter/12049),
+- [Sierra Nevada Porter](https://untappd.com/b/sierra-nevada-brewing-co-porter/7847),
+- [Smuttynose Robust Porter](https://untappd.com/b/smuttynose-brewing-co-robust-porter/5161). 
