@@ -61,5 +61,5 @@ SRM: 12 – 20
 ABV: 3.3 – 3.9%
 
 <b>Commercial Examples:</b>
-- McEwan's 70/-,
-- Orkney Raven Ale.
+- [McEwan's 70/-](https://untappd.com/b/eagle-brewery-formerly-charles-wells-mcewan-s-70/40310),
+- [Orkney Raven Ale](https://untappd.com/b/orkney-brewery-raven/13970).
