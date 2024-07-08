@@ -68,7 +68,7 @@ SRM: 30 – 40
 ABV: 5.0 – 6.5%
 
 <b>Commercial Examples:</b>
-- Guinness Extra Stout,
-- O’Hara’s Leann Folláin,
-- Porterhouse XXXX,
-- Sheaf Stout.
+- [Guinness Extra Stout](https://untappd.com/b/guinness-guinness-extra-stout/2242226),
+- [O’Hara’s Leann Folláin](https://untappd.com/b/o-hara-s-brewery-o-hara-s-leann-follain/65758),
+- [Porterhouse XXXX](https://untappd.com/b/the-porterhouse-brew-co-xxxx/24590),
+- [Sheaf Stout](https://untappd.com/b/carlton-and-united-breweries-tooths-sheaf-stout/6094).
