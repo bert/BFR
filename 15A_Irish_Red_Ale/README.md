@@ -71,9 +71,9 @@ SRM: 9 – 14
 ABV: 3.8 – 5.0%
 
 <b>Commercial Examples:</b>
-- Franciscan Well Rebel Red,
-- Kilkenny Irish Beer,
-- Murphy’s Irish Red,
-- O’Hara’s Irish Red Ale,
-- Porterhouse Nitro Red Ale,
-- Smithwick’s Irish Ale.
+- [Franciscan Well Rebel Red](https://untappd.com/b/franciscan-well-brewery-rebel-red/34329),
+- [Kilkenny Irish Beer](https://untappd.com/b/guinness-kilkenny/6337),
+- [Murphy’s Irish Red](https://untappd.com/b/heineken-ireland-murphy-s-irish-red/7120),
+- [O’Hara’s Irish Red Ale](https://untappd.com/b/o-hara-s-brewery-o-hara-s-irish-red/13675),
+- [Porterhouse Nitro Red Ale](https://untappd.com/b/the-porterhouse-brewing-co-nitro-red-ale/14405),
+- [Smithwick’s Irish Ale](https://untappd.com/b/guinness-smithwick-s/13388).
