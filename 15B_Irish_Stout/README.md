@@ -80,9 +80,9 @@ SRM: 25 – 40
 ABV: 3.8 – 5.0%
 
 <b>Commercial Examples:</b>
-- Beamish Irish Stout,
-- Belhaven Black Stout,
-- Guinness Draught,
-- Murphy's Irish Stout,
-- O’Hara’s Irish Stout,
-- Porterhouse Irish Stout.
+- [Beamish Irish Stout](https://untappd.com/b/heineken-ireland-beamish-irish-stout/1533),
+- [Belhaven Black Stout](https://untappd.com/b/belhaven-brewery-belhaven-black/136568),
+- [Guinness Draught](https://untappd.com/b/guinness-guinness-draught/4473),
+- [Murphy's Irish Stout](https://untappd.com/b/heineken-ireland-murphy-s-irish-stout/5932),
+- [O’Hara’s Irish Stout](https://untappd.com/b/o-hara-s-brewery-o-hara-s-irish-stout/6210),
+- [Porterhouse Irish Stout](https://untappd.com/b/the-porterhouse-brew-co-irish-stout/4204199).
