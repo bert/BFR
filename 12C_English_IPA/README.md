@@ -99,9 +99,9 @@ SRM: 6 – 14
 ABV: 5.0 – 7.5%
 
 <b>Commercial Examples:</b>
-- Berkshire Lost Sailor IPA,
-- Fuller's Bengal Lancer,
-- Marston’s Old Empire IPA,
-- Meantime London IPA,
-- Thornbridge Jaipur,
-- Worthington White Shield.
+- [Berkshire Lost Sailor IPA](https://untappd.com/b/berkshire-brewing-company-b-b-c-lost-sailor-india-pale-ale-ipa/6450),
+- [Fuller's Bengal Lancer](https://untappd.com/b/fuller-s-griffin-brewery-bengal-lancer/13458),
+- [Marston’s Old Empire IPA](https://untappd.com/b/marston-s-brewery-old-empire-ipa/15040),
+- [Meantime London IPA](https://untappd.com/b/meantime-brewing-company-london-ipa/424),
+- [Thornbridge Jaipur](https://untappd.com/b/thornbridge-brewery-jaipur/7705),
+- [Worthington White Shield](https://untappd.com/b/molson-coors-uk-worthington-s-white-shield/15084).
