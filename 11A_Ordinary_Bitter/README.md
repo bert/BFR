@@ -63,9 +63,9 @@ SRM: 8 – 14
 ABV: 3.2 – 3.8%
 
 <b>Commercial Examples:</b>
-- Bateman’s XB,
-- Brains Bitter,
-- Brakspear Gravity,
-- Fuller's Chiswick Bitter,
-- Greene King IPA,
-- Tetley’s Original Bitter.
+- [Bateman’s XB](https://untappd.com/b/batemans-brewery-xb/39048),
+- [Brains Bitter](https://untappd.com/b/brains-bitter/64561),
+- [Brakspear Gravity](https://untappd.com/b/brakspear-brewing-company-gravity/3257379),
+- [Fuller's Chiswick Bitter](https://untappd.com/b/fuller-s-griffin-brewery-chiswick-bitter/8823),
+- [Greene King IPA](https://untappd.com/b/greene-king-greene-king-ipa/6716),
+- [Tetley’s Original Bitter](https://untappd.com/b/joshua-tetley-and-son-tetley-s-bitter/44113).
