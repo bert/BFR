@@ -61,5 +61,5 @@ SRM: 17 – 25
 ABV: 2.5 – 3.3%
 
 <b>Commercial Examples:</b>
-- Belhaven Best,
-- McEwan's 60/-.
+- [Belhaven Best](https://untappd.com/b/belhaven-brewery-belhaven-best/10606),
+- {McEwan's 60/-](https://untappd.com/b/eagle-brewery-formerly-charles-wells-mcewan-s-60/42586).
