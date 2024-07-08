@@ -97,4 +97,4 @@ SRM: 4 – 7
 ABV: 4.5 – 6.0%
 
 <b>Commercial Examples:</b>
-- Coopers Sparkling Ale.
+- [Coopers Sparkling Ale](https://untappd.com/b/cooper-s-family-brewing-ozzy-man-s-sparkling-ale/5373336).
