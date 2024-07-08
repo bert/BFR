@@ -62,9 +62,9 @@ SRM: 12 – 20
 ABV: 3.9 – 6.0%
 
 <b>Commercial Examples:</b>
-- Belhaven Scottish Ale,
-- Broughton Wee Jock 80 Shilling,
-- Caledonian Edinburgh Castle,
-- McEwan’s 80/-,
-- McEwan’s Export,
-- Traquair Bear Ale.
+- [Belhaven Scottish Ale](https://untappd.com/b/belhaven-brewery-scottish-ale/2247),
+- [Broughton Wee Jock 80 Shilling](https://untappd.com/b/broughton-ales-wee-jock-80-shilling/3323919),
+- [Caledonian Edinburgh Castle](https://untappd.com/b/caledonian-brewing-co-edinburgh-castle/967682),
+- [McEwan’s 80/-](https://untappd.com/b/eagle-brewery-formerly-charles-wells-mcewan-s-80/35951),
+- [McEwan’s Export](https://untappd.com/b/eagle-brewery-formerly-charles-wells-mcewan-s-export/62852),
+- [Traquair Bear Ale](https://untappd.com/b/traquair-house-brewery-bear-ale/1949).
