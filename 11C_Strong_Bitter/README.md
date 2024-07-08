@@ -84,9 +84,9 @@ SRM: 8 – 18
 ABV: 4.6 – 6.2%
 
 <b>Commercial Examples:</b>
-- Bass Ale,
-- Bateman’s Triple XB,
-- Robinsons Trooper,
-- Samuel Smith’s Organic Pale Ale,
-- Shepherd Neame Bishop's Finger,
-- Summit Extra Pale Ale.
+- [Bass Ale](https://untappd.com/b/bass-brewers-bass-premium-ale/266682),
+- [Bateman’s Triple XB](https://untappd.com/b/batemans-brewery-xxxb-triple-xb/34066),
+- [Robinsons Trooper](https://untappd.com/b/robinsons-brewery-trooper/332969),
+- [Samuel Smith’s Organic Pale Ale](https://untappd.com/b/samuel-smith-old-brewery-organic-pale-ale/31931),
+- [Shepherd Neame Bishop's Finger](https://untappd.com/b/shepherd-neame-bishops-finger/2962),
+- [Summit Extra Pale Ale](https://untappd.com/b/summit-brewing-company-extra-pale-ale-epa/3140).
