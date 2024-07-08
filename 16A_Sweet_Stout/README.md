@@ -61,9 +61,9 @@ SRM: 30 – 40
 ABV: 4.0 – 6.0%
 
 <b>Commercial Examples:</b>
-- Bristol Beer Factory Milk Stout,
-- Firestone Nitro Merlin Milk Stout,
-- Left Hand Milk Stout,
-- Lancaster Milk Stout,
-- Mackeson's XXX Stout,
-- Marston’s Pearl Jet Stout.
+- [Bristol Beer Factory Milk Stout](https://untappd.com/b/bristol-beer-factory-milk-stout/13229),
+- [Firestone Nitro Merlin Milk Stout](https://untappd.com/b/firestone-walker-brewing-company-nitro-merlin/1387435),
+- [Left Hand Milk Stout](https://untappd.com/b/left-hand-brewing-company-milk-stout/1507),
+- [Lancaster Milk Stout](https://untappd.com/b/lancaster-brewing-company-milk-stout/3881),
+- [Mackeson's XXX Stout](https://untappd.com/b/whitbread-beer-company-mackeson-xxx-stout/2242),
+- [Marston’s Pearl Jet Stout](https://untappd.com/b/marston-s-brewery-pearl-jet/10166).
