@@ -84,9 +84,9 @@ SRM: 20 – 30
 ABV: 4.0 – 5.4%
 
 <b>Commercial Examples:</b>
-- Bateman’s Salem Porter,
-- Bridge Burton Porter,
-- Fuller's London Porter,
-- Nethergate Old Growler Porter,
-- RCH Old Slug Porter,
-- Samuel Smith Taddy Porter.
+- [Bateman’s Salem Porter](https://untappd.com/b/batemans-brewery-salem-porter/4577143),
+- [Bridge Burton Porter](https://untappd.com/b/burton-bridge-brewery-burton-porter/3184),
+- [Fuller's London Porter](https://untappd.com/b/fuller-s-griffin-brewery-london-porter/2560),
+- [Nethergate Old Growler Porter](https://untappd.com/b/nethergate-brewery-old-growler/369),
+- [RCH Old Slug Porter](https://untappd.com/b/rch-brewery-old-slug/453),
+- [Samuel Smith Taddy Porter](https://untappd.com/b/samuel-smith-s-old-brewery-taddy-porter/2241).
