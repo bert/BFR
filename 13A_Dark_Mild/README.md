@@ -77,9 +77,9 @@ SRM: 14 – 25
 ABV: 3.0 – 3.8%
 
 <b>Commercial Examples:</b>
-- Brain’s Dark,
-- Greene King XX Mild,
-- Hobson’s Champion Mild,
-- Mighty Oak Oscar Wilde,
-- Moorhouse Black Cat,
-- Theakston Traditional Mild.
+- [Brain’s Dark](https://untappd.com/b/brains-dark/17092),
+- [Greene King XX Mild](https://untappd.com/b/greene-king-xx-mild/124457),
+- [Hobson’s Champion Mild](https://untappd.com/b/hobsons-brewery-the-champion/762929),
+- [Mighty Oak Oscar Wilde](https://untappd.com/b/the-mighty-oak-brewing-company-ltd-oscar-wilde/58316),
+- [Moorhouse Black Cat](https://untappd.com/b/moorhouse-s-brewery-black-cat/2568),
+- [Theakston Traditional Mild](https://untappd.com/b/theakston-traditional-mild/35612).
