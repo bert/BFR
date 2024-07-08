@@ -62,9 +62,9 @@ SRM: 8 – 16
 ABV: 3.8 – 4.6%
 
 <b>Commercial Examples:</b>
-- Adnams Southwold Bitter,
-- Fuller's London Pride,
-- Harvey’s Sussex Best Bitter,
-- Salopian Darwin’s Origin,
-- Surrey Hills Shere Drop,
-- Timothy Taylor Landlord.
+- [Adnams Southwold Bitter](https://untappd.com/b/adnams-southwold-bitter/89431),
+- [Fuller's London Pride](https://untappd.com/b/fuller-s-griffin-brewery-london-pride/2762),
+- [Harvey’s Sussex Best Bitter](https://untappd.com/b/harvey-s-brewery-sussex-best/46571),
+- [Salopian Darwin’s Origin](https://untappd.com/b/salopian-brewery-darwin-s-origin/11069),
+- [Surrey Hills Shere Drop](https://untappd.com/b/surrey-hills-brewery-shere-drop/298141),
+- [Timothy Taylor Landlord](https://untappd.com/b/timothy-taylor-s-brewery-landlord/8676).
