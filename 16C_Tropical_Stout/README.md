@@ -65,9 +65,9 @@ SRM: 30 – 40
 ABV: 5.5 – 8.0%
 
 <b>Commercial Examples:</b>
-- ABC Extra Stout,
-- Bahamian Strong Back Stout,
-- Dragon Stout,
-- Jamaica Stout,
-- Lion Stout,
-- Royal Extra Stout.
+- [ABC Extra Stout](https://untappd.com/b/heineken-asia-pacific-abc-extra-stout/8438),
+- [Bahamian Strong Back Stout](https://untappd.com/b/bahamian-brewery-and-beverage-co-strong-back-stout/13869),
+- [Dragon Stout](https://untappd.com/b/desnoes-and-geddes-dragon-stout/24231),
+- [Jamaica Stout](https://untappd.com/b/razz-breweries-ltd-jamaica-stout/9778),
+- [Lion Stout](https://untappd.com/b/lion-brewery-ceylon-lion-stout/2001),
+- [Royal Extra Stout](https://untappd.com/b/carib-brewery-limited-royal-extra-stout/29982).
