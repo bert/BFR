@@ -69,9 +69,9 @@ SRM: 12 – 22
 ABV: 4.2 – 5.9%
 
 <b>Commercial Examples:</b>
-- AleSmith Nut Brown Ale,
-- Cigar City Maduro Brown Ale,
-- Maxim Double Maxim,
-- Newcastle Brown Ale,
-- Riggwelter Yorkshire Ale,
-- Samuel Smith’s Nut Brown Ale.
+- [AleSmith Nut Brown Ale](https://untappd.com/b/alesmith-brewing-company-nut-brown-ale/6315),
+- [Cigar City Maduro Brown Ale](https://untappd.com/b/cigar-city-brewing-maduro-brown-ale/17113),
+- [Maxim Double Maxim](https://untappd.com/b/maxim-brewery-double-maxim/51874),
+- [Newcastle Brown Ale](https://untappd.com/b/john-smith-s-newcastle-brown-ale/5856),
+- [Riggwelter Yorkshire Ale](https://untappd.com/b/black-sheep-riggwelter/1427),
+- [Samuel Smith’s Nut Brown Ale](https://untappd.com/b/samuel-smith-old-brewery-tadcaster-nut-brown-ale/6872).
