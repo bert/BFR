@@ -73,9 +73,9 @@ SRM: 2 – 5
 ABV: 3.8 – 5.0%
 
 <b>Commercial Examples:</b>
-- Adnams Explorer,
-- Crouch Vale Brewers Gold,
-- Golden Hill Exmoor Gold,
-- Hop Back Summer Lightning,
-- Oakham JHB,
-- Spitfire Golden Ale.
+- [Adnams Explorer](https://untappd.com/b/adnams-explorer/4004),
+- [Crouch Vale Brewers Gold](https://untappd.com/b/crouch-vale-brewers-gold/18164),
+- [Golden Hill Exmoor Gold](https://untappd.com/b/golden-hill-brewing-exmoor-gold-ale/3033276),
+- [Hop Back Summer Lightning](https://untappd.com/b/hop-back-brewery-summer-lightning/140),
+- [Oakham JHB](https://untappd.com/b/oakham-ales-jhb-jeffrey-hudson-bitter/53755),
+- [Spitfire Golden Ale](https://untappd.com/b/shepherd-neame-spitfire-golden-ale/1195589).
