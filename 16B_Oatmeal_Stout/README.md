@@ -73,9 +73,9 @@ SRM: 22 – 40
 ABV: 4.2 – 5.9%
 
 <b>Commercial Examples:</b>
-- Anderson Valley Barney Flats Oatmeal Stout,
-- Broughton Stout Jock,
-- St-Ambroise Oatmeal Stout,
-- Samuel Smith Oatmeal Stout,
-- Summit Oatmeal Stout,
-- Young's London Stout.
+- [Anderson Valley Barney Flats Oatmeal Stout](https://untappd.com/b/anderson-valley-brewing-company-barney-flats-oatmeal-stout/8821),
+- [Broughton Stout Jock](https://untappd.com/b/broughton-ales-stout-jock/3686141),
+- [St-Ambroise Oatmeal Stout](https://untappd.com/b/brasserie-mcauslan-st-ambroise-st-ambroise-oatmeal-stout-noire-a-l-avoine/7651),
+- [Samuel Smith Oatmeal Stout](https://untappd.com/b/samuel-smith-oatmeal-stout/8),
+- [Summit Oatmeal Stout](https://untappd.com/b/summit-brewing-company-oatmeal-stout/4306821),
+- [Young's London Stout](https://untappd.com/b/eagle-brewery-formerly-charles-wells-young-s-london-stout/123317).
