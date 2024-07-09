@@ -86,9 +86,9 @@ SRM: 2 – 6
 ABV: 4.5 – 5.8%.
 
 <b>Commercial Examples:</b>
-- Croucher New Zealand Pilsner,
-- Emerson’s Pilsner,
-- Liberty Halo Pilsner,
-- Panhead Port Road Pilsner,
-- Sawmill Pilsner,
-- Tuatara Mot Eureka.
+- [Croucher New Zealand Pilsner](https://untappd.com/b/croucher-brewing-co-sulfur-city-pilsner/2130404),
+- [Emerson’s Pilsner](https://untappd.com/b/emerson-s-brewery-pilsner/19533),
+- [Liberty Halo Pilsner](https://untappd.com/b/liberty-brewing-halo-pilsner/503566),
+- [Panhead Port Road Pilsner](https://untappd.com/b/panhead-custom-ales-port-road-pils/422915),
+- [Sawmill Pilsner](https://untappd.com/b/sawmill-brewery-pilsner/757956),
+- [Tuatara Mot Eureka](https://untappd.com/b/tuatara-brewery-tuatara-pilsner/1845225).
