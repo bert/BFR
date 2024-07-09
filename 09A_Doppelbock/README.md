@@ -90,16 +90,16 @@ ABV: 7.0 – 10.0%
 
 <b>Commercial Examples:</b>
 - Dark Versions:
-   - Andechs Doppelbock Dunkel,
-   - Ayinger Celebrator,
-   - Paulaner Salvator,
-   - Spaten Optimator,
-   - Tröegs Troegenator,
-   - Weihenstephaner Korbinian.
+   - [Andechs Doppelbock Dunkel](https://untappd.com/b/klosterbrauerei-andechs-andechser-doppelbock-dunkel/1517),
+   - [Ayinger Celebrator](https://untappd.com/b/ayinger-privatbrauerei-ayinger-celebrator/6683),
+   - [Paulaner Salvator](https://untappd.com/b/paulaner-brauerei-salvator/4469),
+   - [Spaten Optimator](https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-optimator/5972),
+   - [Tröegs Troegenator](https://untappd.com/b/troegs-independent-brewing-troegenator-doublebock/31961),
+   - [Weihenstephaner Korbinian](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-korbinian/14435).
 - Pale Versions:
-   - Eggenberg Urbock 23º,
-   - Meinel Doppelbock Hell,
-   - Plank Bavarian Heller Doppelbock,
-   - Riegele Auris 19,
-   - Schönbuch Doppelbock Hell,
-   - Staffelberg-Bräu Zwergator.
+   - [Eggenberg Urbock 23º](https://untappd.com/b/schloss-eggenberg-urbock-230/819),
+   - [Meinel Doppelbock Hell](https://untappd.com/b/meinel-brau-doppelbock-hell/521389),
+   - [Plank Bavarian Heller Doppelbock](https://untappd.com/b/brauerei-michael-plank-bavarian-heller-doppelbock/17690),
+   - [Riegele Auris 19](https://untappd.com/b/brauhaus-riegele-auris-19/520872),
+   - [Schönbuch Doppelbock Hell](https://untappd.com/b/schonbuch-braumanufaktur-doppelbock-hell/170094),
+   - [Staffelberg-Bräu Zwergator](https://untappd.com/b/staffelberg-brau-doppel-bock/116758).
