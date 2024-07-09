@@ -73,9 +73,9 @@ SRM: 14 – 23
 ABV: 4.3 – 5.6%
 
 <b>Commercial Examples:</b>
-- Ayinger Urweisse,
-- Ettaler Benediktiner Weißbier Dunkel,
-- Franziskaner Hefe-Weisse Dunkel,
-- Hirsch Dunkel Weisse,
-- Tucher Dunkles Hefe Weizen,
-- Weihenstephaner Hefeweißbier Dunkel.
+- [Ayinger Urweisse](https://untappd.com/b/ayinger-privatbrauerei-ayinger-urweisse/24679),
+- [Ettaler Benediktiner Weißbier Dunkel](https://untappd.com/b/benediktiner-weissbrau-benediktiner-weissbier-dunkel/585552),
+- [Franziskaner Hefe-Weisse Dunkel](https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-franziskaner-premium-weissbier-dunkel/4519),
+- [Hirsch Dunkel Weisse](https://untappd.com/b/hirsch-brauerei-honer-hirsch-dunkle-hefe-weisse/585572),
+- [Tucher Dunkles Hefe Weizen](https://untappd.com/b/tucher-brau-radeberger-gruppe-tucher-dunkles-hefe-weizen/2661),
+- [Weihenstephaner Hefeweißbier Dunkel](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier-dunkel/6273).
