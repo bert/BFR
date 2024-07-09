@@ -94,12 +94,12 @@ ABV: 6.5 – 9.0%
 
 <b>Commercial Examples:</b>
 - Dark:
-   - Plank Bavarian Dunkler Weizenbock,
-   - Penn Weizenbock,
-   - Schalchner Weisser Bock,
-   - Schneider Weisse Aventinus.
+   - [Plank Bavarian Dunkler Weizenbock](https://untappd.com/b/privatbrauerei-plank-laaber-dunkler-weizenbock/390802),
+   - [Penn Weizenbock](https://untappd.com/b/penn-brewery-weizenbock/47691),
+   - [Schalchner Weisser Bock](https://untappd.com/b/weissbrau-schwendl-schalchner-weisser-bock/329708),
+   - [Schneider Weisse Aventinus](https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-aventinus-tap06/16851).
 - Pale:
-   - Ayinger Weizenbock,
-   - Distelhäuser Weizen Bock,
-   - Ladenburger Weizenbock Hell,
-   - Weihenstephaner Vitus.
+   - [Ayinger Weizenbock](https://untappd.com/b/ayinger-privatbrauerei-ayinger-weizenbock/8973),
+   - [Distelhäuser Weizen Bock](https://untappd.com/b/distelhauser-brauerei-weizen-bock/3116118),
+   - [Ladenburger Weizenbock Hell](https://untappd.com/b/brauerei-ladenburger-weizenbock-hell/638199),
+   - [Weihenstephaner Vitus](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-vitus/7408).
