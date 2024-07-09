@@ -74,9 +74,9 @@ SRM: 2 – 6
 ABV: 4.3 – 5.6%
 
 <b>Commercial Examples:</b>
-- Ayinger Bräuweisse,
-- Distelhäuser Hell Weizen,
-- Hacker-Pschorr Hefeweißbier,
-- Hofbräuhaus Münchner Weisse,
-- Schneider Weisse Original Weissbier,
-- Weihenstephaner Hefeweißbier.
+- [Ayinger Bräuweisse](https://untappd.com/b/ayinger-privatbrauerei-ayinger-brauweisse/21768),
+- [Distelhäuser Hell Weizen](https://untappd.com/b/distelhauser-brauerei-weizen/236880),
+- [Hacker-Pschorr Hefeweißbier](https://untappd.com/b/hacker-pschorr-weisse-hefe-weisse-weissbier/5975),
+- [Hofbräuhaus Münchner Weisse](https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-munchner-weisse-munchner-kindl-hefe-weizen/7834),
+- [Schneider Weisse Original Weissbier](https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-original-tap07/11982),
+- [Weihenstephaner Hefeweißbier](https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier/8745).
