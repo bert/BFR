@@ -1,0 +1,753 @@
+{
+  "fgEstimated": 1.01,
+  "_init": true,
+  "mashEfficiency": 73.3,
+  "carbonation": 2.4,
+  "fermentation": {
+    "steps": [
+      {
+        "type": "Primary",
+        "stepTime": 14,
+        "stepTemp": 20
+      }
+    ],
+    "name": "Ale",
+    "_id": "default"
+  },
+  "boilTime": 60,
+  "diastaticPower": 0,
+  "path": "",
+  "styleBuGu": false,
+  "styleRbr": false,
+  "mash": {
+    "steps": [
+      {
+        "stepTemp": 66,
+        "displayStepTemp": 66,
+        "type": "Temperature",
+        "stepTime": 60,
+        "rampTime": null
+      }
+    ],
+    "_id": "6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2",
+    "_timestamp_ms": 1599244924266,
+    "name": "01 One Step Mash (60 min)",
+    "_version": "2.3.14",
+    "_created": {
+      "seconds": 1592329902,
+      "nanoseconds": 204000000
+    },
+    "hidden": false,
+    "_timestamp": {
+      "seconds": 1599244924,
+      "nanoseconds": 266000000
+    }
+  },
+  "_timestamp": "2021-05-01T19:19:50.372Z",
+  "_timestamp_ms": 1619896790372,
+  "styleOg": false,
+  "_id": "nawSlkqMvLNsVwgpS7hpkpXqP7gTSw",
+  "attenuation": 0.761,
+  "rbRatio": 0.61,
+  "styleCarb": true,
+  "extraGravity": 0,
+  "_type": "recipe",
+  "equipment": {
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "spargeWaterOverflow": "Top-Up",
+    "waterGrainRatio": 3,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "postBoilKettleVol": 5.958333333333333,
+    "name": "01 Brouwpunt 5L (60min) (rev 4)",
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL",
+    "_id": "7cnW0WZ4QkAoYoLszsljpXk4uEoc34",
+    "spargeWaterMax": null,
+    "_version": "2.4.8",
+    "batchSize": 5.6,
+    "hopstandTemperature": 80,
+    "mashWaterMax": 12,
+    "mashTunLoss": 0.12,
+    "_meta": {
+      "efficiencyIsCalculated": true,
+      "mashEfficiencyIsCalculated": true
+    },
+    "boilSize": 7.76,
+    "grainAbsorptionRate": 0.96,
+    "fermenterLoss": 0.6,
+    "evaporationRate": 0.23195876288659795,
+    "fermenterLossEstimate": 0,
+    "bottlingVolume": 5,
+    "mashEfficiency": 73.3,
+    "calcMashEfficiency": true,
+    "spargeWaterMin": null,
+    "calcAromaHopUtilization": true,
+    "fermenterVolume": 5.6,
+    "efficiency": 71.8,
+    "trubChillerLoss": 0.12,
+    "calcBoilVolume": true,
+    "hidden": false,
+    "aromaHopUtilization": 0.23,
+    "_timestamp": {
+      "seconds": 1603469797,
+      "nanoseconds": 350000000
+    },
+    "efficiencyType": "Fermenter",
+    "hopUtilization": 1,
+    "_timestamp_ms": 1603469797350,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "mashTunDeadSpace": 0,
+    "mashWaterVolumeLimitEnabled": true,
+    "boilOffPerHr": 1.8,
+    "waterCalculation": "Default",
+    "boilTime": 60,
+    "calcStrikeWaterTemperature": true
+  },
+  "_created": {
+    "seconds": 1614978160,
+    "nanoseconds": 659000000
+  },
+  "styleConformity": false,
+  "abv": 4.33,
+  "postBoilGravity": 1.042917377,
+  "yeastToleranceExceededBy": null,
+  "styleAbv": false,
+  "styleFg": true,
+  "totalGravity": 1.042917377,
+  "fgFormula": "normal",
+  "firstWortGravity": null,
+  "hopsTotalAmount": 20,
+  "primaryTemp": 20,
+  "batchSize": 5.6,
+  "tags": null,
+  "sumDryHopPerLiter": 0,
+  "fermentableIbu": 0,
+  "hopStandMinutes": 10,
+  "notes": "Target: ABV = 4.5 %, IBU = 30, EBC = ?, OG = 1.044, FG = 1.010.",
+  "preBoilGravity": 1.033,
+  "hidden": false,
+  "efficiency": 71.8,
+  "og": 1.042917377,
+  "author": "GHW@homebrewinguk.com",
+  "fermentablesTotalAmount": 1.053,
+  "miscs": [],
+  "styleIbu": true,
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "ibuFormula": "tinseth",
+  "boilSize": 7.76,
+  "fg": 1.01,
+  "hops": [
+    {
+      "origin": "United Kingdom",
+      "oil": null,
+      "beta": null,
+      "ibu": 11.7,
+      "usedIn": "",
+      "hidden": false,
+      "hsi": null,
+      "manufacturingDate": null,
+      "myrcene": null,
+      "_timestamp_ms": 1598880018613,
+      "time": 60,
+      "amount": 3,
+      "year": 2019,
+      "cohumulone": null,
+      "_timestamp": {
+        "seconds": 1598880018,
+        "nanoseconds": 613000000
+      },
+      "costPerAmount": 0.035,
+      "name": "First Gold (T90)",
+      "substitutes": "",
+      "farnesene": null,
+      "inventory": 0,
+      "humulene": null,
+      "_id": "default-ba699106",
+      "alpha": 7.5,
+      "caryophyllene": null,
+      "usage": "Both",
+      "bestBeforeDate": null,
+      "userNotes": "The Malt Miller (UK) HOP-04-006",
+      "temp": null,
+      "_created": {
+        "seconds": 1596366993,
+        "nanoseconds": 295000000
+      },
+      "_version": "2.3.14",
+      "use": "Boil",
+      "notes": "This variety is very suitable both as a general kettle hop and also for late and dry hopping in all types of beer. First Gold has good aroma and bittering qualities, much of the flavour of WGV seems to have been retained but with an added extra citrus quality, produces a well-balanced bitterness and a fruity, slightly spicy note in ales. An orangey quality has been observed in many beers brewed using this variety.",
+      "type": "Pellet"
+    },
+    {
+      "origin": "United Kingdom",
+      "costPerAmount": 0.035,
+      "userNotes": "The Malt Miller (UK) HOP-04-006",
+      "hidden": false,
+      "substitutes": "",
+      "farnesene": null,
+      "amount": 7,
+      "name": "First Gold (T90)",
+      "inventory": 0,
+      "use": "Boil",
+      "beta": null,
+      "_id": "default-ba699106",
+      "temp": null,
+      "caryophyllene": null,
+      "notes": "This variety is very suitable both as a general kettle hop and also for late and dry hopping in all types of beer. First Gold has good aroma and bittering qualities, much of the flavour of WGV seems to have been retained but with an added extra citrus quality, produces a well-balanced bitterness and a fruity, slightly spicy note in ales. An orangey quality has been observed in many beers brewed using this variety.",
+      "_timestamp_ms": 1598880018613,
+      "manufacturingDate": null,
+      "usedIn": "",
+      "_version": "2.3.14",
+      "usage": "Both",
+      "type": "Pellet",
+      "ibu": 11.3,
+      "oil": null,
+      "year": 2019,
+      "hsi": null,
+      "humulene": null,
+      "time": 10,
+      "bestBeforeDate": null,
+      "alpha": 7.5,
+      "myrcene": null,
+      "cohumulone": null,
+      "_timestamp": {
+        "seconds": 1598880018,
+        "nanoseconds": 613000000
+      },
+      "_created": {
+        "seconds": 1596366993,
+        "nanoseconds": 295000000
+      }
+    },
+    {
+      "_version": "2.3.14",
+      "_timestamp_ms": 1598880018613,
+      "manufacturingDate": null,
+      "usedIn": "",
+      "_id": "default-ba699106",
+      "userNotes": "The Malt Miller (UK) HOP-04-006",
+      "alpha": 7.5,
+      "myrcene": null,
+      "farnesene": null,
+      "usage": "Both",
+      "oil": null,
+      "_created": {
+        "seconds": 1596366993,
+        "nanoseconds": 295000000
+      },
+      "inventory": 0,
+      "substitutes": "",
+      "origin": "United Kingdom",
+      "temp": null,
+      "year": 2019,
+      "cohumulone": null,
+      "time": 10,
+      "hsi": null,
+      "name": "First Gold (T90)",
+      "hidden": false,
+      "timeUnit": null,
+      "_timestamp": {
+        "seconds": 1598880018,
+        "nanoseconds": 613000000
+      },
+      "bestBeforeDate": null,
+      "beta": null,
+      "amount": 10,
+      "humulene": null,
+      "use": "Aroma",
+      "type": "Pellet",
+      "notes": "This variety is very suitable both as a general kettle hop and also for late and dry hopping in all types of beer. First Gold has good aroma and bittering qualities, much of the flavour of WGV seems to have been retained but with an added extra citrus quality, produces a well-balanced bitterness and a fruity, slightly spicy note in ales. An orangey quality has been observed in many beers brewed using this variety.",
+      "ibu": 3.2,
+      "caryophyllene": null,
+      "costPerAmount": 0.035
+    }
+  ],
+  "_version": "2.7.6",
+  "color": 4.1,
+  "water": {
+    "spargeAdjustments": {
+      "volume": 5.73,
+      "acids": [
+        {
+          "amount": 0,
+          "type": "lactic",
+          "concentration": 80
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "settings": {
+      "calciumCarbonate": {
+        "sparge": false,
+        "auto": false,
+        "mash": false
+      },
+      "adjustSparge": false,
+      "sodiumChloride": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      },
+      "sodiumMetabisulfite": {
+        "auto": false,
+        "mash": false,
+        "sparge": false
+      },
+      "magnesiumChloride": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "calciumHydroxide": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "calciumSulfate": {
+        "mash": true,
+        "sparge": true,
+        "auto": true
+      },
+      "calciumChloride": {
+        "form": "liquid",
+        "auto": true,
+        "sparge": true,
+        "mash": true
+      },
+      "magnesiumSulfate": {
+        "sparge": true,
+        "auto": true,
+        "mash": true
+      },
+      "sodiumBicarbonate": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      }
+    },
+    "enableSpargeAdjustments": false,
+    "sourceTargetDiff": null,
+    "mash": {
+      "chloride": 92,
+      "type": "source",
+      "_timestamp": {
+        "seconds": 1614282622,
+        "nanoseconds": 413000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "residualAlkalinity": 103.2187,
+      "hardness": 141,
+      "ionBalanceOff": true,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "hidden": false,
+      "_version": "2.7.1",
+      "soClRatio": 0.53,
+      "sodium": 68,
+      "calcium": 40,
+      "magnesium": 10,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "ionBalance": -2,
+      "_timestamp_ms": 1614282622413,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "anions": 6.369,
+      "sulfate": 49,
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "cations": 5.777,
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122
+    },
+    "dilutionPercentage": null,
+    "totalAdjustments": {
+      "bicarbonate": 0,
+      "magnesiumChloride": 0,
+      "chloride": 0,
+      "calciumChloride": null,
+      "calcium": 0,
+      "sodiumChloride": null,
+      "ltAMS": 0,
+      "sodium": 0,
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "alkalinityMeqL": 0,
+          "type": "lactic"
+        }
+      ],
+      "sodiumMetabisulfite": 0,
+      "magnesiumSulfate": null,
+      "volume": 8.89,
+      "magnesium": 0,
+      "calciumCarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": null,
+      "sulfate": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "ltDWB": 0,
+      "sodiumBicarbonate": null
+    },
+    "total": {
+      "chloride": 92,
+      "type": "source",
+      "_timestamp": {
+        "seconds": 1614282622,
+        "nanoseconds": 413000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "residualAlkalinity": 103.2187,
+      "hardness": 141,
+      "ionBalanceOff": true,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "hidden": false,
+      "_version": "2.7.1",
+      "soClRatio": 0.53,
+      "sodium": 68,
+      "calcium": 40,
+      "magnesium": 10,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "ionBalance": -2,
+      "_timestamp_ms": 1614282622413,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "anions": 6.369,
+      "sulfate": 49,
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "cations": 5.777,
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122
+    },
+    "acidPhAdjustment": 0,
+    "mashWaterAmount": null,
+    "mashAdjustments": {
+      "bicarbonate": 0,
+      "magnesiumChloride": 0,
+      "chloride": 0,
+      "calciumChloride": null,
+      "calcium": 0,
+      "sodiumChloride": null,
+      "ltAMS": 0,
+      "sodium": 0,
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "alkalinityMeqL": 0,
+          "type": "lactic"
+        }
+      ],
+      "sodiumMetabisulfite": 0,
+      "magnesiumSulfate": null,
+      "volume": 3.16,
+      "magnesium": 0,
+      "calciumCarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": null,
+      "sulfate": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "ltDWB": 0,
+      "sodiumBicarbonate": null
+    },
+    "totalTargetDiff": null,
+    "spargeTargetDiff": null,
+    "meta": {
+      "equalSourceTotal": true
+    },
+    "spargeWaterAmount": null,
+    "mashPh": 5.84,
+    "spargeAcidPhAdjustment": 0,
+    "mashPhDistilled": 5.69,
+    "mashTargetDiff": null,
+    "sparge": {
+      "chloride": 92,
+      "type": "source",
+      "_timestamp": {
+        "seconds": 1614282622,
+        "nanoseconds": 413000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "residualAlkalinity": 103.2187,
+      "hardness": 141,
+      "ionBalanceOff": true,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "hidden": false,
+      "_version": "2.7.1",
+      "soClRatio": 0.53,
+      "sodium": 68,
+      "calcium": 40,
+      "magnesium": 10,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "ionBalance": -2,
+      "_timestamp_ms": 1614282622413,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "anions": 6.369,
+      "sulfate": 49,
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "cations": 5.777,
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122
+    },
+    "diluted": null,
+    "source": {
+      "chloride": 92,
+      "type": "source",
+      "_timestamp": {
+        "seconds": 1614282622,
+        "nanoseconds": 413000000
+      },
+      "_created": {
+        "seconds": 1590236754,
+        "nanoseconds": 620000000
+      },
+      "residualAlkalinity": 103.2187,
+      "hardness": 141,
+      "ionBalanceOff": true,
+      "residualAlkalinityMeqLCalc": 1.89354,
+      "hidden": false,
+      "_version": "2.7.1",
+      "soClRatio": 0.53,
+      "sodium": 68,
+      "calcium": 40,
+      "magnesium": 10,
+      "_id": "0dxrN20le1t8L3uAFyM7gaS9bpolSj",
+      "ionBalance": -2,
+      "_timestamp_ms": 1614282622413,
+      "name": "NL Hoofddorp Rein Tap Water (2020-Q3 WQR)",
+      "anions": 6.369,
+      "sulfate": 49,
+      "alkalinity": 137.6697,
+      "bicarbonate": 168,
+      "cations": 5.777,
+      "ph": 8.1,
+      "bicarbonateMeqL": 2.7533761636292122
+    }
+  },
+  "ogPlato": 10.7,
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "name": "First Gold Belgian Smash",
+  "data": {
+    "mashFermentablesAmount": 1.053,
+    "allDiastaticPower": false,
+    "totalDiastaticPower": 0,
+    "mashFermentables": [
+      {
+        "substitutes": "",
+        "lovibond": 2.6,
+        "potentialPercentage": 82.5,
+        "inventory": null,
+        "amount": 1.053,
+        "_timestamp_ms": 1598879502744,
+        "type": "Grain",
+        "_id": "default-e6ba5b8",
+        "ibuPerAmount": null,
+        "moisture": null,
+        "maxInBatch": 100,
+        "friability": null,
+        "protein": null,
+        "origin": "UK",
+        "diastaticPower": null,
+        "percentage": 100,
+        "fgdb": null,
+        "name": "Maris Otter",
+        "bestBeforeDate": null,
+        "coarseFineDiff": 1.5,
+        "_created": {
+          "seconds": 1598174043,
+          "nanoseconds": 775000000
+        },
+        "_timestamp": {
+          "seconds": 1598879502,
+          "nanoseconds": 744000000
+        },
+        "fan": null,
+        "notFermentable": false,
+        "notes": "The variety Maris Otter® was bred and developed in the 1960’s by Dr GDH Bell at the Plant Breeding Institute in Cambridge by crossing the varieties Proctor and Pioneer and has become one of the most enduring malting varieties in the history of modern barley cultivation.\n\nMaris Otter® has been grown for malting for more than 45 years and its pedigree and track record of delivering, year after year, consistent, processable and flavoursome malt is unsurpassed.\n\nCrisp Malting Maris Otter® is grown under contact by selected Norfolk farmers and is recognised worldwide as the benchmark barley for the best ale malt. In malting, as with brewing, the importance and the quality of raw materials cannot be underestimated.\n\nThe reliability of Maris Otter® malt quality has allowed brewers to develop, stabilise and maintain many of the world famous English cask conditioned ale brands we know today.",
+        "hidden": false,
+        "usedIn": "",
+        "attenuation": 0.81,
+        "color": 2.791878,
+        "cgdb": null,
+        "acid": 0,
+        "manufacturingDate": null,
+        "supplier": "Crisp",
+        "potential": 1.03795,
+        "_version": "2.3.14",
+        "costPerAmount": 1.76,
+        "grainCategory": "Base (Maris Otter)",
+        "userNotes": "The Malt Miller (UK) MAL-00-038"
+      }
+    ],
+    "otherFermentablesAmount": 0,
+    "otherFermentables": [],
+    "mashWaterAmount": 3.16,
+    "spargeWaterAmount": 5.73,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 5.73,
+    "totalWaterAmount": 8.89,
+    "hopsAmount": 20,
+    "strikeTemp": 72.1,
+    "mashVolume": 3.86551
+  },
+  "avgWeightedHopstandTemp": 80,
+  "fermentables": [
+    {
+      "substitutes": "",
+      "lovibond": 2.6,
+      "potentialPercentage": 82.5,
+      "inventory": null,
+      "amount": 1.053,
+      "_timestamp_ms": 1598879502744,
+      "type": "Grain",
+      "_id": "default-e6ba5b8",
+      "ibuPerAmount": null,
+      "moisture": null,
+      "maxInBatch": 100,
+      "friability": null,
+      "protein": null,
+      "origin": "UK",
+      "diastaticPower": null,
+      "percentage": 100,
+      "fgdb": null,
+      "name": "Maris Otter",
+      "bestBeforeDate": null,
+      "coarseFineDiff": 1.5,
+      "_created": {
+        "seconds": 1598174043,
+        "nanoseconds": 775000000
+      },
+      "_timestamp": {
+        "seconds": 1598879502,
+        "nanoseconds": 744000000
+      },
+      "fan": null,
+      "notFermentable": false,
+      "notes": "The variety Maris Otter® was bred and developed in the 1960’s by Dr GDH Bell at the Plant Breeding Institute in Cambridge by crossing the varieties Proctor and Pioneer and has become one of the most enduring malting varieties in the history of modern barley cultivation.\n\nMaris Otter® has been grown for malting for more than 45 years and its pedigree and track record of delivering, year after year, consistent, processable and flavoursome malt is unsurpassed.\n\nCrisp Malting Maris Otter® is grown under contact by selected Norfolk farmers and is recognised worldwide as the benchmark barley for the best ale malt. In malting, as with brewing, the importance and the quality of raw materials cannot be underestimated.\n\nThe reliability of Maris Otter® malt quality has allowed brewers to develop, stabilise and maintain many of the world famous English cask conditioned ale brands we know today.",
+      "hidden": false,
+      "usedIn": "",
+      "attenuation": 0.81,
+      "color": 2.791878,
+      "cgdb": null,
+      "acid": 0,
+      "manufacturingDate": null,
+      "supplier": "Crisp",
+      "potential": 1.03795,
+      "_version": "2.3.14",
+      "costPerAmount": 1.76,
+      "grainCategory": "Base (Maris Otter)",
+      "userNotes": "The Malt Miller (UK) MAL-00-038"
+    }
+  ],
+  "_ev": 1.1,
+  "buGuRatio": 0.61,
+  "type": "All Grain",
+  "style": {
+    "styleGuide": "BJCP 2015",
+    "colorMin": 8,
+    "ogMin": 1.048,
+    "category": "Belgian Ale",
+    "rbrMin": 0.39,
+    "_id": "default-83",
+    "buGuMax": 0.59,
+    "abvMax": 5.5,
+    "colorMax": 14,
+    "name": "Belgian Pale Ale",
+    "ogMax": 1.054,
+    "categoryNumber": "24",
+    "carbonationStyle": "24B",
+    "buGuMin": 0.39,
+    "fgMax": 1.014,
+    "rbrMax": 0.58,
+    "fgMin": 1.01,
+    "lovibondMin": 8,
+    "ibuMax": 30,
+    "ibuMin": 20,
+    "abvMin": 4.8,
+    "lovibondMax": 14,
+    "type": "Pale Ale",
+    "styleLetter": "B"
+  },
+  "ibu": 26.2,
+  "carbonationStyle": {
+    "_id": "24B",
+    "carbMin": 2.4,
+    "name": "Belgian Pale Ale",
+    "carbMax": 3.4
+  },
+  "styleColor": false,
+  "yeasts": [
+    {
+      "form": "Liquid",
+      "_id": "default-5dcdea",
+      "minTemp": 14.4,
+      "userNotes": "",
+      "description": "",
+      "minAttenuation": null,
+      "manufacturingDate": null,
+      "laboratory": "Wyeast Labs",
+      "bestBeforeDate": null,
+      "productId": "1214",
+      "maxAbv": 12,
+      "fermentsAll": false,
+      "type": "Ale",
+      "name": "Belgian Abbey Style Ale",
+      "attenuation": 78,
+      "maxTemp": 20,
+      "amount": 0.5,
+      "flocculation": "Medium-Low",
+      "maxAttenuation": null,
+      "unit": "pkg"
+    }
+  ],
+  "searchTags": [
+    "Belgian Pale Ale"
+  ],
+  "nutrition": {
+    "calories": {
+      "alcohol": 24.073635337238727,
+      "carbs": 15.712183308244946,
+      "total": 39.78581864548367,
+      "kJ": 166.4638652127037
+    },
+    "carbs": {
+      "total": 3.9734791285974187
+    }
+  }
+}
