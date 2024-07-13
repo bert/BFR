@@ -60,7 +60,7 @@
   "carbonation": 2.4,
   "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/u6zFCEcg7AniuTLlldY3y7YjeUGxJG/u6zFCEcg7AniuTLlldY3y7YjeUGxJG.jpeg",
   "hopStandMinutes": 0,
-  "_timestamp_ms": 1720899699355,
+  "_timestamp_ms": 1720900078430,
   "sumDryHopPerLiter": 0,
   "style": {
     "styleLetter": "D",
@@ -445,7 +445,7 @@
   "searchTags": [],
   "rbRatio": 0.7,
   "author": "George@homebrewinguk.com",
-  "_timestamp": "2024-07-13T19:41:39.355Z",
+  "_timestamp": "2024-07-13T19:47:58.430Z",
   "_id": "u6zFCEcg7AniuTLlldY3y7YjeUGxJG",
   "defaults": {
     "preferred": "metric",
@@ -475,7 +475,7 @@
   "yeasts": [
     {
       "attenuation": 90,
-      "amount": 0.2,
+      "amount": 0.4,
       "hidden": false,
       "productId": "",
       "type": "Ale",
