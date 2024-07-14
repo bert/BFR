@@ -34,7 +34,7 @@
   "fermentableIbu": 0,
   "hops": [
     {
-      "ibu": 27.3,
+      "ibu": 27,
       "usage": "Bittering",
       "actualTime": null,
       "type": "Pellet",
@@ -154,9 +154,9 @@
   "hopStandMinutes": 10,
   "abv": 3.68,
   "batchSize": 5.6,
-  "postBoilGravity": 1.03556926,
+  "postBoilGravity": 1.035785051,
   "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
-  "rbRatio": 0.91,
+  "rbRatio": 0.9,
   "avgWeightedHopstandTemp": 80,
   "searchTags": [],
   "notes": "Target: ABV = 3.8%, IBU =30.",
@@ -219,7 +219,7 @@
       "run": false
     }
   },
-  "og": 1.03556926,
+  "og": 1.035785051,
   "water": {
     "sparge": {
       "hardness": 21,
@@ -254,21 +254,27 @@
       "bicarbonateMeqL": 0.2786154451291465,
       "type": "source"
     },
-    "spargeTargetDiff": null,
-    "mashPh": 5.33,
+    "spargeTargetDiff": {
+      "calcium": -108,
+      "magnesium": -14,
+      "sodium": -16,
+      "chloride": -16,
+      "sulfate": -308,
+      "bicarbonate": -25,
+      "bicarbonateMeqL": -0.40972859577815657,
+      "cations": -7.238,
+      "anions": -7.274,
+      "ionBalance": 0,
+      "ionBalanceOff": false,
+      "soClRatio": 19.25,
+      "hardness": -327,
+      "alkalinity": -20.4866,
+      "residualAlkalinity": 64.8884,
+      "residualAlkalinityMeqLCalc": 1.72081
+    },
+    "mashPh": 5.17,
     "spargeAdjustments": {
       "volume": 5.25,
-      "calciumCarbonate": 0,
-      "sodiumBicarbonate": 0,
-      "calciumHydroxide": 0,
-      "calciumSulfate": 0,
-      "magnesiumSulfate": 0,
-      "calciumChloride": 0,
-      "magnesiumChloride": 0,
-      "sodiumChloride": 0,
-      "sodiumMetabisulfite": 0,
-      "ltDWB": 0,
-      "ltAMS": 0,
       "acids": [
         {
           "amount": 0,
@@ -286,7 +292,24 @@
     },
     "spargeAcidPhAdjustment": 0,
     "spargeWaterAmount": null,
-    "totalTargetDiff": null,
+    "totalTargetDiff": {
+      "calcium": -0.061,
+      "magnesium": 0.05,
+      "sodium": 0.007,
+      "chloride": 0.01,
+      "sulfate": 0.233,
+      "bicarbonate": -3.11,
+      "bicarbonateMeqL": -0.05097023731480267,
+      "cations": 0.001,
+      "anions": -0.046,
+      "ionBalance": -52,
+      "ionBalanceOff": false,
+      "soClRatio": 23.3,
+      "hardness": 0,
+      "alkalinity": -2.5485,
+      "residualAlkalinity": -2.53432,
+      "residualAlkalinityMeqLCalc": -0.05062
+    },
     "mashPhDistilled": 5.59,
     "source": {
       "hardness": 21,
@@ -323,114 +346,87 @@
     },
     "diluted": null,
     "total": {
-      "hardness": 21,
-      "chloride": 5,
+      "hardness": 348,
+      "chloride": 21.01,
       "_timestamp_ms": 1709073656599,
       "_version": "2.10.8",
       "_timestamp": {
         "seconds": 1709073656,
         "nanoseconds": 599000000
       },
-      "cations": 0.545,
-      "anions": 0.503,
-      "soClRatio": 0.8,
-      "bicarbonate": 17,
-      "calcium": 5,
+      "cations": 7.783,
+      "anions": 7.731,
+      "soClRatio": 14.86,
+      "bicarbonate": 38.89,
+      "calcium": 112.939,
       "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
       "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
-      "residualAlkalinityMeqLCalc": 0.16012,
-      "ionBalance": 2,
-      "sulfate": 4,
+      "residualAlkalinityMeqLCalc": -1.61131,
+      "ionBalance": 0,
+      "sulfate": 312.233,
       "ionBalanceOff": false,
       "ph": 6,
       "_created": {
         "seconds": 1615929593,
         "nanoseconds": 999000000
       },
-      "alkalinity": 13.9309,
+      "alkalinity": 31.8689,
       "hidden": false,
-      "sodium": 3,
-      "magnesium": 2,
-      "residualAlkalinity": 9.1836,
-      "bicarbonateMeqL": 0.2786154451291465,
+      "sodium": 19.007,
+      "magnesium": 16.05,
+      "residualAlkalinity": -58.23922,
+      "bicarbonateMeqL": 0.6373738035925004,
       "type": "source"
     },
     "dilutionPercentage": null,
     "mash": {
-      "hardness": 21,
-      "chloride": 5,
+      "hardness": 1024,
+      "chloride": 54.102,
       "_timestamp_ms": 1709073656599,
       "_version": "2.10.8",
       "_timestamp": {
         "seconds": 1709073656,
         "nanoseconds": 599000000
       },
-      "cations": 0.545,
-      "anions": 0.503,
-      "soClRatio": 0.8,
-      "bicarbonate": 17,
-      "calcium": 5,
+      "cations": 22.746,
+      "anions": 22.67,
+      "soClRatio": 17.55,
+      "bicarbonate": 84.134,
+      "calcium": 336.042,
       "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
       "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
-      "residualAlkalinityMeqLCalc": 0.16012,
-      "ionBalance": 2,
-      "sulfate": 4,
+      "residualAlkalinityMeqLCalc": -5.27273,
+      "ionBalance": 0,
+      "sulfate": 949.33,
       "ionBalanceOff": false,
       "ph": 6,
       "_created": {
         "seconds": 1615929593,
         "nanoseconds": 999000000
       },
-      "alkalinity": 13.9309,
+      "alkalinity": 68.9446,
       "hidden": false,
-      "sodium": 3,
-      "magnesium": 2,
-      "residualAlkalinity": 9.1836,
-      "bicarbonateMeqL": 0.2786154451291465,
+      "sodium": 52.094,
+      "magnesium": 45.089,
+      "residualAlkalinity": -197.59802,
+      "bicarbonateMeqL": 1.3788842270879769,
       "type": "source"
     },
     "totalAdjustments": {
       "volume": 7.79,
-      "calciumCarbonate": 0,
-      "sodiumBicarbonate": 0,
-      "calciumHydroxide": 0,
-      "calciumSulfate": 0,
-      "magnesiumSulfate": 0,
-      "calciumChloride": 0,
-      "magnesiumChloride": 0,
-      "sodiumChloride": 0,
-      "sodiumMetabisulfite": 0,
-      "ltDWB": 0,
-      "ltAMS": 0,
       "sodiumMetabisulfitePPM": 0,
-      "calcium": 0,
-      "magnesium": 0,
-      "sodium": 0,
-      "chloride": 0,
-      "sulfate": 0,
-      "bicarbonate": 0
-    },
-    "meta": {
-      "equalSourceTotal": true
-    },
-    "enableSpargeAdjustments": true,
-    "mashAdjustments": {
-      "sodiumBicarbonate": null,
-      "calciumSulfate": null,
-      "chloride": 0,
-      "calciumChloride": null,
-      "calciumCarbonate": 0,
-      "magnesiumChloride": 0,
-      "volume": 2.54,
-      "sodiumMetabisulfite": 0,
-      "sulfate": 0,
+      "calcium": 107.939,
+      "magnesium": 14.05,
+      "sodium": 16.007,
+      "chloride": 16.01,
+      "sulfate": 308.233,
+      "bicarbonate": 21.89,
+      "calciumSulfate": 3.53,
+      "calciumChloride": 0.16,
+      "magnesiumSulfate": 1.11,
+      "sodiumBicarbonate": 0.24,
+      "sodiumChloride": 0.15,
       "calciumHydroxide": 0,
-      "bicarbonate": 0,
-      "sodium": 0,
-      "ltDWB": 0,
-      "magnesium": 0,
-      "ltAMS": 0,
-      "sodiumChloride": null,
       "acids": [
         {
           "concentration": 80,
@@ -439,14 +435,83 @@
           "type": "lactic"
         }
       ],
+      "calciumCarbonate": 0,
+      "magnesiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "meta": {
+      "equalSourceTotal": false
+    },
+    "enableSpargeAdjustments": false,
+    "mashAdjustments": {
+      "volume": 2.54,
       "sodiumMetabisulfitePPM": 0,
-      "calcium": 0,
-      "magnesiumSulfate": null
+      "calcium": 331.042,
+      "magnesium": 43.089,
+      "sodium": 49.094,
+      "chloride": 49.102,
+      "sulfate": 945.33,
+      "bicarbonate": 67.134,
+      "calciumSulfate": 3.53,
+      "calciumChloride": 0.16,
+      "magnesiumSulfate": 1.11,
+      "sodiumBicarbonate": 0.24,
+      "sodiumChloride": 0.15,
+      "calciumHydroxide": 0,
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "alkalinityMeqL": 0,
+          "type": "lactic"
+        }
+      ],
+      "calciumCarbonate": 0,
+      "magnesiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
     },
     "mashWaterAmount": null,
     "acidPhAdjustment": 0,
-    "mashTargetDiff": null,
-    "sourceTargetDiff": null,
+    "mashTargetDiff": {
+      "calcium": 223.042,
+      "magnesium": 29.089,
+      "sodium": 33.094,
+      "chloride": 33.102,
+      "sulfate": 637.33,
+      "bicarbonate": 42.134,
+      "bicarbonateMeqL": 0.6905401861806739,
+      "cations": 14.964,
+      "anions": 14.893,
+      "ionBalance": 0,
+      "ionBalanceOff": false,
+      "soClRatio": 19.25,
+      "hardness": 676,
+      "alkalinity": 34.5272,
+      "residualAlkalinity": -141.89312,
+      "residualAlkalinityMeqLCalc": -3.71204
+    },
+    "sourceTargetDiff": {
+      "calcium": -108,
+      "magnesium": -14,
+      "sodium": -16,
+      "chloride": -16,
+      "sulfate": -308,
+      "bicarbonate": -25,
+      "bicarbonateMeqL": -0.40972859577815657,
+      "cations": -7.238,
+      "anions": -7.274,
+      "ionBalance": 0,
+      "ionBalanceOff": false,
+      "soClRatio": 19.25,
+      "hardness": -327,
+      "alkalinity": -20.4866,
+      "residualAlkalinity": 64.8884,
+      "residualAlkalinityMeqLCalc": 1.72081
+    },
     "settings": {
       "adjustSparge": true,
       "sodiumChloride": {
@@ -496,19 +561,57 @@
         "sparge": true
       }
     },
-    "dilutionAmount": 0
+    "dilutionAmount": 0,
+    "enableAcidAdjustments": true,
+    "style": "default",
+    "target": {
+      "residualAlkalinityMeqLCalc": -1.56069,
+      "_created": {
+        "seconds": 1678224278,
+        "nanoseconds": 917000000
+      },
+      "ionBalanceOff": false,
+      "chloride": 21,
+      "magnesium": 16,
+      "anions": 7.776,
+      "sodium": 19,
+      "hardness": 348,
+      "_version": "2.9.1",
+      "name": "Ordinary Bitter - Mean Brews",
+      "bicarbonateMeqL": 0.6883440409073031,
+      "_timestamp": {
+        "seconds": 1686933046,
+        "nanoseconds": 738000000
+      },
+      "soClRatio": 14.86,
+      "calcium": 113,
+      "cations": 7.782,
+      "_timestamp_ms": 1686933046738,
+      "type": "target",
+      "sulfate": 312,
+      "alkalinity": 34.4174,
+      "ionBalance": 0,
+      "hidden": false,
+      "bicarbonate": 42,
+      "residualAlkalinity": -55.7049,
+      "_id": "MZXQcklKtau0eP4kPIbV9dADfIVOEX",
+      "ph": 5.37
+    },
+    "enableSpargeAcidAdjustments": true,
+    "spargeWaterPh": 6,
+    "spargeWaterTargetPh": 6
   },
   "hidden": false,
   "name": "Off Work (20240327)",
   "nutrition": {
     "calories": {
-      "alcohol": 19.922476386004327,
-      "carbs": 12.689403582521756,
-      "total": 32.61187996852608,
-      "kJ": 136.44810578831314
+      "alcohol": 20.08427550859234,
+      "carbs": 12.728743752534877,
+      "total": 32.81301926112722,
+      "kJ": 137.28967258855627
     },
     "carbs": {
-      "total": 3.221600404224098
+      "total": 3.231170503701149
     }
   },
   "attenuation": 0.772,
@@ -591,8 +694,8 @@
       }
     ]
   },
-  "totalGravity": 1.03556926,
-  "diastaticPower": 55.92,
+  "totalGravity": 1.035785051,
+  "diastaticPower": 57.83,
   "equipment": {
     "efficiencyType": "Fermenter",
     "fermenterLoss": 0.6,
@@ -648,7 +751,7 @@
     "batchSize": 5.6
   },
   "fgEstimated": 1.008,
-  "ibu": 32,
+  "ibu": 31.7,
   "efficiency": 71.8,
   "styleOg": true,
   "mashEfficiency": 73.3,
@@ -681,11 +784,11 @@
       "userNotes": "The Malt Miller (GB) MAL-00-042",
       "cgdb": null,
       "moisture": 3.5,
-      "percentage": 87.61,
+      "percentage": 90.6,
       "_id": "11uGWcy1WLoqE5Sylst5TAoibRpaOi",
       "notes": "Flagon Variety. Top quality Norfolk-grown 2-row winter malting barley is widely recognised as the best raw material for traditional ale malt. Low protein barleys are sourced from local farmers who are in partnership with Crisp Malting Group through the ABC Grower Group and are qualified as the very best malting barley growers. During malting, high cast moistures and a balance of germination time and temperature guarantee an even, well modified malt which is ideally suited to ale brewing. The characteristic higher colour and balanced sweet, malty flavour results in this malt being one of the most popular and distinctive malt styles. Crisp Malting Group Best Ale Malt is suited to infusion mashing and top fermentation which typifies traditional ale brewing, but is also very well suited for ale brewing using more modern techniques.",
       "costPerAmount": 1.55,
-      "amount": 0.764,
+      "amount": 0.79,
       "_timestamp": {
         "seconds": 1618683534,
         "nanoseconds": 587000000
@@ -734,52 +837,6 @@
       "type": "Grain",
       "acid": 0,
       "hidden": false
-    },
-    {
-      "grainCategory": "Acidulated",
-      "friability": null,
-      "userNotes": "The Malt Miller (UK) MAL-00-011",
-      "cgdb": null,
-      "hidden": false,
-      "percentage": 2.98,
-      "potentialPercentage": 65.2,
-      "name": "Acidulated Malt",
-      "acid": 2,
-      "_timestamp_ms": 1603146097638,
-      "coarseFineDiff": 1.5,
-      "_timestamp": {
-        "seconds": 1603146097,
-        "nanoseconds": 638000000
-      },
-      "lovibond": 2.4,
-      "type": "Grain",
-      "origin": "Germany",
-      "color": 2.538071,
-      "_created": {
-        "seconds": 1603146097,
-        "nanoseconds": 638000000
-      },
-      "usedIn": "For use in Pilsner, Light Beer, “Schankbiere”,and Wheat Beer or where mash ph is to be reduced. Berliner Weisse. Use at a rate of 1-5%.\n",
-      "potential": 1.029992,
-      "ibuPerAmount": null,
-      "fgdb": null,
-      "bestBeforeDate": null,
-      "diastaticPower": null,
-      "substitutes": "",
-      "inventory": null,
-      "attenuation": 0.83,
-      "manufacturingDate": null,
-      "notes": "Weyermann Acidulated Malt is perfect to adjust the pH level in mash or wort. There is a simple formula to calculate the dosage of Acidulated Malt: You have to use 1% of Acidulated malt to reduce the pH by 0.1. (Example: 3% Acidulated malt reduce the pH level in mash by 0.3). The exact effect depends of course on the special conditions in the mash or wort (buffering capacity …) and on the composition of the brew water.\n\nWeyermann Acidulated Malt is produced by using lactic acid, which is generated by on grain natural occurring lactic bacteria. Therefore Acidulated Malt is also a wonderful possibility to produce beer styles with a typical “sourish” character like “Berliner Weisse”.\n\nTo reach the “sourish” character 8% of Acidulated malt is a perfect rate.",
-      "notFermentable": false,
-      "maxInBatch": 10,
-      "amount": 0.026,
-      "_version": "2.4.7",
-      "fan": null,
-      "supplier": "Weyermann",
-      "costPerAmount": 3.5,
-      "protein": null,
-      "moisture": null,
-      "_id": "default-4c1345c"
     },
     {
       "amount": 0.025,
@@ -879,13 +936,13 @@
     }
   ],
   "_ev": 2,
-  "_timestamp_ms": 1720961769554,
+  "_timestamp_ms": 1720962000356,
   "color": 7.3,
-  "preBoilGravity": 1.029,
+  "preBoilGravity": 1.03,
   "data": {
     "mashFermentablesAmount": 0.847,
     "allDiastaticPower": false,
-    "totalDiastaticPower": 47.368,
+    "totalDiastaticPower": 48.980000000000004,
     "mashFermentables": [
       {
         "fan": null,
@@ -913,11 +970,11 @@
         "userNotes": "The Malt Miller (GB) MAL-00-042",
         "cgdb": null,
         "moisture": 3.5,
-        "percentage": 87.61,
+        "percentage": 90.6,
         "_id": "11uGWcy1WLoqE5Sylst5TAoibRpaOi",
         "notes": "Flagon Variety. Top quality Norfolk-grown 2-row winter malting barley is widely recognised as the best raw material for traditional ale malt. Low protein barleys are sourced from local farmers who are in partnership with Crisp Malting Group through the ABC Grower Group and are qualified as the very best malting barley growers. During malting, high cast moistures and a balance of germination time and temperature guarantee an even, well modified malt which is ideally suited to ale brewing. The characteristic higher colour and balanced sweet, malty flavour results in this malt being one of the most popular and distinctive malt styles. Crisp Malting Group Best Ale Malt is suited to infusion mashing and top fermentation which typifies traditional ale brewing, but is also very well suited for ale brewing using more modern techniques.",
         "costPerAmount": 1.55,
-        "amount": 0.764,
+        "amount": 0.79,
         "_timestamp": {
           "seconds": 1618683534,
           "nanoseconds": 587000000
@@ -966,52 +1023,6 @@
         "type": "Grain",
         "acid": 0,
         "hidden": false
-      },
-      {
-        "grainCategory": "Acidulated",
-        "friability": null,
-        "userNotes": "The Malt Miller (UK) MAL-00-011",
-        "cgdb": null,
-        "hidden": false,
-        "percentage": 2.98,
-        "potentialPercentage": 65.2,
-        "name": "Acidulated Malt",
-        "acid": 2,
-        "_timestamp_ms": 1603146097638,
-        "coarseFineDiff": 1.5,
-        "_timestamp": {
-          "seconds": 1603146097,
-          "nanoseconds": 638000000
-        },
-        "lovibond": 2.4,
-        "type": "Grain",
-        "origin": "Germany",
-        "color": 2.538071,
-        "_created": {
-          "seconds": 1603146097,
-          "nanoseconds": 638000000
-        },
-        "usedIn": "For use in Pilsner, Light Beer, “Schankbiere”,and Wheat Beer or where mash ph is to be reduced. Berliner Weisse. Use at a rate of 1-5%.\n",
-        "potential": 1.029992,
-        "ibuPerAmount": null,
-        "fgdb": null,
-        "bestBeforeDate": null,
-        "diastaticPower": null,
-        "substitutes": "",
-        "inventory": null,
-        "attenuation": 0.83,
-        "manufacturingDate": null,
-        "notes": "Weyermann Acidulated Malt is perfect to adjust the pH level in mash or wort. There is a simple formula to calculate the dosage of Acidulated Malt: You have to use 1% of Acidulated malt to reduce the pH by 0.1. (Example: 3% Acidulated malt reduce the pH level in mash by 0.3). The exact effect depends of course on the special conditions in the mash or wort (buffering capacity …) and on the composition of the brew water.\n\nWeyermann Acidulated Malt is produced by using lactic acid, which is generated by on grain natural occurring lactic bacteria. Therefore Acidulated Malt is also a wonderful possibility to produce beer styles with a typical “sourish” character like “Berliner Weisse”.\n\nTo reach the “sourish” character 8% of Acidulated malt is a perfect rate.",
-        "notFermentable": false,
-        "maxInBatch": 10,
-        "amount": 0.026,
-        "_version": "2.4.7",
-        "fan": null,
-        "supplier": "Weyermann",
-        "costPerAmount": 3.5,
-        "protein": null,
-        "moisture": null,
-        "_id": "default-4c1345c"
       },
       {
         "notFermentable": false,
@@ -1131,7 +1142,7 @@
   "path": "",
   "sumAromaHopPerLiter": 1,
   "styleCarb": true,
-  "_timestamp": "2024-07-14T12:56:09.554Z",
+  "_timestamp": "2024-07-14T13:00:00.356Z",
   "_version": "2.10.9",
   "carbonationStyle": {
     "carbMin": 1.6,
@@ -1140,13 +1151,168 @@
   },
   "styleAbv": true,
   "styleIbu": true,
-  "buGuRatio": 0.9,
+  "buGuRatio": 0.89,
   "thumb": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABIAEgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAcDBAYF/8QAKxAAAQQBAgUDAwUAAAAAAAAAAQACAwQRBQYHEhMhMVFhkRQVQSJScYGy/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAECBAMG/8QAHhEBAQACAgIDAAAAAAAAAAAAAAEDEQISBCExUWH/2gAMAwEAAhEDEQA/AJYiIrvTCIiAiIgIiICIiAiIgLPRp2b9uKrRry2bMpwyKJhc5x9gFgVz26+Phnwhj3HDBE/cWtEMgfI3PSY7JaP4DQXEfkkZ8I5ZcnSTXu34cfX4N73nriX7XFHkZDJLLGu+Mrj9f0LVNvXvo9aozU7GMhsg7OHq0jsR7grPa3XuG3cNuxrmpvsZ5ucWXtwfYAgD+l31rf8Apu6OGFrSt4ySS69VdmhZZCXOecZa5xHYflrvUEHyim8vGy8tWfiToiI0CIiAiIgHuDhW3jIfquEuwbVfvWbFGw48A9AAf5cokrFw213Rty7Jn2Huq2KZD+fT7byAGnPMG5PYEEnAPkEhKz55Z15/VR1bNajbtQTTValieGDHVfFG54jznHMQO3g+fRU6fgVuttzp1pdMnrE/psdctGPUtwT8ZXu67c0rhXsK7tvSr8d7c2pAi1LEe0II5ST+3DchoPfJJTZfI43Ux+7ULRAMDA8IjQIiICIiAh7juiINiO9bji6UduyyPxyNmcG/AOFroiIERESIiICIiAiIgIiICIiAiIg//9k=",
   "firstWortGravity": null,
   "fermentablesTotalAmount": 0.872,
   "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/B51JPIpALObGLBr7dZXJ3fvzz0jdkh/B51JPIpALObGLBr7dZXJ3fvzz0jdkh.png",
-  "ogPlato": 8.9,
+  "ogPlato": 9,
   "hopsTotalAmount": 14.8,
   "yeastToleranceExceededBy": null,
-  "miscs": []
+  "miscs": [
+    {
+      "timeIsDays": false,
+      "unit": "g",
+      "name": "Baking Soda (NaHCO3)",
+      "type": "Water Agent",
+      "time": null,
+      "use": "Mash",
+      "_id": "default-2302b0",
+      "waterAdjustment": true,
+      "lotNumber": "41190621/3",
+      "inventory": 96.411,
+      "amountPerL": null,
+      "userNotes": "Brouwstore (NL) 003.106.2",
+      "substitutes": "",
+      "_version": "2.9.1",
+      "_created": {
+        "seconds": 1598898698,
+        "nanoseconds": 887000000
+      },
+      "costPerAmount": 0.0395,
+      "notes": "",
+      "hidden": false,
+      "bestBeforeDate": 1624226400000,
+      "_timestamp_ms": 1695062259386,
+      "manufacturingDate": null,
+      "_timestamp": {
+        "seconds": 1695062259,
+        "nanoseconds": 386000000
+      },
+      "amount": 0.24
+    },
+    {
+      "use": "Mash",
+      "_id": "default-3b1827",
+      "timeIsDays": false,
+      "unit": "g",
+      "waterAdjustment": true,
+      "time": null,
+      "name": "Calcium Chloride (CaCl2) 33 %",
+      "type": "Water Agent",
+      "_created": {
+        "seconds": 1591700262,
+        "nanoseconds": 104000000
+      },
+      "notes": "Density 1.335 g/mL",
+      "userNotes": "Brouwstore (NL) 055.035.0\n\n",
+      "_timestamp_ms": 1694947154789,
+      "_timestamp": {
+        "seconds": 1694947154,
+        "nanoseconds": 789000000
+      },
+      "manufacturingDate": null,
+      "costPerAmount": 0.026,
+      "hidden": false,
+      "bestBeforeDate": 1644620400000,
+      "amount": 0.16,
+      "amountPerL": null,
+      "inventory": 81.765,
+      "substitutes": "",
+      "lotNumber": "115038",
+      "_version": "2.9.1",
+      "concentration": 33,
+      "useFor": ""
+    },
+    {
+      "time": null,
+      "name": "Canning Salt (NaCl)",
+      "waterAdjustment": true,
+      "use": "Mash",
+      "unit": "g",
+      "_id": "default-bk9j78",
+      "type": "Water Agent",
+      "timeIsDays": false,
+      "_timestamp": {
+        "seconds": 1695062260,
+        "nanoseconds": 442000000
+      },
+      "_created": {
+        "seconds": 1598900530,
+        "nanoseconds": 553000000
+      },
+      "costPerAmount": 0.00049,
+      "substitutes": "",
+      "_version": "2.9.1",
+      "hidden": false,
+      "_timestamp_ms": 1695062260442,
+      "amountPerL": null,
+      "inventory": 990.826,
+      "userNotes": "Albert Heijn (NL)",
+      "notes": "",
+      "amount": 0.15
+    },
+    {
+      "unit": "g",
+      "type": "Water Agent",
+      "name": "Epsom Salt (MgSO4)",
+      "waterAdjustment": true,
+      "timeIsDays": false,
+      "time": null,
+      "_id": "default-4e9d62",
+      "use": "Mash",
+      "costPerAmount": 0.0205,
+      "_timestamp": {
+        "seconds": 1695062261,
+        "nanoseconds": 450000000
+      },
+      "_created": {
+        "seconds": 1591163786,
+        "nanoseconds": 273000000
+      },
+      "userNotes": "Brouwstore (NL) 055.027.7",
+      "manufacturingDate": null,
+      "_version": "2.9.1",
+      "amountPerL": null,
+      "_timestamp_ms": 1695062261450,
+      "inventory": 83.323,
+      "substitutes": "",
+      "lotNumber": "/2119000091",
+      "useFor": "",
+      "bestBeforeDate": 1701298800000,
+      "hidden": false,
+      "notes": "",
+      "amount": 1.11
+    },
+    {
+      "time": null,
+      "type": "Water Agent",
+      "unit": "g",
+      "timeIsDays": false,
+      "name": "Gypsum (CaSO4)",
+      "_id": "default-1f88df",
+      "use": "Mash",
+      "waterAdjustment": true,
+      "userNotes": "The Malt Miller (UK) CHE-03-004",
+      "costPerAmount": 0.0096,
+      "notes": "",
+      "inventory": 0,
+      "_timestamp_ms": 1675593405963,
+      "_version": "2.8.8",
+      "hidden": false,
+      "_created": {
+        "seconds": 1596226723,
+        "nanoseconds": 821000000
+      },
+      "amountPerL": null,
+      "manufacturingDate": null,
+      "_timestamp": {
+        "seconds": 1675593405,
+        "nanoseconds": 963000000
+      },
+      "bestBeforeDate": null,
+      "substitutes": "",
+      "amount": 3.53
+    }
+  ]
 }
