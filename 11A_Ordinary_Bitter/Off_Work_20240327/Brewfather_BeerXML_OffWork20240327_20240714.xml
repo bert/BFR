@@ -140,8 +140,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00024</AMOUNT>
-                <DISPLAY_AMOUNT>0.24 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00025</AMOUNT>
+                <DISPLAY_AMOUNT>0.25 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -151,8 +151,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00016</AMOUNT>
-                <DISPLAY_AMOUNT>0.16 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00067</AMOUNT>
+                <DISPLAY_AMOUNT>0.67 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -162,8 +162,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00015</AMOUNT>
-                <DISPLAY_AMOUNT>0.15 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00067</AMOUNT>
+                <DISPLAY_AMOUNT>0.67 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -173,8 +173,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00111</AMOUNT>
-                <DISPLAY_AMOUNT>1.11 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00103</AMOUNT>
+                <DISPLAY_AMOUNT>1.03 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -184,9 +184,20 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00353</AMOUNT>
-                <DISPLAY_AMOUNT>3.53 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00132</AMOUNT>
+                <DISPLAY_AMOUNT>1.32 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-07adb1</BF_ID>
+                <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.0001</AMOUNT>
+                <DISPLAY_AMOUNT>0.1 ml</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
         </MISCS>
         <YEASTS>
