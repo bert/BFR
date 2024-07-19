@@ -1,0 +1,806 @@
+{
+  "yeasts": [
+    {
+      "attenuation": 77,
+      "_id": "default-b920f9",
+      "form": "Liquid",
+      "notes": null,
+      "productId": "L13",
+      "name": "Global",
+      "laboratory": "Imperial Yeast",
+      "amount": 0.3,
+      "unit": "pkg",
+      "type": "Lager"
+    }
+  ],
+  "fgFormula": "normal",
+  "preBoilGravity": 1.036,
+  "styleAbv": true,
+  "mash": {
+    "_created": {
+      "seconds": 1619732488,
+      "nanoseconds": 493000000
+    },
+    "steps": [
+      {
+        "stepTime": 60,
+        "type": "Temperature",
+        "displayStepTemp": 152,
+        "stepTemp": 66.666667,
+        "rampTime": null,
+        "name": ""
+      }
+    ],
+    "name": "03 - High/Moderate Fermentability",
+    "_id": "O4RuOfEU9YmXDIeSE18oNsZVLiNMtt",
+    "_timestamp": {
+      "seconds": 1619732631,
+      "nanoseconds": 893000000
+    },
+    "_version": "2.7.6",
+    "hidden": false,
+    "_timestamp_ms": 1619732631893
+  },
+  "water": {
+    "totalTargetDiff": {
+      "calcium": -0.059,
+      "magnesium": 2,
+      "sodium": 3,
+      "chloride": -0.143,
+      "sulfate": 0.11,
+      "bicarbonate": 17,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "cations": 0.292,
+      "anions": 0.277,
+      "ionBalance": 1,
+      "ionBalanceOff": false,
+      "soClRatio": -0.77,
+      "hardness": 8,
+      "alkalinity": 13.9309,
+      "residualAlkalinity": 12.79724,
+      "residualAlkalinityMeqLCalc": 0.25028
+    },
+    "mashWaterAmount": null,
+    "enableSpargeAdjustments": false,
+    "spargeAdjustments": {
+      "volume": 5.34,
+      "acids": [
+        {
+          "concentration": 80,
+          "amount": 0,
+          "type": "lactic"
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "spargeWaterAmount": null,
+    "mashTargetDiff": {
+      "calcium": 68.574,
+      "magnesium": 2,
+      "sodium": 3,
+      "chloride": 64.077,
+      "sulfate": 77.575,
+      "bicarbonate": 17,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "cations": 3.717,
+      "anions": 3.701,
+      "ionBalance": 0,
+      "ionBalanceOff": false,
+      "soClRatio": 1.21,
+      "hardness": 179,
+      "alkalinity": 13.9309,
+      "residualAlkalinity": -36.22731,
+      "residualAlkalinityMeqLCalc": -0.97293
+    },
+    "mashPhDistilled": 5.72,
+    "totalAdjustments": {
+      "volume": 9.07,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 47.941,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 44.857,
+      "sulfate": 54.11,
+      "bicarbonate": 0,
+      "calciumSulfate": 0.88,
+      "calciumChloride": 1.93,
+      "magnesiumSulfate": null,
+      "calciumHydroxide": 0,
+      "sodiumBicarbonate": null,
+      "acids": [
+        {
+          "amount": 0.6,
+          "alkalinityMeqL": -2.2090224342235065,
+          "concentration": 80,
+          "type": "lactic"
+        }
+      ],
+      "calciumCarbonate": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": null,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "source": {
+      "sodium": 3,
+      "ionBalanceOff": false,
+      "alkalinity": 13.9309,
+      "hidden": false,
+      "ph": 6,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "_version": "2.10.9",
+      "bicarbonate": 17,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "chloride": 5,
+      "magnesium": 2,
+      "cations": 0.545,
+      "residualAlkalinity": 9.1836,
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "_timestamp": {
+        "seconds": 1721340835,
+        "nanoseconds": 302000000
+      },
+      "ionBalance": 2,
+      "calcium": 5,
+      "soClRatio": 0.8,
+      "_timestamp_ms": 1721340835302,
+      "anions": 0.503,
+      "hardness": 21,
+      "sulfate": 4,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "type": "source",
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy"
+    },
+    "meta": {
+      "equalSourceTotal": false
+    },
+    "dilutionPercentage": null,
+    "settings": {
+      "calciumChloride": {
+        "auto": true,
+        "sparge": true,
+        "mash": true,
+        "form": "liquid"
+      },
+      "sodiumBicarbonate": {
+        "sparge": true,
+        "mash": true,
+        "auto": true
+      },
+      "calciumHydroxide": {
+        "sparge": false,
+        "mash": false,
+        "auto": false
+      },
+      "adjustSparge": true,
+      "sodiumChloride": {
+        "sparge": true,
+        "mash": true,
+        "auto": true
+      },
+      "magnesiumSulfate": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      },
+      "calciumSulfate": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      }
+    },
+    "diluted": null,
+    "acidPhAdjustment": -0.17461,
+    "sourceTargetDiff": {
+      "calcium": -48,
+      "magnesium": 2,
+      "sodium": 3,
+      "chloride": -45,
+      "sulfate": -54,
+      "bicarbonate": 17,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "cations": -2.1,
+      "anions": -2.115,
+      "ionBalance": 0,
+      "ionBalanceOff": false,
+      "soClRatio": 1.2,
+      "hardness": -111,
+      "alkalinity": 13.9309,
+      "residualAlkalinity": 47.0415,
+      "residualAlkalinityMeqLCalc": 1.1047
+    },
+    "spargeAcidPhAdjustment": 0,
+    "mash": {
+      "sodium": 3,
+      "ionBalanceOff": false,
+      "alkalinity": 13.9309,
+      "hidden": false,
+      "ph": 6,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "_version": "2.10.9",
+      "bicarbonate": 17,
+      "residualAlkalinityMeqLCalc": -1.91751,
+      "chloride": 114.077,
+      "magnesium": 2,
+      "cations": 6.362,
+      "residualAlkalinity": -74.08521,
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "_timestamp": {
+        "seconds": 1721340835,
+        "nanoseconds": 302000000
+      },
+      "ionBalance": 0,
+      "calcium": 121.574,
+      "soClRatio": 1.19,
+      "_timestamp_ms": 1721340835302,
+      "anions": 6.319,
+      "hardness": 311,
+      "sulfate": 135.575,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "type": "source",
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy"
+    },
+    "spargeTargetDiff": {
+      "calcium": -48,
+      "magnesium": 2,
+      "sodium": 3,
+      "chloride": -45,
+      "sulfate": -54,
+      "bicarbonate": 17,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "cations": -2.1,
+      "anions": -2.115,
+      "ionBalance": 0,
+      "ionBalanceOff": false,
+      "soClRatio": 1.2,
+      "hardness": -111,
+      "alkalinity": 13.9309,
+      "residualAlkalinity": 47.0415,
+      "residualAlkalinityMeqLCalc": 1.1047
+    },
+    "sparge": {
+      "sodium": 3,
+      "ionBalanceOff": false,
+      "alkalinity": 13.9309,
+      "hidden": false,
+      "ph": 6,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "_version": "2.10.9",
+      "bicarbonate": 17,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "chloride": 5,
+      "magnesium": 2,
+      "cations": 0.545,
+      "residualAlkalinity": 9.1836,
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "_timestamp": {
+        "seconds": 1721340835,
+        "nanoseconds": 302000000
+      },
+      "ionBalance": 2,
+      "calcium": 5,
+      "soClRatio": 0.8,
+      "_timestamp_ms": 1721340835302,
+      "anions": 0.503,
+      "hardness": 21,
+      "sulfate": 4,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "type": "source",
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy"
+    },
+    "mashAdjustments": {
+      "volume": 3.73,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 116.574,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 109.077,
+      "sulfate": 131.575,
+      "bicarbonate": 0,
+      "calciumSulfate": 0.88,
+      "calciumChloride": 1.93,
+      "magnesiumSulfate": null,
+      "calciumHydroxide": 0,
+      "sodiumBicarbonate": null,
+      "acids": [
+        {
+          "amount": 0.6,
+          "alkalinityMeqL": -2.2090224342235065,
+          "concentration": 80,
+          "type": "lactic"
+        }
+      ],
+      "calciumCarbonate": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": null,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0
+    },
+    "total": {
+      "sodium": 3,
+      "ionBalanceOff": false,
+      "alkalinity": 13.9309,
+      "hidden": false,
+      "ph": 6,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "_version": "2.10.9",
+      "bicarbonate": 17,
+      "residualAlkalinityMeqLCalc": -0.69431,
+      "chloride": 49.857,
+      "magnesium": 2,
+      "cations": 2.937,
+      "residualAlkalinity": -25.06066,
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "_timestamp": {
+        "seconds": 1721340835,
+        "nanoseconds": 302000000
+      },
+      "ionBalance": 0,
+      "calcium": 52.941,
+      "soClRatio": 1.17,
+      "_timestamp_ms": 1721340835302,
+      "anions": 2.895,
+      "hardness": 140,
+      "sulfate": 58.11,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "type": "source",
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy"
+    },
+    "mashPh": 5.4,
+    "dilutionAmount": 0,
+    "enableAcidAdjustments": true,
+    "style": "default",
+    "enableSpargeAcidAdjustments": true,
+    "spargeWaterPh": 6,
+    "spargeWaterTargetPh": 6,
+    "target": {
+      "hidden": false,
+      "soClRatio": 1.16,
+      "ionBalanceOff": false,
+      "magnesium": 0,
+      "cations": 2.645,
+      "hardness": 132,
+      "_id": "Z7IBL8mpicU2L7x2pLZG3q2rMOLERT",
+      "anions": 2.618,
+      "name": "International Pale Lager - THC Gr Northern Brewer (2021)",
+      "type": "target",
+      "_timestamp_ms": 1721422222241,
+      "sulfate": 58,
+      "ionBalance": 0,
+      "_version": "2.10.9",
+      "alkalinity": 0,
+      "bicarbonateMeqL": 0,
+      "_created": {
+        "seconds": 1721422222,
+        "nanoseconds": 241000000
+      },
+      "residualAlkalinityMeqLCalc": -0.94459,
+      "residualAlkalinity": -37.8579,
+      "_timestamp": {
+        "seconds": 1721422222,
+        "nanoseconds": 241000000
+      },
+      "calcium": 53,
+      "chloride": 50,
+      "sodium": 0
+    }
+  },
+  "fermentation": {
+    "_id": [
+      "default"
+    ],
+    "name": [
+      "Ale"
+    ],
+    "steps": [
+      {
+        "type": "Primary",
+        "displayPressure": null,
+        "stepTemp": 17.777778,
+        "displayStepTemp": 64,
+        "pressure": null,
+        "ramp": null,
+        "stepTime": 14
+      }
+    ]
+  },
+  "_created": {
+    "seconds": 1664927061,
+    "nanoseconds": 885000000
+  },
+  "styleColor": true,
+  "_share": null,
+  "img": "users/7SP0tklb8SYVSiS6bqOvOvzHNfV2/images/recipes/RC0TMfwEbyaBffltrcIAEfwbDR0fny/RC0TMfwEbyaBffltrcIAEfwbDR0fny.jpeg",
+  "styleOg": true,
+  "type": "All Grain",
+  "_id": "FWkf6C4wgzVS9wPeQnhx5OZ3iK8r3R",
+  "notes": "Water Profile: Ca 53 | Mg 0 | Na 0 | SO4 58 | Cl 50",
+  "fermentableIbu": 0,
+  "fermentablesTotalAmount": 1.242,
+  "fg": 1.011,
+  "name": "The Hop Chronicles | Gr Northern Brewer (2021) Pale Lager",
+  "_version": "2.10.9",
+  "styleCarb": true,
+  "mashEfficiency": 73.3,
+  "_timestamp_ms": 1721422346920,
+  "color": 3.4,
+  "batchSize": 5.6,
+  "teaser": "",
+  "ibuFormula": "tinseth",
+  "sumDryHopPerLiter": 0,
+  "styleBuGu": true,
+  "_type": "recipe",
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "hops": [
+    {
+      "ibu": 7.2,
+      "amount": 1.4,
+      "_id": "default-8e989b47",
+      "actualTime": null,
+      "use": "Boil",
+      "type": "Pellet",
+      "time": 60,
+      "origin": "Germany",
+      "notes": null,
+      "name": "Northern Brewer",
+      "alpha": 10.2,
+      "temp": null
+    },
+    {
+      "origin": "Germany",
+      "amount": 2.7,
+      "alpha": 10.2,
+      "type": "Pellet",
+      "_id": "default-8e989b47",
+      "name": "Northern Brewer",
+      "use": "Boil",
+      "temp": null,
+      "actualTime": null,
+      "notes": null,
+      "ibu": 10.1,
+      "time": 30
+    },
+    {
+      "alpha": 10.2,
+      "time": 5,
+      "temp": null,
+      "actualTime": null,
+      "type": "Pellet",
+      "_id": "default-8e989b47",
+      "use": "Boil",
+      "amount": 2.7,
+      "origin": "Germany",
+      "notes": null,
+      "ibu": 2.5,
+      "name": "Northern Brewer"
+    }
+  ],
+  "manualFg": false,
+  "fgEstimated": 1.011,
+  "boilTime": 60,
+  "ogPlato": 11.7,
+  "_origin": "RC0TMfwEbyaBffltrcIAEfwbDR0fny",
+  "hopStandMinutes": 0,
+  "style": {
+    "ogMin": 1.042,
+    "fgMin": 1.008,
+    "styleGuide": "BJCP 2021",
+    "lovibondMax": 6,
+    "colorMax": 6,
+    "ibuMax": 25,
+    "ibuMin": 18,
+    "carbMin": 2.5,
+    "ogMax": 1.05,
+    "categoryNumber": "02",
+    "lovibondMin": 2,
+    "rbrMax": 0.55,
+    "rbrMin": 0.39,
+    "styleLetter": "A",
+    "name": "International Pale Lager",
+    "colorMin": 2,
+    "abvMin": 4.5,
+    "fgMax": 1.012,
+    "type": "Pale Lager",
+    "buGuMin": 0.39,
+    "_id": "default-5",
+    "buGuMax": 0.54,
+    "carbMax": 3.2,
+    "category": "International Lager",
+    "abvMax": 6
+  },
+  "_init": true,
+  "hopsTotalAmount": 6.8,
+  "tags": null,
+  "styleIbu": true,
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "miscs": [
+    {
+      "time": null,
+      "waterAdjustment": true,
+      "type": "Water Agent",
+      "name": "Calcium Chloride (CaCl2) 33 %",
+      "_id": "default-3b1827",
+      "use": "Mash",
+      "timeIsDays": false,
+      "unit": "g",
+      "bestBeforeDate": 1644620400000,
+      "_version": "2.9.1",
+      "substitutes": "",
+      "_created": {
+        "seconds": 1591700262,
+        "nanoseconds": 104000000
+      },
+      "lotNumber": "115038",
+      "_timestamp_ms": 1694947154789,
+      "_timestamp": {
+        "seconds": 1694947154,
+        "nanoseconds": 789000000
+      },
+      "userNotes": "Brouwstore (NL) 055.035.0\n\n",
+      "useFor": "",
+      "hidden": false,
+      "inventory": 81.765,
+      "costPerAmount": 0.026,
+      "concentration": 33,
+      "manufacturingDate": null,
+      "notes": "Density 1.335 g/mL",
+      "amountPerL": null,
+      "amount": 1.93
+    },
+    {
+      "unit": "g",
+      "_id": "default-1f88df",
+      "time": null,
+      "use": "Mash",
+      "waterAdjustment": true,
+      "name": "Gypsum (CaSO4)",
+      "timeIsDays": false,
+      "type": "Water Agent",
+      "manufacturingDate": null,
+      "_timestamp_ms": 1675593405963,
+      "inventory": 0,
+      "amountPerL": null,
+      "userNotes": "The Malt Miller (UK) CHE-03-004",
+      "_version": "2.8.8",
+      "_timestamp": {
+        "seconds": 1675593405,
+        "nanoseconds": 963000000
+      },
+      "notes": "",
+      "costPerAmount": 0.0096,
+      "substitutes": "",
+      "hidden": false,
+      "_created": {
+        "seconds": 1596226723,
+        "nanoseconds": 821000000
+      },
+      "bestBeforeDate": null,
+      "amount": 0.88
+    },
+    {
+      "timeIsDays": false,
+      "waterAdjustment": true,
+      "type": "Water Agent",
+      "name": "Lactic Acid 80%",
+      "time": null,
+      "unit": "ml",
+      "_id": "default-07adb1",
+      "use": "Mash",
+      "inventory": 87.566,
+      "hidden": false,
+      "useFor": "",
+      "_version": "2.9.1",
+      "_created": {
+        "seconds": 1593887035,
+        "nanoseconds": 410000000
+      },
+      "manufacturingDate": null,
+      "_timestamp_ms": 1694947158330,
+      "costPerAmount": 0.035,
+      "amountPerL": null,
+      "bestBeforeDate": 1739401200000,
+      "substitutes": "",
+      "lotNumber": "20200213",
+      "userNotes": "Brouwstore (NL) 003.002.3",
+      "notes": "",
+      "_timestamp": {
+        "seconds": 1694947158,
+        "nanoseconds": 330000000
+      },
+      "amount": 0.6,
+      "concentration": 80
+    }
+  ],
+  "abv": 4.73,
+  "avgWeightedHopstandTemp": 80,
+  "equipment": {
+    "mashTunLoss": 0.12,
+    "aromaHopUtilization": 0.23,
+    "hidden": false,
+    "fermenterLoss": 0.6,
+    "efficiencyType": "Fermenter",
+    "_version": "2.4.8",
+    "mashWaterVolumeLimitEnabled": true,
+    "grainAbsorptionRate": 0.96,
+    "spargeWaterMax": null,
+    "calcAromaHopUtilization": true,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "boilSize": 7.76,
+    "evaporationRate": 0.23195876288659795,
+    "spargeWaterOverflow": "Top-Up",
+    "waterGrainRatio": 3,
+    "calcMashEfficiency": true,
+    "fermenterLossEstimate": 0,
+    "mashTunDeadSpace": 0,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "postBoilKettleVol": 5.958333333333333,
+    "fermenterVolume": 5.6,
+    "_timestamp_ms": 1603469797350,
+    "_timestamp": {
+      "seconds": 1603469797,
+      "nanoseconds": 350000000
+    },
+    "boilOffPerHr": 1.8,
+    "spargeWaterMin": null,
+    "_id": "7cnW0WZ4QkAoYoLszsljpXk4uEoc34",
+    "waterCalculation": "Default",
+    "hopstandTemperature": 80,
+    "bottlingVolume": 5,
+    "name": "01 Brouwpunt 5L (60min) (rev 4)",
+    "mashEfficiency": 73.3,
+    "trubChillerLoss": 0.12,
+    "boilTime": 60,
+    "hopUtilization": 1,
+    "mashWaterMax": 12,
+    "calcBoilVolume": true,
+    "calcStrikeWaterTemperature": true,
+    "efficiency": 71.8,
+    "batchSize": 5.6,
+    "_meta": {
+      "efficiencyIsCalculated": true,
+      "mashEfficiencyIsCalculated": true
+    },
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL"
+  },
+  "extraGravity": 0,
+  "firstWortGravity": null,
+  "styleFg": true,
+  "buGuRatio": 0.42,
+  "carbonation": 2.5,
+  "og": 1.047245796,
+  "searchTags": [],
+  "author": "Will Lovell",
+  "_ev": 2,
+  "styleConformity": true,
+  "boilSize": 7.76,
+  "efficiency": 71.8,
+  "hidden": false,
+  "primaryTemp": 17.777778,
+  "rbRatio": 0.42,
+  "attenuation": 0.759,
+  "styleRbr": true,
+  "_timestamp": "2024-07-19T20:52:26.920Z",
+  "ibu": 19.8,
+  "postBoilGravity": 1.047245796,
+  "data": {
+    "mashFermentablesAmount": 1.242,
+    "allDiastaticPower": false,
+    "totalDiastaticPower": 0,
+    "mashFermentables": [
+      {
+        "amount": 1.242,
+        "type": "Grain",
+        "name": "Llano Pilsner",
+        "notFermentable": false,
+        "supplier": "Texmalt",
+        "grainCategory": "Base (Pilsner)",
+        "notes": null,
+        "addAfterBoil": false,
+        "origin": "",
+        "_id": "WqS1bVZRybZLyozpZaBYpz2nb74YN0",
+        "potential": 1.036,
+        "ibuPerAmount": 0,
+        "potentialPercentage": 77,
+        "color": 1.8,
+        "percentage": 100
+      }
+    ],
+    "otherFermentablesAmount": 0,
+    "otherFermentables": [],
+    "mashWaterAmount": 3.73,
+    "spargeWaterAmount": 5.34,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 5.34,
+    "totalWaterAmount": 9.07,
+    "hopsAmount": 6.8,
+    "strikeTemp": 72.9,
+    "mashVolume": 4.56214
+  },
+  "totalGravity": 1.047245796,
+  "nutrition": {
+    "calories": {
+      "alcohol": 26.691885629529633,
+      "carbs": 17.347674477473213,
+      "total": 44.03956010700284,
+      "kJ": 184.2615194876999
+    },
+    "carbs": {
+      "total": 4.377037294500032
+    }
+  },
+  "thumb": "data:image/jpeg;base64,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",
+  "origin": null,
+  "fermentables": [
+    {
+      "amount": 1.242,
+      "type": "Grain",
+      "name": "Llano Pilsner",
+      "notFermentable": false,
+      "supplier": "Texmalt",
+      "grainCategory": "Base (Pilsner)",
+      "notes": null,
+      "addAfterBoil": false,
+      "origin": "",
+      "_id": "WqS1bVZRybZLyozpZaBYpz2nb74YN0",
+      "potential": 1.036,
+      "ibuPerAmount": 0,
+      "potentialPercentage": 77,
+      "color": 1.8,
+      "percentage": 100
+    }
+  ],
+  "_public": false,
+  "yeastToleranceExceededBy": null,
+  "path": "",
+  "carbonationStyle": {
+    "carbMin": 2.5,
+    "carbMax": 3.2,
+    "name": "International Pale Lager"
+  },
+  "diastaticPower": 0,
+  "sumAromaHopPerLiter": 0
+}
