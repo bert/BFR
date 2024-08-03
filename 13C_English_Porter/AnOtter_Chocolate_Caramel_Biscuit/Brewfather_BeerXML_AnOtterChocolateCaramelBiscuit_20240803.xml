@@ -136,14 +136,69 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
+                <BF_ID>default-2302b0</BF_ID>
+                <NAME>Baking&#32;Soda&#32;&#40;NaHCO&#51;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00077</AMOUNT>
+                <DISPLAY_AMOUNT>0.77 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-3b1827</BF_ID>
+                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.001</AMOUNT>
+                <DISPLAY_AMOUNT>1 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-bk9j78</BF_ID>
+                <NAME>Canning&#32;Salt&#32;&#40;NaCl&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00076</AMOUNT>
+                <DISPLAY_AMOUNT>0.76 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-4e9d62</BF_ID>
+                <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00071</AMOUNT>
+                <DISPLAY_AMOUNT>0.71 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-1f88df</BF_ID>
+                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00071</AMOUNT>
+                <DISPLAY_AMOUNT>0.71 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>default-07adb1</BF_ID>
                 <NAME>Lactic&#32;Acid&#32;&#56;&#48;&#37;</NAME>
                 <VERSION>1</VERSION>
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.0006</AMOUNT>
-                <DISPLAY_AMOUNT>0.6 ml</DISPLAY_AMOUNT>
+                <AMOUNT>0.0007</AMOUNT>
+                <DISPLAY_AMOUNT>0.7 ml</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>false</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
