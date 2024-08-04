@@ -3,7 +3,7 @@
 - Recipes are sorted in folders named as per BJCP style.
 
 - Each recipe has its own subfolder containing:
-  - a human readble pdf file.
+  - a human readable pdf file.
   - a Brewfather native json file.
   - an xml file for exchange to other brew software.
 
