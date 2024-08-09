@@ -12,4 +12,4 @@
 
 - Most, if not all, recipes can be mashed in a 8 Liter mash tun or pot.
 
-[BJCP Styles](BJCP_Styles.md)
+[BJCP Categories and Styles](BJCP_Styles.md)
