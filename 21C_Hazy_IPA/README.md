@@ -1,1 +1,1 @@
-21C Hazy IPA
+21C Hazy IPA (New England/NEIPA)
