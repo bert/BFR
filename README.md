@@ -5,7 +5,7 @@
 - Each recipe has its own subfolder containing:
   - a human readable pdf file.
   - a Brewfather native json file.
-  - an xml file for exchange to other brew software.
+  - an xml file for exchange to other brewing software.
 
 - All recipes are normalized for 5 Liter batch size (fermenting vessel)
   and can be brewed in a 12 Liter stove pot.
