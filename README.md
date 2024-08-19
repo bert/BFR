@@ -1,6 +1,6 @@
 ## A backup of Brewfather recipes I hoarded over the years.
 
-- Recipes are sorted in folders named as per BJCP style.
+- Recipes are sorted in folders named as per BJCP style, or any other style that's out there.
 
 - Each recipe has its own subfolder containing:
   - a human readable pdf file.
