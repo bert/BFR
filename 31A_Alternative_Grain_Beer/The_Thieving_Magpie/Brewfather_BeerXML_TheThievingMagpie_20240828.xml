@@ -151,8 +151,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00017</AMOUNT>
-                <DISPLAY_AMOUNT>0.17 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00016</AMOUNT>
+                <DISPLAY_AMOUNT>0.16 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -162,8 +162,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00149</AMOUNT>
-                <DISPLAY_AMOUNT>1.49 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00143</AMOUNT>
+                <DISPLAY_AMOUNT>1.43 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
@@ -195,8 +195,8 @@
                 <TYPE>Water&#32;Agent</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.00087</AMOUNT>
-                <DISPLAY_AMOUNT>0.87 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.00084</AMOUNT>
+                <DISPLAY_AMOUNT>0.84 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
