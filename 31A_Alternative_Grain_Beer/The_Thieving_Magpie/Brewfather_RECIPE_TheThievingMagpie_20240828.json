@@ -1,7 +1,7 @@
 {
   "carbonation": 2.4,
   "boilTime": 60,
-  "_timestamp_ms": 1724846767906,
+  "_timestamp_ms": 1724848188095,
   "fermentablesTotalAmount": 1,
   "totalGravity": 1.035214093,
   "type": "All Grain",
@@ -486,29 +486,21 @@
       "nanoseconds": 204000000
     },
     "_timestamp_ms": 1599244924266,
-    "name": "Mash (200 min)",
+    "name": "Mash (120 min)",
     "steps": [
       {
         "type": "Temperature",
-        "displayStepTemp": 45,
-        "stepTime": 60,
-        "stepTemp": 45,
+        "displayStepTemp": 100,
+        "stepTime": 30,
+        "stepTemp": 100,
         "rampTime": null
       },
       {
         "type": "Temperature",
-        "stepTemp": 66,
-        "displayStepTemp": 66,
+        "stepTemp": 65,
+        "displayStepTemp": 65,
         "rampTime": null,
-        "stepTime": 120
-      },
-      {
-        "type": "Temperature",
-        "name": "Mash out",
-        "displayStepTemp": 76,
-        "stepTime": 20,
-        "stepTemp": 76,
-        "rampTime": null
+        "stepTime": 90
       }
     ],
     "_timestamp": {
@@ -1046,29 +1038,37 @@
     "hltWaterAmount": 5.84,
     "totalWaterAmount": 8.84,
     "hopsAmount": 15,
-    "strikeTemp": 48.3,
+    "strikeTemp": 110.7,
     "mashVolume": 3.67
   },
   "miscs": [
     {
-      "name": "Amylase Enzyme",
-      "timeIsDays": true,
-      "bestBeforeDate": null,
-      "unit": "g",
-      "manufacturingDate": null,
-      "substitutes": "",
-      "amount": 3,
-      "userNotes": "",
-      "type": "Other",
       "use": "Mash",
-      "amountPerL": null,
-      "useFor": "",
+      "amountPerL": 2.08,
+      "hidden": false,
       "notes": "",
-      "attributes": [
-        "Increase Attenuation"
-      ],
-      "_id": "default-82eb18",
-      "time": null
+      "bestBeforeDate": null,
+      "name": "Still-Spirits - Distillers Enzyme - High Temperature Apha-Amaylase",
+      "inventory": 0.01,
+      "_timestamp": {
+        "seconds": 1724847755,
+        "nanoseconds": 487000000
+      },
+      "userNotes": "Brouwmaatje (NL) BM-BV.50228 (12 grams)",
+      "manufacturingDate": null,
+      "costPerAmount": 0.329,
+      "type": "Other",
+      "unit": "g",
+      "substitutes": "",
+      "useFor": "",
+      "_timestamp_ms": 1724847755487,
+      "_id": "HmMGnBb67q2d33hvWYExFAosiHmFX5",
+      "_version": "2.10.9",
+      "_created": {
+        "seconds": 1724847755,
+        "nanoseconds": 487000000
+      },
+      "amount": 12
     },
     {
       "_version": "2.9.1",
@@ -1416,7 +1416,7 @@
     "carbonation": "vol",
     "altitude": "m"
   },
-  "_timestamp": "2024-08-28T12:06:07.906Z",
+  "_timestamp": "2024-08-28T12:29:48.095Z",
   "_init": true,
   "carbonationStyle": {
     "carbMin": 2,
@@ -1427,6 +1427,6 @@
   "rbRatio": 0.42,
   "tags": null,
   "thumb": "data:image/jpeg;base64,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",
-  "notes": "Full volume mash as to prevent clogging up the system. \n\nhttps://barclayperkins.blogspot.com/2011/11/small-beer-brewed-from-unmalted-barley.html\n\nThis is a weird one. It's taken from an encyclopedia article about brewing. For some reason, it starts discussing the use of raw grain in brewing. An odd thing to do because at the time it was published, 1839, brewing from anything other than malt and hops was strictly forbidden.\n\n    'The writer of this article,' says Dr. Thomson, in the supplement to the Encyclopaedia Britannica, 'has several times tried the experiment of making ale from unmalted barley, and found it perfectly practicable. Several precautions, however, are necessary in order to succeed. The water let upon the ground barley in the mash-tun must be considerably below the boiling temperature. For barley meal is much more apt to set than malt, that is, to form a stiff paste, from which no wort will separate. The addition of a portion of the chaff of oats serves very much to prevent this setting of the goods, and facilitates considerably the separation of the wort. Care must likewise be taken to prevent the heat from escaping during the mashing, and the mashing must be continued longer than usual. For it is during the mashing that the starch of the barley is converted into a saccharine matter. This change seems to be owing merely to the chemical combination of a portion of water with the starch of the barley; just as happens when common starch is converted into sugar, by boiling it with very dilute sulphuric acid, or any other acid. This method of brewing from raw grain answers admirably for small beer. In our trials, he adds, the raw barley did not answer so well for making strong ale as for small beer. The ale was perfectly transparent, and we kept it for several years without its running into acidity. But it had a peculiar flavor by no means agreeable. Probably a little practice might have enabled us to get rid of this flavor, in which case, raw grain would answer, in every respect, as well for brewing as malt does.' He further states, that some years ago it was used to a considerable extent by several brewers of small beer in Edinburgh, and their beer was considered as greatly preferable to small beer brewed in the usual manner. But the practice was stopped by a decision of the Court of Exchequer.\n    \"The London encyclopaedia, vol. IV Benedict to Cadiz\" edited by Thomas Curtis, 1839, pages 523 - 524.\n\nYou've probably guessed why I've posted this text. It's the final few sentences. The bit about Small Beer brewers in Edinburgh brewing from raw grain. I'm sceptical as to whether the Small Beer brewed from unmalted barley was better than that brewed from malt. I can believe that it was cheaper: the malting process was skipped and the malt tax avoided. A double whammy. Of course tax-dodging is exactly why the practice was forbidden.\n\nI'd love to find out more about this. . . . . . Been doing a quick search and came across this:\n\n    \"In Germany, and many parts of Belgium, where a light colour is desiderated for beer, the above-mentioned chemical principle is taken advantage of. The white beer of Louvain is made from a wort, formed of a little malt, added to a large quantity of wheat flour; and, in the manufacture of the celebrated Bavarian pale beer, a large quantity of unmalted barley is employed.\"\n    \"Journal of horticulture, Cottage Gardener, and Country Gentleman, Volume 3\", 1862, page 143.\n\nSurely it can't be true that unmalted barley was used in Bavaria? Then again, the orginal Reinheitsgebot doesn't mention malt. I just says beer can only be made from barley, hops and water.\n\nAh, this is more like what I was looking for.\n\n    \"3752. Do you apprehend if raw grain was well ground and infused with a due proportion of sugar or molasses, so as in that way to obtain the saccharine matter, that you would be likely, from those materials, to produce a good and wholesome beer ?—You can produce excellent beer from raw grain alone, without anything else.\n\n    3753- What reason is there, except the question of revenue, which ought to prevent the State from permitting beer made of raw grain to be manufactured by brewers ?—In the year 1805 we had three brewers, and it struck me, during the time of my experiments, to try whether we could not make beer from raw grain; I made each of those brewers in succession try it; they were extremely unwilling to do it; they said it was absurd and ridiculous; but however they tried it, and found, to their great astonishment, that they not only made beer, but better beer from raw grain than had been done from malt; and after we had done, they set up as brewers, brewed from raw grain, and got all the business of Edinburgh; the consequence was, that the licensed brewers, who brewed from malt, lodged a complaint, an Exchequer trial took place, and the barons of the Exchequer prohibited it, though there was no law.\"\n    \"Report from the Select Committee on the Use Of Molasses in Breweries and Distilleries\", 1836, page 245.\n\nThis looks like one of the sources of that encyclopedia article. It appears that some brewers in Edinburgh did indeed try to brew from raw grain. The bastards. ",
+  "notes": "Full volume mash as to prevent clogging up the system. \n\nMixing Instructions\n\n1. Bring your starch substrate slurry to the boil and simmer for 30 minutes, then turn off the heat and allow to cool to 80°C (176°F) or just below.\n2. Add enzyme and stir well and then cover (or hold at 65-80°C (149-176°F)) and allow to stand for 60 minutes.\n\nPlease note that some starch substrates, such as corn starch and, may require longer boiling times in order to fully break down and gelatinize the starch prior to application of Alpha-amylase enzyme.",
   "teaser": "This is a weird one. It's taken from an encyclopedia article about brewing. For some reason, it starts discussing the use of raw grain in brewing. An odd thing to do because at the time it was published, 1839, brewing from anything other than malt and hops was strictly forbidden.\n\nhttps://barclayperkins.blogspot.com/2011/11/small-beer-brewed-from-unmalted-barley.html\n"
 }
