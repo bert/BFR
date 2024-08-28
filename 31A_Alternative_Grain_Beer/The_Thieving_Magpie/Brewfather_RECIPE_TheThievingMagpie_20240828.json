@@ -1,7 +1,7 @@
 {
   "carbonation": 2.4,
   "boilTime": 60,
-  "_timestamp_ms": 1724848188095,
+  "_timestamp_ms": 1724848350228,
   "fermentablesTotalAmount": 1,
   "totalGravity": 1.035214093,
   "type": "All Grain",
@@ -1043,31 +1043,31 @@
   },
   "miscs": [
     {
-      "use": "Mash",
-      "amountPerL": 2.08,
-      "hidden": false,
-      "notes": "",
-      "bestBeforeDate": null,
-      "name": "Still-Spirits - Distillers Enzyme - High Temperature Apha-Amaylase",
-      "inventory": 0.01,
-      "_timestamp": {
-        "seconds": 1724847755,
-        "nanoseconds": 487000000
-      },
-      "userNotes": "Brouwmaatje (NL) BM-BV.50228 (12 grams)",
       "manufacturingDate": null,
-      "costPerAmount": 0.329,
-      "type": "Other",
-      "unit": "g",
+      "bestBeforeDate": null,
+      "_timestamp_ms": 1724847955980,
       "substitutes": "",
-      "useFor": "",
-      "_timestamp_ms": 1724847755487,
-      "_id": "HmMGnBb67q2d33hvWYExFAosiHmFX5",
       "_version": "2.10.9",
+      "type": "Other",
+      "_id": "HmMGnBb67q2d33hvWYExFAosiHmFX5",
+      "inventory": 0.01,
+      "useFor": "",
+      "amountPerL": 2.08,
+      "notes": "\nAlpha-amylase is a bacterially-derived enzyme which breaks down starch into dextrins and simple sugars during mashing.\n\nSufficient for treatment of up to 7.5 kg (16.5 lb) liquefied starch for fermentation volumes up to 25 L (6.6 US Gal).\n\nMixing Instructions\n\n1. Bring your starch substrate slurry to the boil and simmer for 30 minutes, then turn off the heat and allow to cool to 80°C (176°F) or just below.\n\n2. Add enzyme and stir well and then cover (or hold at 65-80°C (149-176°F)) and allow to stand for 60 minutes.\n\nPlease note that some starch substrates, such as corn starch and, may require longer boiling times in order to fully break down and gelatinize the starch prior to application of Alpha-amylase enzyme.\n",
+      "hidden": false,
+      "use": "Mash",
+      "_timestamp": {
+        "seconds": 1724847955,
+        "nanoseconds": 980000000
+      },
+      "unit": "g",
+      "userNotes": "Brouwmaatje (NL) BM-BV.50228 (12 grams)",
       "_created": {
         "seconds": 1724847755,
         "nanoseconds": 487000000
       },
+      "costPerAmount": 0.329,
+      "name": "Still-Spirits - Distillers Enzyme - High Temperature Apha-Amaylase",
       "amount": 12
     },
     {
@@ -1416,7 +1416,7 @@
     "carbonation": "vol",
     "altitude": "m"
   },
-  "_timestamp": "2024-08-28T12:29:48.095Z",
+  "_timestamp": "2024-08-28T12:32:30.228Z",
   "_init": true,
   "carbonationStyle": {
     "carbMin": 2,
