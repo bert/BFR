@@ -1,7 +1,7 @@
 {
   "carbonation": 2.4,
   "boilTime": 60,
-  "_timestamp_ms": 1724848647578,
+  "_timestamp_ms": 1724848840030,
   "fermentablesTotalAmount": 1,
   "totalGravity": 1.035214093,
   "type": "All Grain",
@@ -1068,7 +1068,7 @@
       },
       "costPerAmount": 0.329,
       "name": "Still-Spirits - Distillers Enzyme - High Temperature Apha-Amaylase",
-      "amount": 12
+      "amount": 3
     },
     {
       "type": "Water Agent",
@@ -1416,7 +1416,7 @@
     "carbonation": "vol",
     "altitude": "m"
   },
-  "_timestamp": "2024-08-28T12:37:27.578Z",
+  "_timestamp": "2024-08-28T12:40:40.030Z",
   "_init": true,
   "carbonationStyle": {
     "carbMin": 2,

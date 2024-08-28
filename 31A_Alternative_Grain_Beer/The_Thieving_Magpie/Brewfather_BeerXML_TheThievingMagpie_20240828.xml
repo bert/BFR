@@ -140,8 +140,8 @@
                 <TYPE>Other</TYPE>
                 <USE>Mash</USE>
                 <TIME>0</TIME>
-                <AMOUNT>0.012</AMOUNT>
-                <DISPLAY_AMOUNT>12 g</DISPLAY_AMOUNT>
+                <AMOUNT>0.003</AMOUNT>
+                <DISPLAY_AMOUNT>3 g</DISPLAY_AMOUNT>
                 <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
             </MISC>
             <MISC>
