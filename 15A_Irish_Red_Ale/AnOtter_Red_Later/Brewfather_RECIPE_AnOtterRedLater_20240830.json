@@ -571,7 +571,7 @@
         "nanoseconds": 696000000
       },
       "maxInBatch": null,
-      "use": "",
+      "use": "Boil",
       "substitutes": "",
       "usedIn": "",
       "fgdb": null,
@@ -605,7 +605,8 @@
       "acid": null,
       "hidden": false,
       "userNotes": "Brouwmaatje (NL) BM-BL.052.050.2",
-      "percentage": 17.53
+      "percentage": 17.53,
+      "time": 10
     },
     {
       "grainCategory": "Crystal/Caramel",
@@ -1000,7 +1001,7 @@
           "nanoseconds": 696000000
         },
         "maxInBatch": null,
-        "use": "",
+        "use": "Boil",
         "substitutes": "",
         "usedIn": "",
         "fgdb": null,
@@ -1034,7 +1035,8 @@
         "acid": null,
         "hidden": false,
         "userNotes": "Brouwmaatje (NL) BM-BL.052.050.2",
-        "percentage": 17.53
+        "percentage": 17.53,
+        "time": 10
       }
     ],
     "mashWaterAmount": 2.68,
@@ -1150,7 +1152,7 @@
     "carbonation": "vol",
     "altitude": "m"
   },
-  "_timestamp_ms": 1725024669437,
+  "_timestamp_ms": 1725025574218,
   "_version": "2.10.9",
   "hidden": false,
   "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
@@ -1190,7 +1192,7 @@
   "_share": null,
   "_origin": null,
   "_public": false,
-  "_timestamp": "2024-08-30T13:31:09.437Z",
+  "_timestamp": "2024-08-30T13:46:14.218Z",
   "_created": {
     "seconds": 1725023858,
     "nanoseconds": 332000000
