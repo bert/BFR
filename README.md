@@ -4,7 +4,7 @@
 
 - Each recipe has its own subfolder containing:
   - a human readable pdf file.
-  - a Brewfather native json file.
+  - a Brewfather native json file (version 2.11.1 build 1436413028, or newer).
   - an xml file for exchange to other brewing software.
 
 - All recipes are normalized for 5 Liter batch size (fermenting vessel)
