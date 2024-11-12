@@ -1,0 +1,726 @@
+{
+  "sumDryHopPerLiter": 0,
+  "styleAbv": false,
+  "hops": [],
+  "styleRbr": false,
+  "equipment": {
+    "spargeWaterOverflow": "Top-Up",
+    "hopUtilization": 1,
+    "postBoilKettleVol": 5.958333333333333,
+    "mashWaterVolumeLimitEnabled": true,
+    "calcBoilVolume": true,
+    "evaporationRate": 0.23195876288659795,
+    "fermenterVolume": 5.6,
+    "_created": {
+      "seconds": 1588432108,
+      "nanoseconds": 111000000
+    },
+    "fermenterLossEstimate": 0,
+    "mashTunLoss": 0.12,
+    "trubChillerLoss": 0.12,
+    "grainAbsorptionRate": 0.96,
+    "waterCalculation": "Default",
+    "spargeWaterMax": null,
+    "fermenterVolumeBeforeTopUp": 5.6,
+    "aromaHopUtilization": 0.23,
+    "_timestamp_ms": 1603469797350,
+    "calcStrikeWaterTemperature": true,
+    "mashTunDeadSpace": 0,
+    "efficiency": 71.8,
+    "hidden": false,
+    "boilOffPerHr": 1.8,
+    "calcMashEfficiency": true,
+    "bottlingVolume": 5,
+    "calcAromaHopUtilization": true,
+    "boilTime": 60,
+    "boilSize": 7.76,
+    "mashWaterMax": 12,
+    "waterGrainRatio": 3,
+    "mashEfficiency": 73.3,
+    "name": "01 Brouwpunt 5L (60min) (rev 4)",
+    "_timestamp": {
+      "seconds": 1603469797,
+      "nanoseconds": 350000000
+    },
+    "efficiencyType": "Fermenter",
+    "hopstandTemperature": 80,
+    "batchSize": 5.6,
+    "spargeWaterMin": null,
+    "fermenterLoss": 0.6,
+    "_id": "7cnW0WZ4QkAoYoLszsljpXk4uEoc34",
+    "_version": "2.4.8",
+    "_meta": {
+      "efficiencyIsCalculated": true,
+      "mashEfficiencyIsCalculated": true
+    },
+    "mashWaterFormula": "(GrainAmountKg * WaterGrainRatio) + MashTunDeadSpaceL",
+    "spargeWaterFormula": "BoilVolumeL - MashWaterL + (GrainAmountKg * GrainAbsorptionRate) + MashTunLossL"
+  },
+  "type": "All Grain",
+  "firstWortGravity": null,
+  "fermentables": [
+    {
+      "attenuation": null,
+      "name": "Dry Rye Bread",
+      "supplier": "",
+      "potential": 1.001,
+      "_id": "new-WgQN4D3XiZy4KqaMyzLavH0ZKMHI6w",
+      "percentage": 100,
+      "type": "Grain",
+      "color": 2,
+      "amount": 0.918,
+      "potentialPercentage": 2.2,
+      "grainCategory": "Base",
+      "origin": "",
+      "use": ""
+    },
+    {
+      "bestBeforeDate": null,
+      "notFermentable": false,
+      "notes": "",
+      "_created": {
+        "seconds": 1591526370,
+        "nanoseconds": 788000000
+      },
+      "origin": "NL",
+      "moisture": null,
+      "attenuation": 1.22,
+      "userNotes": "Albert Heijn (NL)",
+      "usedIn": "",
+      "amount": 0.234,
+      "_parent": "default-132c22b",
+      "potential": 1.046,
+      "_timestamp_ms": 1715785842490,
+      "_id": "N3xrS6whFlinHqtEBDWsDBYCrSZHUp",
+      "fgdb": null,
+      "ibuPerAmount": null,
+      "color": 1.015228,
+      "grainCategory": null,
+      "costPerAmount": 0.75,
+      "use": "Boil",
+      "fan": null,
+      "maxInBatch": null,
+      "percentage": 0,
+      "manufacturingDate": null,
+      "diastaticPower": null,
+      "name": "Sugar, Table (Sucrose)",
+      "time": 10,
+      "hidden": false,
+      "_timestamp": {
+        "seconds": 1715785842,
+        "nanoseconds": 490000000
+      },
+      "protein": null,
+      "type": "Sugar",
+      "coarseFineDiff": null,
+      "substitutes": "",
+      "potentialPercentage": 100,
+      "cgdb": null,
+      "inventory": 0.1925,
+      "friability": null,
+      "supplier": "Albert Heijn",
+      "acid": null,
+      "excluded": true,
+      "_version": "2.10.9"
+    }
+  ],
+  "_version": "2.11.5",
+  "diastaticPower": 0,
+  "notes": "With thanks to Ukrainian beer writer Lana Svitankova for sharing the translated text, this recipe is based on one found in Zenovia Klinovetska’s 1913 book \"Food and Drinks in Ukraine\",\n which features 1,000 folk recipes. Here are the original instructions for “Zaporozhky kvas,” translated from Ukrainian:\n\nPour 4 buckets of boiling water over 16 pounds of dried rye bread and let sit for 8 hours. \nTransfer to another tub, add 1.5 glasses of good yeast, 4 pounds of sugar, 1 sliced and de-seeded lemon, and let sit for another 8 hours.\n Afterward, strain through a fine cloth and bottle.\nAdd a raisin to each bottle, cork tight, and keep at room temperature for 8–10 hours, until kvass ferments.\n\nAiming to turn this into a batch fit for a five-gallon (19-liter) corny keg, we used the following conversion rates for the antiquated measurements:\n1 bucket = 3.2 gallons (12.1 liters);\n1 “pound” = 0.88 U.S. pounds (400 g);\nand 1 glass = 0.8 cups (200 ml). </p>\n\nFor much more about this traditional farmhouse drink, see \"https://beerandbrewing.com/style-school-kvass-the-true-liquid-bread/\" Kvass: The True Liquid Bread.\n\nKVASS\nBatch size: 5 gallons (19 liters)\nOG: 1.017 (4.3°P)\nFG: 1.000 (0°P)\nABV: 2.2%\n\nINGREDIENTS\n7 lb (3.2 kg) dried rye bread, torn into pieces\n1.8 lb (816 g) table sugar\n1 lemon, slice and de-seeded\nA handful of raisins\n\nYEAST\nHomemade rye sourdough starter, or co-pitch baker’s yeast and \"Lactobacillus\".\n\nDIRECTIONS\nBoil about 6.5 gallons (25 liters) of water and pour over the bread in a heat-safe vessel.\nCover loosely and allow to sit for 8 hours or until it’s cooled to room temperature.\nTransfer off the bread into another vessel, and add sugar, lemon, and yeast.\nCover loosely and let sit another 8 hours.\nStrain liquid through a fine cloth, rack to a keg, add raisins in a mesh hop bag, and condition 8–10 hours at room temperature before chilling and tapping.\n(Alternatively, package in sanitized PET bottles, adding 1 raisin to each bottle, storing in the fridge after 8–10 hours.\nDrink within a few days, occasionally loosening the caps to off-gas).",
+  "yeastToleranceExceededBy": null,
+  "batchSize": 5.6,
+  "rbRatio": 0,
+  "_timestamp_ms": 1731450468412,
+  "hopStandMinutes": 0,
+  "attenuation": 1.179,
+  "boilSize": 7.76,
+  "_type": "recipe",
+  "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
+  "preBoilGravity": 1.001,
+  "primaryTemp": 18,
+  "hidden": false,
+  "totalGravity": 1.01676057,
+  "author": "Lana Svitankova | Beer & Brewing",
+  "_timestamp": "2024-11-12T22:27:48.412Z",
+  "og": 1.01676057,
+  "miscs": [
+    {
+      "type": "Other",
+      "time": 10,
+      "unit": "g",
+      "use": "Boil",
+      "amount": 8.842,
+      "_id": "new-ftdtNXU82YXBa76l1NOA8yzaC0NgAy",
+      "name": "Raisins"
+    }
+  ],
+  "data": {
+    "mashFermentablesAmount": 0.918,
+    "allDiastaticPower": false,
+    "totalDiastaticPower": 0,
+    "mashFermentables": [
+      {
+        "attenuation": null,
+        "name": "Dry Rye Bread",
+        "supplier": "",
+        "potential": 1.001,
+        "_id": "new-WgQN4D3XiZy4KqaMyzLavH0ZKMHI6w",
+        "percentage": 100,
+        "type": "Grain",
+        "color": 2,
+        "amount": 0.918,
+        "potentialPercentage": 2.2,
+        "grainCategory": "Base",
+        "origin": "",
+        "use": ""
+      }
+    ],
+    "otherFermentablesAmount": 0.234,
+    "otherFermentables": [
+      {
+        "bestBeforeDate": null,
+        "notFermentable": false,
+        "notes": "",
+        "_created": {
+          "seconds": 1591526370,
+          "nanoseconds": 788000000
+        },
+        "origin": "NL",
+        "moisture": null,
+        "attenuation": 1.22,
+        "userNotes": "Albert Heijn (NL)",
+        "usedIn": "",
+        "amount": 0.234,
+        "_parent": "default-132c22b",
+        "potential": 1.046,
+        "_timestamp_ms": 1715785842490,
+        "_id": "N3xrS6whFlinHqtEBDWsDBYCrSZHUp",
+        "fgdb": null,
+        "ibuPerAmount": null,
+        "color": 1.015228,
+        "grainCategory": null,
+        "costPerAmount": 0.75,
+        "use": "Boil",
+        "fan": null,
+        "maxInBatch": null,
+        "percentage": 0,
+        "manufacturingDate": null,
+        "diastaticPower": null,
+        "name": "Sugar, Table (Sucrose)",
+        "time": 10,
+        "hidden": false,
+        "_timestamp": {
+          "seconds": 1715785842,
+          "nanoseconds": 490000000
+        },
+        "protein": null,
+        "type": "Sugar",
+        "coarseFineDiff": null,
+        "substitutes": "",
+        "potentialPercentage": 100,
+        "cgdb": null,
+        "inventory": 0.1925,
+        "friability": null,
+        "supplier": "Albert Heijn",
+        "acid": null,
+        "excluded": true,
+        "_version": "2.10.9"
+      }
+    ],
+    "mashWaterAmount": 2.75,
+    "spargeWaterAmount": 6.01,
+    "mashVolumeSurplus": 0,
+    "topUpWater": 0,
+    "batchSpargeWaterAmount1": null,
+    "batchSpargeWaterAmount2": null,
+    "batchSpargeWaterAmount3": null,
+    "batchSpargeWaterAmount4": null,
+    "hltWaterAmount": 6.01,
+    "totalWaterAmount": 8.76,
+    "strikeTemp": 65.3,
+    "mashVolume": 3.36506
+  },
+  "styleColor": true,
+  "mash": {
+    "_timestamp": {
+      "seconds": 1599244924,
+      "nanoseconds": 266000000
+    },
+    "_version": "2.3.14",
+    "hidden": false,
+    "name": "01 One Step Mash (480 min)",
+    "_timestamp_ms": 1599244924266,
+    "steps": [
+      {
+        "stepTemp": 60,
+        "stepTime": 480,
+        "type": "Temperature",
+        "rampTime": null,
+        "displayStepTemp": 60
+      }
+    ],
+    "_created": {
+      "seconds": 1592329902,
+      "nanoseconds": 204000000
+    },
+    "_id": "6jpuQsHCfaiAn3GQJSrfqHXEFQtXW2"
+  },
+  "postBoilGravity": 1.01676057,
+  "hopsTotalAmount": 0,
+  "path": "",
+  "water": {
+    "spargeWaterAmount": null,
+    "spargeAcidPhAdjustment": 0,
+    "mashAdjustments": {
+      "volume": 2.75,
+      "sodiumMetabisulfite": 0,
+      "sodiumChloride": null,
+      "sodiumMetabisulfitePPM": 0,
+      "calciumChloride": null,
+      "sulfate": 0,
+      "calciumHydroxide": 0,
+      "magnesiumChloride": 0,
+      "calciumSulfate": null,
+      "ltAMS": 0,
+      "magnesium": 0,
+      "ltDWB": 0,
+      "chloride": 0,
+      "bicarbonate": 0,
+      "calciumCarbonate": 0,
+      "sodium": 0,
+      "sodiumBicarbonate": null,
+      "magnesiumSulfate": null,
+      "acids": [
+        {
+          "type": "lactic",
+          "amount": 0,
+          "alkalinityMeqL": 0,
+          "concentration": 80
+        }
+      ],
+      "calcium": 0
+    },
+    "dilutionPercentage": null,
+    "spargeAdjustments": {
+      "volume": 6.01,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "acids": [
+        {
+          "type": "lactic",
+          "amount": 0,
+          "concentration": 80
+        }
+      ],
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "settings": {
+      "sodiumMetabisulfite": {
+        "mash": false,
+        "sparge": false,
+        "auto": false
+      },
+      "magnesiumChloride": {
+        "mash": false,
+        "auto": false,
+        "sparge": false
+      },
+      "calciumChloride": {
+        "form": "liquid",
+        "sparge": true,
+        "mash": true,
+        "auto": true
+      },
+      "calciumSulfate": {
+        "auto": true,
+        "mash": true,
+        "sparge": true
+      },
+      "calciumCarbonate": {
+        "mash": false,
+        "sparge": false,
+        "auto": false
+      },
+      "adjustSparge": true,
+      "calciumHydroxide": {
+        "auto": false,
+        "sparge": false,
+        "mash": false
+      },
+      "magnesiumSulfate": {
+        "mash": true,
+        "sparge": true,
+        "auto": true
+      },
+      "sodiumBicarbonate": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      },
+      "sodiumChloride": {
+        "mash": true,
+        "auto": true,
+        "sparge": true
+      }
+    },
+    "sparge": {
+      "sulfate": 4,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "_version": "2.10.9",
+      "chloride": 5,
+      "cations": 0.545,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "hardness": 21,
+      "_timestamp": {
+        "seconds": 1724869665,
+        "nanoseconds": 695000000
+      },
+      "bicarbonate": 17,
+      "calcium": 5,
+      "type": "source",
+      "ph": 6,
+      "_timestamp_ms": 1724869665695,
+      "hidden": false,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "residualAlkalinity": 9.1836,
+      "magnesium": 2,
+      "alkalinity": 13.9309,
+      "sodium": 3,
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "ionBalance": 2,
+      "soClRatio": 0.8,
+      "anions": 0.503
+    },
+    "source": {
+      "sulfate": 4,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "_version": "2.10.9",
+      "chloride": 5,
+      "cations": 0.545,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "hardness": 21,
+      "_timestamp": {
+        "seconds": 1724869665,
+        "nanoseconds": 695000000
+      },
+      "bicarbonate": 17,
+      "calcium": 5,
+      "type": "source",
+      "ph": 6,
+      "_timestamp_ms": 1724869665695,
+      "hidden": false,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "residualAlkalinity": 9.1836,
+      "magnesium": 2,
+      "alkalinity": 13.9309,
+      "sodium": 3,
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "ionBalance": 2,
+      "soClRatio": 0.8,
+      "anions": 0.503
+    },
+    "meta": {
+      "equalSourceTotal": true
+    },
+    "total": {
+      "sulfate": 4,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "_version": "2.10.9",
+      "chloride": 5,
+      "cations": 0.545,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "hardness": 21,
+      "_timestamp": {
+        "seconds": 1724869665,
+        "nanoseconds": 695000000
+      },
+      "bicarbonate": 17,
+      "calcium": 5,
+      "type": "source",
+      "ph": 6,
+      "_timestamp_ms": 1724869665695,
+      "hidden": false,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "residualAlkalinity": 9.1836,
+      "magnesium": 2,
+      "alkalinity": 13.9309,
+      "sodium": 3,
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "ionBalance": 2,
+      "soClRatio": 0.8,
+      "anions": 0.503
+    },
+    "mashPhDistilled": 5.72,
+    "spargeTargetDiff": null,
+    "totalAdjustments": {
+      "volume": 8.76,
+      "calciumCarbonate": 0,
+      "sodiumBicarbonate": 0,
+      "calciumHydroxide": 0,
+      "calciumSulfate": 0,
+      "magnesiumSulfate": 0,
+      "calciumChloride": 0,
+      "magnesiumChloride": 0,
+      "sodiumChloride": 0,
+      "sodiumMetabisulfite": 0,
+      "ltDWB": 0,
+      "ltAMS": 0,
+      "sodiumMetabisulfitePPM": 0,
+      "calcium": 0,
+      "magnesium": 0,
+      "sodium": 0,
+      "chloride": 0,
+      "sulfate": 0,
+      "bicarbonate": 0
+    },
+    "acidPhAdjustment": 0,
+    "totalTargetDiff": null,
+    "mash": {
+      "sulfate": 4,
+      "residualAlkalinityMeqLCalc": 0.16012,
+      "ionBalanceOff": false,
+      "_version": "2.10.9",
+      "chloride": 5,
+      "cations": 0.545,
+      "name": "02 NL Spa Reine Flat Mineral Water (www.ah.nl)",
+      "hardness": 21,
+      "_timestamp": {
+        "seconds": 1724869665,
+        "nanoseconds": 695000000
+      },
+      "bicarbonate": 17,
+      "calcium": 5,
+      "type": "source",
+      "ph": 6,
+      "_timestamp_ms": 1724869665695,
+      "hidden": false,
+      "bicarbonateMeqL": 0.2786154451291465,
+      "residualAlkalinity": 9.1836,
+      "magnesium": 2,
+      "alkalinity": 13.9309,
+      "sodium": 3,
+      "_id": "HAb1UmR5i0YiAJfCZ3ngwuOpMdssBy",
+      "_created": {
+        "seconds": 1615929593,
+        "nanoseconds": 999000000
+      },
+      "ionBalance": 2,
+      "soClRatio": 0.8,
+      "anions": 0.503
+    },
+    "mashTargetDiff": null,
+    "enableSpargeAdjustments": true,
+    "mashPh": 5.73,
+    "sourceTargetDiff": null,
+    "diluted": null,
+    "dilutionAmount": 0,
+    "mashWaterAmount": null
+  },
+  "carbonation": 2.4,
+  "fermentablesTotalAmount": 0.918,
+  "color": 3.2,
+  "style": {
+    "rbrMin": 0.1,
+    "styleLetter": "",
+    "ibuMin": "0",
+    "buGuMax": 1.1,
+    "buGuMin": 0.1,
+    "abvMax": "2.5",
+    "lovibondMin": 0,
+    "styleGuide": "Beer Advocate",
+    "categoryNumber": "",
+    "ibuMax": "0",
+    "rbrMax": 1.1,
+    "_id": "1BdMFE641dh7tKsMlGKAGAkTjPPIvY",
+    "name": "Kvass",
+    "colorMin": 0,
+    "lovibondMax": 0,
+    "abvMin": "0.5",
+    "colorMax": 0
+  },
+  "fermentableIbu": 0,
+  "fermentation": {
+    "_timestamp": {
+      "seconds": 1623102182,
+      "nanoseconds": 689000000
+    },
+    "_id": "xJD4OQsGafcf6DSEiSIyRxsbR4e76A",
+    "steps": [
+      {
+        "type": "Primary",
+        "pressure": null,
+        "displayStepTemp": 18,
+        "ramp": null,
+        "stepTemp": 18,
+        "displayPressure": null,
+        "stepTime": 10
+      },
+      {
+        "stepTemp": 21,
+        "pressure": null,
+        "name": "Diacetyl rest",
+        "ramp": null,
+        "displayStepTemp": 21,
+        "displayPressure": null,
+        "type": "Primary",
+        "stepTime": 4
+      },
+      {
+        "stepTime": 14,
+        "displayStepTemp": 18,
+        "pressure": null,
+        "displayPressure": null,
+        "stepTemp": 18,
+        "ramp": null,
+        "type": "Carbonation"
+      },
+      {
+        "displayStepTemp": 18,
+        "stepTemp": 18,
+        "pressure": null,
+        "stepTime": 28,
+        "displayPressure": null,
+        "type": "Conditioning",
+        "ramp": null
+      }
+    ],
+    "name": "01 Ale + DR + Conditioning",
+    "_created": {
+      "seconds": 1616003147,
+      "nanoseconds": 21000000
+    },
+    "hidden": false,
+    "_timestamp_ms": 1623102182689,
+    "_version": "2.7.6"
+  },
+  "efficiency": 71.8,
+  "abv": 2.62,
+  "_ev": 2,
+  "tags": null,
+  "_init": true,
+  "styleOg": true,
+  "avgWeightedHopstandTemp": 80,
+  "fg": 0.997,
+  "thumb": "data:image/jpeg;base64,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",
+  "styleConformity": false,
+  "name": "Zaporozhky kvas",
+  "styleBuGu": false,
+  "_created": {
+    "seconds": 1727808088,
+    "nanoseconds": 114000000
+  },
+  "fgFormula": "normal",
+  "searchTags": [],
+  "sumAromaHopPerLiter": 0,
+  "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/ewCfkeMWkVA28VHvgGIZzOx3jEHo26/ewCfkeMWkVA28VHvgGIZzOx3jEHo26.png",
+  "ogPlato": 4.3,
+  "extraGravity": 0,
+  "nutrition": {
+    "calories": {
+      "alcohol": 13.773472366249853,
+      "carbs": 0.17225000551354522,
+      "total": 13.9457223717634,
+      "kJ": 58.34890240345807
+    },
+    "carbs": {
+      "total": 0.03865154390389456
+    }
+  },
+  "carbonationStyle": null,
+  "yeasts": [
+    {
+      "unit": "pkg",
+      "manufacturingDate": null,
+      "productId": "5335",
+      "minTemp": 15.6,
+      "maxAbv": null,
+      "_id": "default-23961e",
+      "maxTemp": 35,
+      "description": "",
+      "attenuation": 80,
+      "form": "Liquid",
+      "name": "Lactobacillus",
+      "fermentsAll": false,
+      "minAttenuation": null,
+      "flocculation": "Medium",
+      "bestBeforeDate": null,
+      "maxAttenuation": null,
+      "type": "Ale",
+      "amount": 0.3,
+      "userNotes": "",
+      "laboratory": "Wyeast Labs"
+    },
+    {
+      "name": "Rye Sourdough",
+      "productId": "",
+      "_id": "new-3MXrIqDz9eHiBTRCpVy0uvsbtdbB2Q",
+      "form": "Culture",
+      "amount": 0.3,
+      "attenuation": 75,
+      "type": "Ale",
+      "laboratory": "",
+      "fermentsAll": false,
+      "unit": "pkg"
+    }
+  ],
+  "defaults": {
+    "preferred": "metric",
+    "abv": "simple",
+    "attenuation": "normal",
+    "color": "ebc",
+    "grainColor": "default",
+    "gravity": "sg",
+    "ibu": "tinseth",
+    "temp": "c",
+    "volume": "l",
+    "weight": "kg",
+    "hop": "g",
+    "pressure": "bar",
+    "carbonation": "vol",
+    "altitude": "m"
+  },
+  "styleFg": true,
+  "styleIbu": true,
+  "mashEfficiency": 73.3,
+  "ibuFormula": "tinseth",
+  "_app_metadata": {
+    "webhook": {
+      "run": false
+    }
+  },
+  "boilTime": 60,
+  "ibu": 0,
+  "fgEstimated": 0.997,
+  "_id": "ewCfkeMWkVA28VHvgGIZzOx3jEHo26",
+  "buGuRatio": 0
+}
