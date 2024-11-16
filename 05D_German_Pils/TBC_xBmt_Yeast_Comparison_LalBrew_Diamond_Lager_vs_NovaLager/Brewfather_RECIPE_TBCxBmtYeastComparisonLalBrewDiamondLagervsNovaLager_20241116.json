@@ -18,11 +18,11 @@
   },
   "fgEstimated": 1.01,
   "_share": null,
-  "_timestamp_ms": 1731783136549,
+  "_timestamp_ms": 1731783246235,
   "buGuRatio": 0.63,
   "hidden": false,
   "batchSize": 5.6,
-  "rbRatio": 0.67,
+  "rbRatio": 0.65,
   "diastaticPower": 0,
   "_version": "2.11.5",
   "boilTime": 60,
@@ -154,7 +154,7 @@
     "_id": "05D",
     "carbMin": 2.5
   },
-  "manualFg": true,
+  "manualFg": false,
   "name": "TBC xBmt - Yeast Comparison - LalBrew Diamond Lager vs. NovaLager",
   "fermentablesTotalAmount": 1.307,
   "_created": {
@@ -162,7 +162,7 @@
     "nanoseconds": 405000000
   },
   "mashEfficiency": 73.3,
-  "_timestamp": "2024-11-16T18:52:16.549Z",
+  "_timestamp": "2024-11-16T18:54:06.235Z",
   "boilSize": 7.76,
   "img": "users/f8vzySfCNzOXgK7PVc1TpOuM5m22/images/recipes/y6AxzLBS6zVUK5eJ8UQ8WrDeplLgc0/y6AxzLBS6zVUK5eJ8UQ8WrDeplLgc0.jpeg",
   "primaryTemp": 14.4,
@@ -177,7 +177,7 @@
   "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
   "styleOg": false,
   "preBoilGravity": 1.041,
-  "attenuation": 0.824,
+  "attenuation": 0.804,
   "yeasts": [
     {
       "amount": 0.7,
@@ -402,7 +402,7 @@
     ],
     "_id": "default"
   },
-  "abv": 5.78,
+  "abv": 5.64,
   "sumAromaHopPerLiter": 4.107142857142858,
   "water": {
     "sparge": {
@@ -792,17 +792,17 @@
   "hopStandMinutes": 10,
   "hopsTotalAmount": 45.4,
   "thumb": "data:image/jpeg;base64,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",
-  "fg": 1.009,
+  "fg": 1.01,
   "avgWeightedHopstandTemp": 76.666666666667,
   "nutrition": {
     "calories": {
-      "alcohol": 32.53863840220636,
-      "carbs": 16.696457785964146,
-      "total": 49.23509618817051,
-      "kJ": 205.99964245130542
+      "alcohol": 31.829413368121322,
+      "carbs": 17.540671599923577,
+      "total": 49.3700849680449,
+      "kJ": 206.56443550629987
     },
     "carbs": {
-      "total": 4.1946084135966695
+      "total": 4.409057706884299
     }
   },
   "firstWortGravity": null,
