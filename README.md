@@ -11,5 +11,3 @@
   and can be brewed in a 12 Liter stove pot.
 
 - Most, if not all, recipes can be mashed in a 8 Liter mash tun or pot.
-
-[BJCP Categories and Styles](BJCP_Styles.md)
