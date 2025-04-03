@@ -451,7 +451,7 @@
   "styleBuGu": true,
   "sumAromaHopPerLiter": 1.3571428571428572,
   "efficiency": 71.8,
-  "_timestamp": "2025-04-03T19:55:28.469Z",
+  "_timestamp": "2025-04-03T20:20:33.601Z",
   "_uid": "f8vzySfCNzOXgK7PVc1TpOuM5m22",
   "boilSize": 7.76,
   "notes": "Target: ABV = 4.3 %.",
@@ -464,8 +464,8 @@
         "stepTime": 60,
         "rampTime": null,
         "type": "Temperature",
-        "displayStepTemp": 63,
-        "stepTemp": 63
+        "displayStepTemp": 65,
+        "stepTemp": 65
       }
     ],
     "_version": "2.3.14",
@@ -792,7 +792,7 @@
     }
   ],
   "_type": "recipe",
-  "_timestamp_ms": 1743710128469,
+  "_timestamp_ms": 1743711633601,
   "defaults": {
     "preferred": "metric",
     "abv": "simple",
@@ -1122,7 +1122,7 @@
     "hltWaterAmount": 5.85,
     "totalWaterAmount": 8.84,
     "hopsAmount": 19.9,
-    "strikeTemp": 68.7,
+    "strikeTemp": 71,
     "mashVolume": 3.65665
   },
   "hops": [
