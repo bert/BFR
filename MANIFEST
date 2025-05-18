@@ -1,11 +1,13 @@
 BFR
 ├── 01A_American_Light_Lager
+│   ├── Lighter_Than_Helium
 │   ├── Ragondingue_035-Crokodil
 │   └── Typical_American_Light_Lager
 ├── 01B_American_Lager
 │   ├── Stella_Artois_clone
 │   └── Today_is_Another_Lager_20220930
 ├── 01C_Cream_Ale
+│   ├── AnOtter_Cream_Ale
 │   ├── Cream_Ale
 │   ├── Cream_Ale_20191210
 │   ├── New_Glarus_Spotted_Cow_clone
@@ -13,24 +15,42 @@ BFR
 │   └── xBmt-20191031_High_Mash_pH
 ├── 01D_American_Wheat_Beer
 │   ├── Allagash_Brewing_Allagash_White
+│   ├── American_Wheat_Beer
+│   ├── American_Wheat_Beer_v2
 │   ├── Astronomical_Ales_Neptune_Blueberry_Wheat_Ale
 │   ├── Blackthorn_Wheat_Beer
 │   ├── Blonde_Buckwheat_Beer
 │   ├── Citra_Wheat_Beer
+│   ├── Gooseberry_Bramling-X_Wheat_Beer
+│   ├── Hibiscus_Wheat_Ale
+│   ├── Marvin_HHG2_the_Galaxy
+│   ├── Marvin_HHG2_the_Galaxy_and_beyond
+│   ├── Marvin_HHG2_the_Galaxy_and_beyond_v2
 │   ├── No_Boil_Wheat_Beer
 │   ├── No_Rhubarb_Wheat_Beer
+│   ├── Orange_Wheat_IPA
 │   ├── Ragondingue_006-4649
-│   └── Raspberry_Wheat_Beer
+│   ├── Raspberry_Wheat_Beer
+│   ├── SMaSH_Mosaic
+│   ├── SMaSH_Mosaic_v2
+│   ├── SMaSH_Mosaic_v3
+│   └── Wheat_Beer_20241024
 ├── 02A_International_Pale_Lager
 │   ├── Another_Rice_Lager_20220922
+│   ├── Aramis_and_Tradition_Lager
 │   ├── Bru_It_Yourself_Japanese_Rice_Lager
+│   ├── East_Kent_Lager
+│   ├── Fuggled_Up
 │   ├── Hallertau_Blanc_Lager
 │   ├── Lager_20221210-1
 │   ├── Lager_20221210-2
+│   ├── Lager_20240823
 │   ├── Lager4our
+│   ├── Low_ABV_Pale_Quaffer
 │   ├── Mexican_Lager_Attempt_5
 │   ├── Mistral_76
 │   ├── Modelo_clone
+│   ├── noname_20250307
 │   ├── Rainwater_Lager
 │   ├── RW_23_Lager
 │   ├── SIL
@@ -38,18 +58,25 @@ BFR
 │   ├── The_Hop_Chronicles_Amarillo_2021_Pale_Lager
 │   ├── The_Hop_Chronicles_Gr_Northern_Brewer_2021_Pale_Lager
 │   ├── The_Hop_Chronicles_Motueka_2021_Pale_Lager
+│   ├── The_Hop_Chronicles_Spalter_Select_2022_Pale_Lager
+│   ├── The_Hop_Chronicles_Superdelic_2024_Pale_Lager
+│   ├── The_Sign_Of
 │   ├── The_Winner
 │   ├── Utopian_Premium_British_Lager
 │   ├── Womble_Lager
 │   ├── xBmt-20191021_Star_San_Foam
-│   └── xBmt-20201029_FWH_vs_Standard_Hop_European_Lager
+│   ├── xBmt-20201029_FWH_vs_Standard_Hop_European_Lager
+│   └── xBmt-20230724_Hop_Comparison_Tettnanger_vs_Spalter_Select
 ├── 02B_International_Amber_Lager
 ├── 02C_International_Dark_Lager
 │   └── Graveys_Brewery_Black_Lager
 ├── 03A_Czech_Pale_Lager
+│   ├── Budvar
 │   ├── Czech_lager_Bohemian_Pilsener
-│   └── Proper_English_Lager
+│   ├── Proper_English_Lager
+│   └── Simcoe_Diamond_Quaffer
 ├── 03B_Czech_Premium_Pale_Lager
+│   ├── Brevnov_Monastery_Brewery_Benedict_Pale_Lager_clone
 │   ├── Forks_in_the_Road_Loral_Lager
 │   ├── Pilsner_Urquell_Authentic_clone_Decoction
 │   ├── Světlé_Pivos_Czech_Lager
@@ -65,26 +92,35 @@ BFR
 │   ├── Dovetail_Czech_Dark_Lager
 │   └── Lager_Angst
 ├── 04A_Munich_Helles
+│   ├── AnOtter_Munich_Helles_Lager
+│   ├── AnOtter_Munich_Helles_SMaSH
 │   ├── Boddington_Hell_Golding
 │   ├── Boddington_Hell_Tettnang
 │   ├── Kveik_Helles
 │   ├── Munich_Helles_20230330
 │   ├── Munich_Helles_Lager
 │   ├── Munich_Helles_sMasH
+│   ├── Short_Shoddy_Munich_Helles_4A
 │   └── xBmt-20190520_Hot_Break_Removal
 ├── 04B_Festbier
 │   ├── October_Fest_20231002
 │   ├── xBmt-20190930_Force_Carb_vs_Krausening
 │   └── xBmt-20200928_Bitter_Hops_30_vs_60_Minutes_in_Pale_Lager
 ├── 04C_Helles_Bock
+│   ├── Bock_Dich_Befehl_Ich_Dir
+│   ├── Bock_Dich_Befehl_Ich_Dir_v2
+│   ├── Bock_Dich_Befehl_Ich_Dir_v3
 │   ├── Helles_Bock
 │   └── xBmt-20191202_Impact_Of_Adding_Zinc_At_Yeast_Pitch
 ├── 05A_German_Leichtbier
+│   ├── Alphine_Lager
 │   ├── Blackstrap_Lager
 │   └── Oranjeboom_Licht_Gerste_1933
 ├── 05B_Kölsch
 │   ├── Arctic_Ale
 │   ├── Chateau_Kolsch
+│   ├── Kolsch
+│   ├── Kolsch_20250224
 │   ├── Nykølsch
 │   ├── Ragondingue_042-Blitzkrieg
 │   ├── Roosters_Yankee_Golden_Ale
@@ -94,15 +130,19 @@ BFR
 │   ├── xBmt-20191007_Bootleg_Biology_OSLO_Ferm_Temp
 │   └── xBmt-20191125_Kveik_Yeast_Pitch_Rate
 ├── 05D_German_Pils
+│   ├── Abbey_Road_Pilsner
 │   ├── Colbys_Bohemian_Pilsner_variant
 │   ├── Graveys_Brewery_Kveik_Pilsner
 │   ├── Halletauer_Mittelfruh
 │   ├── Hamburg_Lager
+│   ├── Lager_20250325
 │   ├── Lisa_Likes_Nelson
 │   ├── North_German_Style_Pils
 │   ├── Pale_Bitter_Lager_20231208
 │   ├── Pilsner_20220428
 │   ├── Pilsner_20220822
+│   ├── SMaSH_Most
+│   ├── TBC_xBmt_Yeast_Comparison_LalBrew_Diamond_Lager_vs_NovaLager
 │   ├── xBmt-20200406_SMB_Amount
 │   ├── xBmt-20200427_Calcium_Chloride- At_Packaging_xBmt
 │   ├── xBmt-20200511_Low_vs_High_Trub_in_German_Pils
@@ -111,12 +151,17 @@ BFR
 │   ├── xBmt-20201116_Cold_Crash_Speed_German_Pils
 │   └── xBmt-20201130_Impact_Of_Carapils_On_Pale_Lager
 ├── 06A_Märzen
+│   ├── Marzen
+│   ├── Nicks_BOS_Märzen
 │   └── Red_Lager
 ├── 06B_Rauchbier
 ├── 06C_Dunkles_Bock
+│   ├── AnOtter_Dunkles_Bock
 │   ├── Einbecker_Ur-bock_Dunkel_clone
 │   ├── Oerbock
+│   ├── Short_Shoddy_Dunkles_Bock_6C
 │   ├── Stuiver
+│   ├── Traditional_Bock
 │   └── Viergranen_Bokbier
 ├── 07A_Vienna_Lager
 │   ├── Brooklyn_Lager_BYO_clone
@@ -129,17 +174,20 @@ BFR
 │   ├── Vienna_Lager_20230412
 │   └── Vienna_Lager_20240329
 ├── 07B_Altbier
+│   ├── AnOtter_Altbier
 │   ├── Flanders_Altbier
 │   ├── Gale_Ale
 │   └── Ragondingue_061-Parabellum
 ├── 08A_Munich_Dunkel
+│   ├── AnOtter_Munich_Dunkel
 │   ├── Chris_Colby_Munich_Dunkel
 │   ├── Greg_Hughes_Munich_Dunkel
 │   ├── Mean_Brews_Munich_Dunkel
 │   ├── Munich_Dunkel_20231205
 │   └── Randy_Mosher_Munich_Dunkel
 ├── 08B_Schwarzbier
-│   └── Blackheart_Schwarzbier
+│   ├── Blackheart_Schwarzbier
+│   └── Schwarzbier_20241117
 ├── 09A_Doppelbock
 │   ├── Alecs_Doppelbock
 │   ├── Dans_Doppelbock
@@ -148,6 +196,8 @@ BFR
 │   ├── Predator
 │   ├── Springfield_Brewing_Co_Aviator_Doppelbock
 │   └── Vlieteren_Bier_Oaked_Doppelbock
+├── 09C_Baltic_Porter
+│   └── Browar_Widawa_Smoked_Baltic_Porter_24
 ├── 0X5_New_Zealand_Pilsner
 │   ├── Mad_Bat_NZ_pseudo-lager
 │   ├── New_Zealand_Pale_Ale_20231109
@@ -157,24 +207,35 @@ BFR
 │   ├── Rooibos_Lager
 │   └── Steinlager_clone
 ├── 10A_Weissbier
+│   ├── AnOtter_Buckweissbier
+│   ├── AnOtter_Hefeweissbier
 │   ├── Erdinger_clone
 │   ├── Erdinger_clone_v2
+│   ├── Erdinger_clone_v3
 │   ├── Erdinger_Weissbier_clone
 │   ├── Fat_Heads_Goggle_Fogger
 │   ├── Graveys_Brewery_Weissbier
+│   ├── Ich_Weiss_Es_Nicht
+│   ├── Ich_Weiss_Es_Nicht_v2
 │   ├── Lille_Holmgård_Håndbryg_Jønnes_Favorit_clone
 │   ├── Perlenbacher_Hefeweissbier_clone
 │   ├── Schneider_and_Sohn_Weissbier
 │   ├── Vlieteren_Bier_Weizen
 │   └── Weiss
 ├── 10B_Dunkles_Weissbier
+│   ├── AnOtter_Dunkles_Weissbier
 │   ├── Schuimkop
 │   └── Texelse_Bierbrouwerij_Skuumkoppe_clone
 ├── 10C_Weizenbock
-│   └── Mean_Brews_Dark_Weizenbock
+│   ├── Mean_Brews_Dark_Weizenbock
+│   └── Niagara_Wheat_Beer
 ├── 11A_Ordinary_Bitter
 │   ├── Abingdon_Original
 │   ├── Acorn_Brewery_Barnsley_Bitter_clone
+│   ├── AnOtter_Bodged_Bitter
+│   ├── AnOtter_Bodged_Bitter_v2
+│   ├── AnOtter_Bodged_Bitter_v3
+│   ├── AnOtter_Ordinary_Bitter
 │   ├── Banks_Amber_Bitter_clone
 │   ├── Banks_Amber_Bitter_clone_Oslo_tweaked
 │   ├── Banks_Amber_Bitter_clone_v1
@@ -202,8 +263,10 @@ BFR
 │   ├── Janus_Bitter
 │   ├── Jennings_Brewery_Jennings_Bitter_clone
 │   ├── Leg_of_Ordinary_Biters
+│   ├── Maris_The_Thirsty_Otter
 │   ├── Muntingtons
 │   ├── Nonsuch_Ale
+│   ├── NZ_Black_Sheepish_Ale
 │   ├── Off_Work_20240327
 │   ├── Old_Boddies_Pre-1970
 │   ├── Ordinary_bitter_Challenger_First_Gold
@@ -213,10 +276,13 @@ BFR
 │   ├── Roberts_NotBoddies
 │   ├── Russell_AK_1911
 │   ├── Session_Bitter
-│   └── Shufties_off_to_Manwardrobe_20210307
+│   ├── Shufties_off_to_Manwardrobe_20210307
+│   ├── Sussex_Bitter_clone_v3
+│   └── Talisman_Bitter
 ├── 11B_Best_Bitter
 │   ├── Adnams_AK_1878
 │   ├── Badger_Fursty_Ferret_clone
+│   ├── Badger_Fursty_Ferret_clone_v2
 │   ├── Beartown_Bearskinful_clone
 │   ├── Best_Bitter
 │   ├── Best_Bitter_20230623
@@ -235,6 +301,8 @@ BFR
 │   ├── Budget_Brew_20220629
 │   ├── Burtex_Ale_v1
 │   ├── Cannon_Brewery_Stones_Best_Bitter_clone
+│   ├── Christmas_Tree_Bitter
+│   ├── Clibbingtons_Bitter
 │   ├── Clib_Dark_Ale
 │   ├── Clib_Old_Bitter
 │   ├── Clib_Ruby_Ale
@@ -243,7 +311,10 @@ BFR
 │   ├── Courage_Best_Bitter_clone
 │   ├── Courage_Best_Bitter_clone_v2
 │   ├── Dry_Pale_Bitter
+│   ├── Five_Pints_of_Best_Fuggles
+│   ├── Five_Pints_of_Best_Fuggles_v2
 │   ├── Five_Point_Best_Bitter_clone
+│   ├── Five_Points_Best_Bitter_clone_v2
 │   ├── Five_Points_Best_clone
 │   ├── Five_Points_Brewing_Best_Fuggles_clone
 │   ├── Five_Points_Brewing_Best_Fuggles_clone_v2
@@ -254,6 +325,9 @@ BFR
 │   ├── Fuggles_Best_Bitter_20220922
 │   ├── Fullers_Brewery_London_Pride_clone
 │   ├── Fullers_Brewery_London_Pride_clone_v2
+│   ├── Fursty_Ferret_clone_v2
+│   ├── Fursty_Ferret_clone_v3
+│   ├── Fursty_Ferret_clone_v4
 │   ├── Harveys_Sussex_Best_Bitter_clone
 │   ├── Harveys_Sussex_Bitter_clone
 │   ├── Hobgoblin_Ruby_Red_Ale_clone
@@ -264,6 +338,7 @@ BFR
 │   ├── Jennings_Brewery_Cocker_Hoop_clone
 │   ├── Kew_Brewery_Botanic_clone
 │   ├── Loose_Cannon_Brewery_Abingdon_Bridge_clone
+│   ├── Marble_Beers_Manchester_Bitter
 │   ├── Miraculix_Best
 │   ├── Miraculix_Easy_AK
 │   ├── Noname_20210806
@@ -286,19 +361,26 @@ BFR
 │   ├── Sheriff_Fatman_TT_Landlord_tribute
 │   ├── Sheriff_Fatman_v1
 │   ├── Sheriff_Fatman_v2
+│   ├── Short_Shoddy_Best_Bitter
 │   ├── Single_Malt_Bitter
 │   ├── Sitient_Stoat_v3_Fursty_Ferret_clone
 │   ├── Stroud_Brewery_Teasel_clone
 │   ├── Sussex_Best_Bitter_clone
+│   ├── Sussex_Best_Bitter_clone_v2
 │   ├── Sussex_for_AA
 │   ├── Teasel_Best_Bitter
 │   ├── Totally_Befuggled
+│   ├── Tribute_Best_Bitter
 │   ├── Tricky_Tree_Bitter_euro_2020_edition
 │   ├── Tricky_Tree_Bitter_v3
 │   ├── TT_Golden_Best_clone
+│   ├── Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings
+│   ├── Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress
 │   ├── Unnamed_brew_20210211
+│   ├── West_Yorkshire_Best_Bitter
 │   ├── Whitehorse_Brewery_Wayward_Smithy_v1
 │   ├── Wye_Valley_Bitter
+│   ├── xBmt-20190304_Hop_Extract_vs_Pellets
 │   ├── xBmt-20200302_Immediate_Burst_Carb
 │   └── Youngs_Special_2006
 ├── 11C_Strong_Bitter
@@ -309,6 +391,7 @@ BFR
 │   ├── Adnams_XXXX_1951
 │   ├── Barclay_Perkins_KK_1924
 │   ├── Boddingtons_Bitter_1925
+│   ├── Brexit_ESB
 │   ├── Chevallier_Chinook_IPA
 │   ├── Clibs_Clearout_Keeping_Ale
 │   ├── DSB
@@ -317,6 +400,7 @@ BFR
 │   ├── ESB_Bullion
 │   ├── Froach
 │   ├── Goats_Water_Bitter
+│   ├── Got_AnOtter_Parking_Ticket
 │   ├── Greene_King_Morland_Old_Speckled_Hen_clone
 │   ├── Greene_King_Ruddles_County_clone
 │   ├── Jim_Payne_Memorial_Marstons_Pedigree
@@ -345,7 +429,10 @@ BFR
 ├── 12A_British_Golden_Ale
 │   ├── Adnams_Ghost_Ship
 │   ├── Adnams_Ghost_Ship_Pale_Ale_clone
+│   ├── AnOtter_West_Yorkshire_Golden_Ale
 │   ├── Antipodean_Goldings_Golden_Ale
+│   ├── Beavertown_Neck_Oil_clone
+│   ├── Beavertown_Neck_Oil_clone_v2
 │   ├── Blonde_Ale_20210227
 │   ├── Boddington_IP_1922
 │   ├── Boddington_IP_1943
@@ -356,6 +443,7 @@ BFR
 │   ├── Chump_20210404
 │   ├── Citra_Galaxy_Session
 │   ├── Devon_Dumpling_clone
+│   ├── Dizzy_Blonde_Clone
 │   ├── Drainhole
 │   ├── Elderflower_Ale
 │   ├── Ernest_but_Bitter
@@ -364,18 +452,27 @@ BFR
 │   ├── Farewell_Bishop
 │   ├── Fiddled_With_It
 │   ├── First_Gold_Green_Hop
+│   ├── Goldie_Jawn
 │   ├── Greene_King_Ice_Breaker_clone
 │   ├── Green_Hop_Pale_Ale
 │   ├── Gungnir_Golden_Ale
+│   ├── Harlequin_Pale_Ale
 │   ├── Hazy_Pale_20240527
 │   ├── Jennings_Brewery_Cumberland_Ale_clone
+│   ├── Landlord
 │   ├── Light_Pale_Ale
 │   ├── Nerdy_Brewers_SHA-2_Single_Hop_Ale
 │   ├── Noddingtons
 │   ├── Noname_20211128
+│   ├── noname_20241124
+│   ├── noname_20250125
+│   ├── noname_20250410
 │   ├── Norwich_Sunrise_Golden_Ale
 │   ├── Oakland_GBH
 │   ├── Old_Duffer_Beer
+│   ├── Old_Duffer_Beer_v2
+│   ├── Old_Duffer_Beer_v3
+│   ├── Old_Duffer_Beer_v4
 │   ├── Old_Trafford_Fuggles_Pale
 │   ├── Passion_Fruit_Tropical_Pale_Ale
 │   ├── Pioneer_Golden_Ale
@@ -383,11 +480,19 @@ BFR
 │   ├── Robinsons_Brewery_Dizzy_Blonde_clone
 │   ├── Saaz_Pale_Ale
 │   ├── Salcombe_Gold_clone
+│   ├── Sinners_Brewery_Lushingtons_clone
+│   ├── SMaSH_Boadicea
+│   ├── SMaSH_CF184
+│   ├── SMaSH_East_Kent_Golding
 │   ├── SMaSH_First_Gold
+│   ├── SMaSH_First_Gold_v2
 │   ├── SMaSH_Fuggle
 │   ├── SMaSH_Fuggle_v2
 │   ├── SMaSH_Godiva
 │   ├── SMaSH_Godiva_v2
+│   ├── SMaSH_Progress
+│   ├── SMaSH_Progress_v2
+│   ├── SMaSH_Progress_v3
 │   ├── South_Manchester_Pale_Ale
 │   ├── St_Austell_Tribute_clone
 │   ├── St_Austell_Tribute_clone_v2
@@ -395,10 +500,15 @@ BFR
 │   ├── St_Austell_Tribute_clone_v4
 │   ├── St_Austell_Tribute_clone_v5
 │   ├── Summer_Lightning_clone
+│   ├── Summer_Lightning_clone_v2
 │   ├── The_Queen_is_Dead_Hoppy
 │   ├── Three_Brooks_Pale_Ale
 │   ├── Titanic_White_Star_clone
 │   ├── Tropical_Hops_Pale_20240517
+│   ├── Two_Pints_and_a_Packet_of_Hops_Fuggle_and_East_Kent_Goldings_v2
+│   ├── Two_Pints_and_a_Packet_of_Hops_Fuggle_and_Progress_v2
+│   ├── Two_Pints_and_a_Packet_of_Hops_Godiva_and_East_Kent_Goldings
+│   ├── Two_Pints_and_a_Packet_of_Hops_Godiva_and_Progress
 │   ├── Wainwrights_Golden_Ale_clone
 │   ├── Waka_Dream_Ale
 │   ├── Washington_Ale
@@ -406,9 +516,11 @@ BFR
 │   ├── Wychwood_Fiddlers_Elbow_clone
 │   ├── Wychwood_Wychcraft_clone
 │   ├── Wye_Valley_HPA
+│   ├── Youngs_Export_2006
 │   └── Youngs_Ordinary_2006
 ├── 12B_Australian_Sparkling_Ale
 ├── 12C_English_IPA
+│   ├── Abbot_Ale_clone
 │   ├── Ahtanum_Pale_Ale
 │   ├── Barclay_Perkins_Pale_Ale_1914
 │   ├── Befuddles_County_v1
@@ -441,6 +553,10 @@ BFR
 │   └── Youngs_Special_London_Ale_2006
 ├── 13A_Dark_Mild
 │   ├── Abbey_Road_Mild
+│   ├── A_Day_At_The_Races
+│   ├── AnOtter_Dark_Mild
+│   ├── AnOtter_Dark_Mild_Nutty_Ale
+│   ├── AnOtter_Mild_Willamette
 │   ├── Banks_Mild_v2_clone
 │   ├── Boddingtons_Oldham_Mild_1987
 │   ├── Brains_Dark_clone
@@ -451,6 +567,7 @@ BFR
 │   ├── Fullers_Hock
 │   ├── Latest_mild
 │   ├── Mild
+│   ├── Mild_Breeze
 │   ├── My_first_mild
 │   ├── Nerdy_Brewers_Session_State
 │   ├── Sara_Hughes_NotQuiteSoMild
@@ -459,8 +576,13 @@ BFR
 │   ├── Twisted_Barrel_Beast_of_Midlands_Mild
 │   └── xBmt-20220331_TBC_Imperial_Yeast_A09_Pub_vs_Safale_S-04
 ├── 13B_British_Brown_Ale
+│   ├── Brickfields_Brown_Ale_clone
+│   ├── Brown_Ale_20221101
+│   ├── Brown_Ale_20241013
 │   ├── Centennial_Brown_Ale
+│   ├── Clib_Brown
 │   ├── Crisp_Ruby
+│   ├── Double_Maxim_Brown_Ale
 │   ├── Flyer_Brown_Ale
 │   ├── Hopspider_Incapability_Brown
 │   ├── Jacobsen_Brown_Ale_clone
@@ -468,20 +590,29 @@ BFR
 │   ├── Mannly_Ale_v2
 │   ├── Mannly_Brown_Ale
 │   ├── Mannly_Brown_Ale_v2
+│   ├── Williams_Brothers_Brewing_Co_Midnight_Sun_clone_v2
 │   ├── xBmt-20191014_Impact_Of_Diacetyl_Rest_on_English_Ale
 │   └── xBmt-20200504_Toasted_Oats
 ├── 13C_English_Porter
+│   ├── AnOtter_Chocolate_Caramel_Biscuit
+│   ├── AnOtter_Chocolate_Caramel_Biscuit_v2
+│   ├── AnOtter_Chocolate_Caramel_Biscuit_v3
 │   ├── Bilbos_Porter
 │   ├── Black_Stuff
+│   ├── Caledonian_Porter
 │   ├── Clibs_London_Porter_2023
 │   ├── Fullers_London_Porter
 │   ├── Fullers_London_Porter_20240517
+│   ├── Guinness_West_Indian_Porter
 │   ├── London_Porter_20190708
 │   ├── Northern_Monk_Northern_Star_Mocha_Porter
 │   ├── Portchen_v4
 │   ├── Port_OPalmer_Porter
 │   ├── Samuel_Smith_Taddy_Porter_clone
+│   ├── Vlad_Chocula
 │   ├── West_Indian_Porter
+│   ├── West_Indian_Porter_v2
+│   ├── Williams_Brothers_Brewing_Co_Midnight_Sun_clone
 │   ├── xBmt-20200615_Mash_Temperature_English_Porter
 │   ├── xBmt-20201019_Roasted_Barley_vs_Black_Malt_in_English_Porter
 │   └── xBmt-20220613_Impact_Vitality_Starter_Has_On_An_English_Porter
@@ -493,28 +624,38 @@ BFR
 │   ├── Strong_Scottish_Ale_20231216
 │   └── Ushers_60_Pale_Ale_1886
 ├── 15A_Irish_Red_Ale
+│   ├── AnOtter_Red_Later
 │   ├── Bad_Santa
 │   ├── Clibbish_Red_Ale
 │   ├── First_Up
 │   ├── Ragondingue_020-Jus_de_cerveau
-│   └── Ragondingue_034-Jus_de_cerveau_Brain_Juice
+│   ├── Ragondingue_034-Jus_de_cerveau_Brain_Juice
+│   ├── Reynard
+│   └── Shepherd_Neame_Late_Red
 ├── 15B_Irish_Stout
+│   ├── Beamish_Stout
+│   ├── Blackcurrant_Liquorice_Stout
 │   ├── Clib_Dry_Stout
 │   ├── Cure_from_Clib_Stout
 │   ├── Dry_Stout
+│   ├── Extra_Stout
 │   ├── Guinness_Guinness_Draught_clone
 │   ├── Guinness_Guinness_Draught_clone_v2
 │   ├── Guinness_Guinness_Draught_clone_v3
 │   ├── Jamies
 │   ├── Jimmy_Js_Stout_v1
+│   ├── Mena_Dhu_Stout_clone
 │   ├── ODavey_Stout
 │   ├── Ragondingue_Draught_Guinness_Clone
 │   └── St_Patrick_Stout
 ├── 15C_Irish_Extra_Stout
+│   ├── Blackcurrant_Liquorice_Stout_v2
 │   ├── Breakfast_Stout_20220824
 │   ├── Chocolate_Coconut_no_boil_no_sparge_no_chill_stout
+│   ├── GHWs_Extra_Stout
 │   ├── Guinness_Foreign_Extra_Stout_clone
 │   ├── Orange_Ginger_Stout
+│   ├── Short_Shoddy_Irish_Extra_Stout_15C
 │   └── xBmt-20200702_Imperial_Yeast_A10_Darkness_vs_Nottingham
 ├── 16A_Sweet_Stout
 │   ├── Barclay_Perkins_Best_Stout_1922
@@ -524,23 +665,28 @@ BFR
 │   ├── Bru_It_Yourself_Home_Roasted_Coconut_Coffee_Stout
 │   ├── Livi_BL_Stout_2023
 │   ├── Mackesins_Stout
+│   ├── noname_20250129
 │   ├── Samuel_Smith_Extra_Stout_clone
 │   ├── Samuel_Smith_Extra_Stout_clone_v2
 │   ├── Shepherd_Neame_SS_1947
 │   ├── Simple_Stout
-│   └── Simple_Stout_v2
+│   ├── Simple_Stout_v2
+│   └── Youngs_London_Stout_2006
 ├── 16B_Oatmeal_Stout
+│   ├── AnOtter_Twisted_Stout
 │   ├── Bath_Ales_Dark_Side_clone
 │   ├── Beanies_Double_Chocolate_Coffee_Oatmeal_Stout
 │   ├── Breakfast_Stout_20220922
 │   ├── Dry_Stout_20231218
 │   ├── Espe_Oatmeal_Stout
+│   ├── Isengrim
 │   ├── Oatmeal_Stout
 │   ├── Raspberry_Oats
 │   ├── Robs_Twisted_Stout
 │   └── White_Stout
 ├── 16C_Tropical_Stout
 ├── 16D_Foreign_Extra_Stout
+│   ├── Belle_Saison_Stout
 │   └── xBmt-20181112_Steeped_Roasted_Grain
 ├── 17A_British_Strong_Ale
 │   ├── Abbot_Ale_clone
@@ -550,8 +696,12 @@ BFR
 │   ├── Burton_Ale
 │   ├── Fullers_Brewery_1845_clone
 │   ├── Fullers_Brewery_OBE_1939
+│   ├── Jacobite_with_Coriander
+│   ├── Jacobite_with_Heather
 │   ├── Paul_Wicksteed_Peculiar_One
 │   ├── Robert_Younger_Strong_Ale_1960
+│   ├── Scottish_Ale_Traquair_House_clone
+│   ├── Strong_Ale
 │   ├── Stronghjort_v1
 │   └── William_Younger_No_1_1943
 ├── 17B_Old_Ale
@@ -563,9 +713,12 @@ BFR
 │   ├── Theakston_Old_Peculier_clone
 │   └── Theakston_Old_Peculier_clone_v2
 ├── 17C_Wee_Heavy
+│   ├── 90_Rhubarb_and_Ginger_Preserve
 │   ├── Digimash_Wee_Heavy
 │   ├── Hogmanay_Wee_Heavy
 │   ├── Pico_Highland_Heather_Ale
+│   ├── Serious_Troot
+│   ├── Serious_Troot_v2
 │   ├── Simple_Gruit_Ale
 │   ├── Stuccas_Own_Wee_Heavy
 │   ├── Wee_Try_To_Keep_It_For_Yuletide_Heavy
@@ -608,14 +761,32 @@ BFR
 │   ├── Russian_River_Aud_Blonde_Ale_clone
 │   ├── Scarborough_Brewery_Chinook_clone
 │   ├── Shambles_Brewery_Summer_Ale_Afternoon_Delight_clone
+│   ├── Shameless_Magpied_Summer_Ale
 │   ├── Shipyard_Brewing_Company_Pale_Ale_clone_v2
 │   ├── Simple_IPA_20210320
+│   ├── SMaSH_Belma
 │   ├── SMaSH_Citra_v3
+│   ├── SMaSH_Lemondrop
+│   ├── SMaSH_Magnum
+│   ├── SMaSH_Palisade
+│   ├── SMaSH_Palisade_v2
+│   ├── SMaSH_Palisade_v3
+│   ├── SMaSH_Sabro_v2
+│   ├── SMaSH_Talus
 │   ├── Smurtowaka
 │   ├── Spring_Ale_04
 │   ├── Summer_Beer
 │   ├── Sunshine_Superman
+│   ├── Three_Hops_Blonde
+│   ├── Three_Hops_Blonde_v2
+│   ├── Three_Hops_Blonde_v3
 │   ├── Waka_Dreamboat_Blonde_Ale
+│   ├── Wet_Hops_Blonde_Ale_Bramling-X
+│   ├── Wet_Hops_Blonde_Ale_Bramling-X_v2
+│   ├── Wet_Hops_Blonde_Ale_Chinook
+│   ├── Wet_Hops_Blonde_Ale_Nonsuch
+│   ├── Wet_Hops_Blonde_Ale_Willamette
+│   ├── Wet_Hops_Blonde_Ale_Willamette_v2
 │   ├── xBmt-20191111_Natural_Carbonation_Sucrose_vs_Honey
 │   ├── xBmt-20191209_Hop_Pellets_vs_Hop_Hash
 │   ├── xBmt-20200210_Impact_Of_Fermenting_With_Previously_Frozen_Yeast
@@ -625,12 +796,17 @@ BFR
 ├── 18B_American_Pale_Ale
 │   ├── Allendale_Pennine_Pale
 │   ├── American_Pale_Ale
+│   ├── AnOtter_Cascade_Pale_Ale
+│   ├── AnOtter_Cascade_Pale_Ale_v2
+│   ├── AnOtter_Talus_in_Wonderland
 │   ├── APA
 │   ├── Beavertown_Gamma_Ray
+│   ├── Bells_Light_Hearted_Ale_clone
 │   ├── Bengali_Tiger
 │   ├── Beyond_Pale
 │   ├── Brewdog_002_Punk_IPA_2010_clone
 │   ├── Brewdog_002_Punk_IPA_2010_clone_v2
+│   ├── Calabria_IPA
 │   ├── Camden_Pale_Ale_clone
 │   ├── Carmarthenshire_APA
 │   ├── Cascade_Pale_Ale
@@ -639,11 +815,13 @@ BFR
 │   ├── Cincinnati_Pale_Ale
 │   ├── Citra_Amarillo_Vienna_Voss_Isolation_Pale_Ale
 │   ├── Citra_Pale_Ale_20240509
+│   ├── Citra_Sabro_APA
 │   ├── Dennis_King_Galaxy_Delight
 │   ├── Dr_Smurtos_Golden_Ale
 │   ├── Drytown_Riwaka
 │   ├── Founders_Brewing_Co_All_Day_IPA_clone
 │   ├── Fridays_Brew_20220315
+│   ├── Galaxy_Pale
 │   ├── Helicopter_APA
 │   ├── Holgate_Brewhouse_X-Wing_XPA_clone
 │   ├── Hopalaa_Sabro_Dew_clone
@@ -681,19 +859,24 @@ BFR
 │   ├── Sierra_Nevada_Pale_Ale_clone
 │   ├── Sierra_Nevada_Pale_Ale_v2
 │   ├── Sierra_Nevada_Pale_clone
+│   ├── Sierra_Nevada_Pale_clone_v2
 │   ├── Sierra_Riwaka
 │   ├── SixSixSix
 │   ├── Sleepy_Dog
+│   ├── SMaSH_Apollo
 │   ├── SMaSH_Centennial
 │   ├── SMaSH_Centennial_v2
 │   ├── SMaSH_Citra
 │   ├── SMaSH_Citra_v2
+│   ├── SMaSH_Galaxy
+│   ├── SMaSH_Lotus
+│   ├── SMaSH_Nelson_Sauvin
 │   ├── SMaSH_Simcoe
 │   ├── SMaSH_Simcoe_v2
 │   ├── SMaSH_Simcoe_v3
 │   ├── Sorachi_Ace_Pale_Ale
+│   ├── Summer_IPA
 │   ├── The_Hop_Chronicles_Amarillo_2016
-│   ├── The_Hop_Chronicles_Amarillo_LUPOMAX_2020
 │   ├── The_Hop_Chronicles_Amarillo_LUPOMAX_2020_Pale_Ale
 │   ├── The_Hop_Chronicles_Amaris_2020_Pale_Ale
 │   ├── The_Hop_Chronicles_Aramis_2020
@@ -722,6 +905,7 @@ BFR
 │   ├── The_Hop_Chronicles_Kohatu_2020
 │   ├── The_Hop_Chronicles_McKenzie_2021_Pale_Ale
 │   ├── The_Hop_Chronicles_Mistral_2019
+│   ├── The_Hop_Chronicles_NZ_Moutere_2018
 │   ├── The_Hop_Chronicles_Pacifica_2020_Pale_Ale
 │   ├── The_Hop_Chronicles_Riwaka_2020
 │   ├── The_Hop_Chronicles_Sabro_LUPOMAX_2020
@@ -730,6 +914,7 @@ BFR
 │   ├── The_Hop_Chronicles_Soriachi_Ace_2019
 │   ├── The_Hop_Chronicles_Southern_Star_2019_Pale_Ale
 │   ├── The_Hop_Chronicles_Taiheke_2020_Pale_Ale
+│   ├── The_Hop_Chronicles_Talus_2019
 │   ├── The_Hop_Chronicles_Topaz_2020_Pale_Ale
 │   ├── The_Hop_Chronicles_US_Goldings_2020_Pale_Ale
 │   ├── The_Hop_Chronicles_Zappa_2020
@@ -740,6 +925,7 @@ BFR
 │   ├── User_upper_20230228
 │   ├── Verdant_Brewing_Lightbulb_clone
 │   ├── What_Difference_Does_Yeast_Make
+│   ├── Winchester_Pale_Ale
 │   ├── xBmt-20200120_Bottle_Conditioning_Crown_Cap_vs._Swing-Top
 │   ├── xBmt-20200224_Big_Bottom_Pale_Ale
 │   ├── xBmt-20200227_No-Chill_vs_Rapid_Chilling
@@ -751,6 +937,7 @@ BFR
 │   ├── American_Amber_20231022
 │   ├── American_Amber_20231029
 │   ├── American_Amber_Ale_20240417
+│   ├── A_Nice_Red_Ale
 │   ├── Brulosophy_Make_America_Amber_Again
 │   ├── Centennial-Cluster_Fugget_Blend
 │   ├── Happy_Amber_v1
@@ -768,12 +955,15 @@ BFR
 │   └── xBmt-20200730_Warm_Pressure_Fermented_Lager
 ├── 19B_California_Common
 │   ├── Carpenters_Common_V2
+│   ├── Hot_Under
 │   ├── Ragondingue_018-Steampunk
 │   ├── Ragondingue_031-Coyote_Steampunk
 │   ├── Ragondingue_039-Steampunk
 │   └── xBmt-20201109_Yeast_Starter_vs_Yeast_Cake_In_High_OG_Beer
 ├── 19C_American_Brown_Ale
 │   ├── Big_Mack_Brown_Ale
+│   ├── Caribou_Slobber
+│   ├── Caribou_Slobber_clone
 │   ├── Clibs_Centennial_Brown_v3
 │   ├── Mannly_Ale_v2
 │   ├── Moose_Drool_Brown_Ale
@@ -785,6 +975,7 @@ BFR
 │   ├── Guinness_West_Indies_Porter_clone
 │   ├── Kernel_Export_India_Porter
 │   ├── Nerdy_Brewers_Dark_Mode
+│   ├── Northern_Star
 │   ├── Northern_Star_Chocolate_Caramel_Biscuit_Porter
 │   ├── xBmt-20201102_Roasted_Grains_In_Mash_vs_Steeped
 │   └── xBmt-20210628_Impact_Peated_Malt_Has_On_American_Porter
@@ -793,8 +984,10 @@ BFR
 │   ├── American_Stout_v2
 │   ├── Ragondingue_009-Mazout_Stout
 │   ├── Simple_Stout_2022
+│   ├── The_Dark_Crystal
 │   └── Wellington_Stout_v1
 ├── 20C_Imperial_Stout
+│   ├── AnOtter_Pastry_Stout
 │   ├── Barclay_Perkins_Imperial_Brown_Stout_1848
 │   ├── Barclay_Perkins_Imperial_Brown_Stout_1848_Reiterated_mash_IV
 │   ├── Brewdog_101_Cocoa_Psycho_clone
@@ -838,6 +1031,7 @@ BFR
 │   ├── Red_Five_Standing_By
 │   ├── Sasquatch
 │   ├── Shiva_IPA
+│   ├── Sierra_Nevada_Celebration_IPA
 │   ├── Sierra_Nevada_keg_fermented
 │   ├── Sierra_Nevada_Torpedo_Extra_IPA_clone
 │   ├── So_U_Want_2B-A_Hopstar_Talus
@@ -852,6 +1046,7 @@ BFR
 │   ├── xBmt-20200803_Impact_Of_Wheat_Malt_On_American_IPA
 │   └── xBmt-20200914_Dry_Hop_At_Yeast_Pitch
 ├── 21B_Specialty_IPA
+│   ├── AnOtter_Session_IPA
 │   ├── Basic_Brewing_Rosemary_IPA
 │   ├── Bru_It_Yourself_All_Citra_No_Brakes_Session_IPA
 │   ├── Chi-ennial_Mini_IPA
@@ -859,9 +1054,11 @@ BFR
 │   ├── Hopalaa_Dank_West_Coast_IPA_clone
 │   ├── Hopalaa_Hyperjump_clone
 │   ├── Mosaically_v2
+│   ├── New_Zealand_IPA_20241105
 │   ├── No_Name_Beer_v3_The_Forgotten_Child_20231109
 │   ├── Panhead_Quickchange_XPA_clone
 │   ├── Simcoe_Mosaic_IPA
+│   ├── SMaSH_Sabro
 │   ├── Summat_Red
 │   ├── Summat_Red_v2
 │   ├── xBmt-20190624_Dry_Hop_Saturation_Point
@@ -877,6 +1074,7 @@ BFR
 │   ├── Eurohash_v1
 │   └── Ragondingue_030-Coyote_Hardcore_IPA
 ├── 21B_Specialty_IPA_-_Black_IPA
+│   ├── Blackened
 │   ├── Black_IPA
 │   ├── Black_Ninja_2
 │   ├── Black_Ninja_Homage
@@ -886,15 +1084,18 @@ BFR
 │   ├── Elusive_Brewing_Shadow_of_the_Beast_clone
 │   ├── Firestone_Walker_Wookey_Jack_clone
 │   ├── Hrungnir_BIPA
+│   ├── Into_Darkness
 │   └── Into_Darkness_Black_IPA
 ├── 21B_Specialty_IPA_-_Brown_IPA
-│   └── Mike_Tasty_McDole_Janets_Brown
+│   ├── Mike_Tasty_McDole_Janets_Brown
+│   └── Short_Shoddy_Brown_IPA_27B
 ├── 21B_Specialty_IPA_-_Red_IPA
 │   ├── Amarillo_Ale
 │   ├── Challenger_Ale
 │   ├── Clib_Red_IPA
 │   ├── DEMONS_BLOOD_Red_rye_ipa
 │   ├── Elusive_Brewing_Level_Up_Level_21_Citra_Simcoe_clone
+│   ├── Emersons_Daredevil_Red_IPA_clone
 │   ├── Fat_Sam
 │   ├── Ragondingue_038- RedRuM
 │   ├── Red_IPA
@@ -903,21 +1104,33 @@ BFR
 │   ├── Triple_A_Red_IPA
 │   └── Verdant_Brewing_Co_Red_Elephant_IPA_clone
 ├── 21B_Specialty_IPA_-_Rye_IPA
+│   ├── AnOtter_Red_Rye_IPA
 │   ├── Brewdog_279_Slot_Machine_clone
 │   ├── Brouwerij_t_IJ_Red_Rye_Double_IPA_clone
 │   ├── Founders_Brewing_Co_Reds_Rye_IPA_clone
+│   ├── Galaxy_Citra_Rye_Pale_Ale
 │   ├── Raw_Rosehip_Rye
 │   └── Short_Shoddy_Rye_IPA
 ├── 21B_Specialty_IPA_-_White_IPA
-│   └── Mosaic_IPA
+│   ├── Mosaic_IPA
+│   └── None_the_Wiser
 ├── 21C_Hazy_IPA
+│   ├── 02_Hazy_IPA_Dec_2024
+│   ├── 100_W
 │   ├── Amundsen_Bryggeri_Apocalyptic_Thunder_Juice_clone
+│   ├── AnOtter_NEIPA_HBC_431
+│   ├── AnOtter_Raw_NEIPA
 │   ├── Citra_APA
+│   ├── Citra_APA_Sabro
 │   ├── Dogfish_Need_Beer_Too
+│   ├── English_Hopped_New_England_IPA_Godiva
 │   ├── English_Hopped_New_England_IPA_Harlequin
 │   ├── English_Hopped_New_England_IPA_Mystic
 │   ├── English_Hopped_New_England_IPA_Olicana
 │   ├── English_Hopped_New_England_IPA_Opus
+│   ├── Even_Otters_Need_Water
+│   ├── Extract_NEIPA
+│   ├── Four_Hops_IPA
 │   ├── Hazy_IPA
 │   ├── HBC_630
 │   ├── Hopalaa_Cloud_13_clone
@@ -925,13 +1138,19 @@ BFR
 │   ├── Hopalaa_Planet_HBC_431_clone
 │   ├── Hopalaa_Planet_HBC_472_clone
 │   ├── Idaho-7_Single_Hop_IPA
+│   ├── Juicifixion
+│   ├── Krushin_Citra
 │   ├── Mean_Brews_NEIPA
+│   ├── Mosaic_IPA_v2
 │   ├── NEIPAAAAAA
 │   ├── NEIPA_with_a-typical_hops_20210402
 │   ├── Oats_in_the_Water
 │   ├── Other_Half_Brewing_All_Together_NEIPA_clone
 │   ├── Ragondingue_Lucifer_Sam
 │   ├── Riwakas_Comet_NEIPA
+│   ├── Route_66
+│   ├── Route_66_v2
+│   ├── Route_66_v3
 │   ├── Sabrotooth_NEIPA
 │   ├── Sabrotooth_NEIPA_v2
 │   ├── Saints_Neip_Neip
@@ -941,6 +1160,7 @@ BFR
 │   ├── Strata_West_Coast_IPA
 │   ├── Surly_Brewing_Co_Sabrotooth_Tiger_clone
 │   ├── Time_and_Tide_Brewing_Little_Urchin_clone
+│   ├── Uiltje_Hats_Hops_Warm_Socks_clone
 │   ├── Verdant_Brewing_Even_Sharks_Need_Water_clone
 │   ├── Verdant_Brewing_Even_Sharks_Need_Water_clone_v2
 │   ├── Verdant_Brewing_Even_Sharks_Need_Water_clone_v3
@@ -948,6 +1168,8 @@ BFR
 │   ├── xBmt-20190923_Cold-Side_Oxidation_SMB_At_Packaging_NEIPA
 │   └── xBmt-20190926_Early_vs_Late_Kettle_Hop_Addition
 ├── 22A_Double_IPA
+│   ├── A_Dangerously_Close_To_Stupid_Otter
+│   ├── AnOtter_Red_Rye_DIPA
 │   ├── Beerworks_Founders_DIPA
 │   ├── Bru_It_Yourself_Double_Speed_Bump_Double_IPA
 │   ├── Hopalaa_Nebula_DDH_DIPA_clone
@@ -967,9 +1189,14 @@ BFR
 │   └── xBmt-20200316_Oak_Spirals_vs._Oak_Cubes
 ├── 23A_Berliner_Weisse
 ├── 23B_Flanders_Red_Ale
-│   └── Red_Tarn
+│   ├── Red_Tarn
+│   └── Rouge_Flamande_clone
 ├── 23F_Fruit_Lambic
 │   └── Achterlijk_Fruitig_Blondje
+├── 23G_Gose
+│   ├── Raspberry_Philly_Sour
+│   ├── Strawberry_Fields_Forever
+│   └── The_Book_Of_Sours
 ├── 24A_Witbier
 │   ├── Acid_Witbier
 │   ├── AnOtter_Spicy_Witbier
@@ -1000,32 +1227,43 @@ BFR
 │   ├── First_Gold_Belgian_SMaSH
 │   ├── Orval_clone
 │   ├── Ragondingue_019-Miruvórë
-│   └── Southwold_Walloon
+│   ├── Short_Shoddy_Belgian_Pale_Ale_27B
+│   ├── Southwold_Walloon
+│   └── Taras_Boulba_clone
 ├── 24C_Biere_de_Garde
 │   ├── Bric-a-Brac_v1
 │   ├── Bric-a-Brac_v2
+│   ├── Gollems_Precious
 │   ├── Ragondingue_060-Goupil
+│   ├── Short_Shoddy_Biere_de_Garde_24C
 │   └── Trois_Monts_clone
 ├── 25A_Belgian_Blond_Ale
 │   ├── 3-Monts_Blonde
 │   ├── Abbaye_de_Leffe_Leffe_Blonde
 │   ├── Abbaye_de_Leffe_Leffe_Blonde_v2
+│   ├── AnOtter_Belgian_Blond_Ale
 │   ├── Basic_Brewing_No_Chill_Belgian_Golden_Ale
 │   ├── Brouwpunt_Blond_Bier
 │   ├── Clib_Belgian_Blonde
 │   ├── De_Koninck_Blonde_clone
 │   ├── Leffe_Blonde_clone
-│   └── Lille_Holmgard_Handbryg_Tournesolls_Lillebror_clone
+│   ├── Lille_Holmgard_Handbryg_Tournesolls_Lillebror_clone
+│   ├── Saaz_Pale_Ale
+│   └── Uithoornse_Zot
 ├── 25B_Saison
 │   ├── Achterlijk_Saison_Blondje
 │   ├── Belle_Saison_Saison
+│   ├── Brasserie_de_la_Senne_Taras_Boulba_clone_v3
 │   ├── Citra_Aurora_Saison
 │   ├── Double_Trouble_Raspberry_Hibiscus_Saison_Galaxy
 │   ├── Double_Trouble_Raspberry_Hibiscus_Saison_Sabro
 │   ├── Dupont_Vieille_Provision_clone
 │   ├── Elderflower_Saison
+│   ├── Elderflower_Saison_20240815
 │   ├── Elderflower_Saison_GHW
 │   ├── Forks_in_the_Road_Loral_Saison
+│   ├── Hibiscus_Saison
+│   ├── Hibiscus_Saison_v2
 │   ├── Munich_Saison_29
 │   ├── Ragondingue_034-Chacal
 │   ├── Saison_20190418
@@ -1035,11 +1273,14 @@ BFR
 │   ├── Saison_20230315
 │   ├── Saison_20230329
 │   ├── Saison_585
+│   ├── Saison_Américaine
 │   ├── Saison_No_1
+│   ├── Saison_Saaz
 │   ├── Sour_Cherry_Saison
 │   ├── Starter_Saison
 │   ├── Szechuan_Saison
 │   ├── Table_Saison
+│   ├── Thiriez_La_Rouge_Flamande
 │   ├── Tis_the_Saison_v1
 │   ├── Waka_Dreamboat_Saison
 │   ├── Wyeast_3711_French_Saison
@@ -1051,6 +1292,9 @@ BFR
 │   ├── Brasserie_3_Monts_3_Monts_clone
 │   ├── Ghostfish_Heimdalls_Draught
 │   ├── Mean_Brews_Belgian_Golden_Strong_Ale
+│   ├── Never_Give_Up
+│   ├── Never_Give_Up_v2
+│   ├── Never_Give_Up_v3
 │   ├── Putin_Huylo_Dry_Hopped_Golden_Ale
 │   ├── The_Bruery_Mischief_clone
 │   ├── Three_French_Hens
@@ -1060,7 +1304,8 @@ BFR
 │   ├── Janus_Patersbier
 │   ├── Ragondingue_033-Crazy_Monk
 │   ├── Ragondingue_056-Its_a_Trap
-│   └── Ragondingue_Its_a_Trap
+│   ├── Ragondingue_Its_a_Trap
+│   └── Simple_Patersbier
 ├── 26B_Belgian_Dubbel
 │   ├── Cherry_Dubbel_All_Grain
 │   ├── Cherry_Dubbel_Partial_Mash
@@ -1091,10 +1336,12 @@ BFR
 │   ├── Achterlijk_Donker_Blondje_v2
 │   ├── Basic_Brewing_Belgian_Dark_Strong_Ale
 │   ├── Hertog_Jan_Grand_Prestige_clone
-│   └── Kwak_clone
+│   ├── Kwak_clone
+│   └── TBS_033_Short_Shoddy_Belgian_Dark_Strong_Ale
 ├── 27_Historical_Beer
 │   ├── Barclay_Perkins_KKK_1886
 │   ├── Bier_Behekst
+│   ├── Boddington_IP_1913
 │   ├── Courage_1920s_KKK
 │   ├── Courage_X_Ale_1914_v1
 │   ├── De_Aker_Oud_Wit_1869
@@ -1111,6 +1358,7 @@ BFR
 │   ├── Mork_Mumme_23
 │   ├── Original_Porter_1750
 │   ├── Running_Porter_Reids_1877
+│   ├── Soet_Bier_1683
 │   ├── TD_Ridley_Sons_ESX_Best
 │   ├── Truman_Porter_1890
 │   ├── Truman_Running_Porter
@@ -1121,11 +1369,66 @@ BFR
 │   ├── William_Blacks_X_Ale_1849
 │   ├── William_Younger_XXXX_1898
 │   └── Youngers_Export_Stout_1897
-└── 31A_Alternative_Grain_Beer
-    ├── Coco_Ceann-daoraich_Sabhs
-    ├── Moose_Drool
-    ├── Peated_Rye_80_raw
-    ├── The_Rare_Barrel_Dark_Ale
-    ├── User_Upper_20230320
-    └── Wild_Dandelion_Beoir
+├── 27_Piwo_Grodziskie
+│   └── Pora_Roku_Grodziskie
+├── 27_Pre-Prohibition_Lager
+│   └── Short_Shoddy_Pre-Prohibition_Lager_27A
+├── 27_Sahti
+│   └── sudo_apt-get_install_beer
+├── 30A_Spiced_Herb_or_Vegetable_Beer
+│   ├── Artemis_Gruit
+│   └── Gingery_Ale
+├── 30B_Autumn_Seasonal_Beer
+│   └── Saint_Nicholas_Special
+├── 30C_Winter_Seasonal_Beer
+│   └── Hells_Bells_Christmas_Ale
+├── 31A_Alternative_Grain_Beer
+│   ├── Back_To_The_Future
+│   ├── Coco_Ceann-daoraich_Sabhs
+│   ├── Moose_Drool
+│   ├── Peated_Rye_80_raw
+│   ├── The_Rare_Barrel_Dark_Ale
+│   ├── The_Thieving_Magpie
+│   ├── User_Upper_20230320
+│   └── Wild_Dandelion_Beoir
+├── 34C_Experimental_Beer
+│   ├── AnOtter_Keptinis
+│   └── Basic_Brewing_100_Rye_Session_Pale_Ale
+├── Australian_Bitter_Ale
+│   └── Aussie_Ale
+├── C1B_English_Cider
+│   └── AnOtter_Apple_Cider
+├── C1C_French_Cider
+│   └── AnOtter_Apple_Cider_v2
+├── C1D_New_World_Perry
+│   └── AnOtter_Perry_Cider
+├── Classic_English-Style_Pale_Ale
+│   ├── A_Night_At_The_Opera
+│   ├── Blackberry_Bitter_English_Pale_Ale
+│   └── Heart_of_Gold_Pale_Ale
+├── Dutch-Style_Kuit_Kuyt_or_Koyt
+│   └── AnOtter_Koytbier
+├── English-Style_Pale_Mild_Ale
+│   ├── 1037_Pale_Ale
+│   └── Basic_Brewing_No_Chill_English_Mild_Ale
+├── Imperial_Red_IPA
+│   └── 100_IBU_Red_IPA
+├── Kornol
+│   ├── AnOtter_Kornøl
+│   ├── AnOtter_Kornøl_v2
+│   ├── AnOtter_Raw_Bramling-X
+│   ├── Juniper_Ascending
+│   ├── Juniper_Ascending_v2
+│   ├── Juniper_Ascending_v3
+│   └── Kornøl
+├── Kvass
+│   └── Zaporozhky_kvas
+├── New_Zealand_Pale_Ale
+│   └── noname_20250414
+└── Ukrainian_Golden_Ale
+    ├── Refuse_Resist_Ukrainian_Golden_Ale
+    ├── Refuse_Resist_Ukrainian_Golden_Ale_v2
+    ├── Refuse_Resist_Ukrainian_Golden_Ale_v3
+    └── Ukrainian_Golden_Ale_20230614
 
+1431 directories
