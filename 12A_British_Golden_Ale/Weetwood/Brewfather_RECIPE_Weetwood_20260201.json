@@ -353,7 +353,7 @@
     "lovibondMax": 5
   },
   "name": "Weetwood",
-  "author": " Cheshire Cat@homebreinguk.com",
+  "author": " Cheshire Cat@homebrewinguk.com",
   "miscs": [
     {
       "use": "Mash",
@@ -712,7 +712,7 @@
   "styleIbu": true,
   "searchTags": [],
   "rbRatio": 0.61,
-  "_timestamp_ms": 1769946739038,
+  "_timestamp_ms": 1769946972718,
   "primaryTemp": 18,
   "hopStandMinutes": 20,
   "buGuRatio": 0.61,
@@ -738,7 +738,7 @@
   },
   "yeastToleranceExceededBy": null,
   "ibuFormula": "tinseth",
-  "_timestamp": "2026-02-01T11:52:19.038Z",
+  "_timestamp": "2026-02-01T11:56:12.718Z",
   "extraGravity": 0,
   "boilSize": 7.76,
   "totalGravity": 1.043121163,

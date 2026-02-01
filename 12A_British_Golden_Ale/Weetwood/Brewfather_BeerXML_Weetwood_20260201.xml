@@ -22,7 +22,7 @@
             <COLOR_MIN>2</COLOR_MIN>
             <COLOR_MAX>5</COLOR_MAX>
         </STYLE>
-        <BREWER>Cheshire&#32;Cat&#64;homebreinguk&#46;com</BREWER>
+        <BREWER>Cheshire&#32;Cat&#64;homebrewinguk&#46;com</BREWER>
         <BATCH_SIZE>5.6</BATCH_SIZE>
         <BOIL_SIZE>7.76</BOIL_SIZE>
         <BOIL_TIME>60</BOIL_TIME>
