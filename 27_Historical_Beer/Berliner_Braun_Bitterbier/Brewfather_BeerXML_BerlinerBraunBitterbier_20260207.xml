@@ -94,6 +94,61 @@
         </FERMENTABLES>
         <MISCS>
             <MISC>
+                <BF_ID>default-2302b0</BF_ID>
+                <NAME>Baking&#32;Soda&#32;&#40;NaHCO&#51;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00052</AMOUNT>
+                <DISPLAY_AMOUNT>0.52 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-3b1827</BF_ID>
+                <NAME>Calcium&#32;Chloride&#32;&#40;CaCl&#50;&#41;&#32;&#51;&#51;&#32;&#37;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00044</AMOUNT>
+                <DISPLAY_AMOUNT>0.44 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-bk9j78</BF_ID>
+                <NAME>Canning&#32;Salt&#32;&#40;NaCl&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00043</AMOUNT>
+                <DISPLAY_AMOUNT>0.43 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-4e9d62</BF_ID>
+                <NAME>Epsom&#32;Salt&#32;&#40;MgSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00087</AMOUNT>
+                <DISPLAY_AMOUNT>0.87 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
+                <BF_ID>default-1f88df</BF_ID>
+                <NAME>Gypsum&#32;&#40;CaSO&#52;&#41;</NAME>
+                <VERSION>1</VERSION>
+                <TYPE>Water&#32;Agent</TYPE>
+                <USE>Mash</USE>
+                <TIME>0</TIME>
+                <AMOUNT>0.00088</AMOUNT>
+                <DISPLAY_AMOUNT>0.88 g</DISPLAY_AMOUNT>
+                <AMOUNT_IS_WEIGHT>true</AMOUNT_IS_WEIGHT>
+            </MISC>
+            <MISC>
                 <BF_ID>new-SjDm9GLsgUwvT8fijZz1or0MEaeB7g</BF_ID>
                 <NAME>irish&#32;moss</NAME>
                 <VERSION>1</VERSION>
@@ -112,10 +167,10 @@
                 <VERSION>1</VERSION>
                 <TYPE>Ale</TYPE>
                 <FORM>Dry</FORM>
-                <AMOUNT>29.6</AMOUNT>
+                <AMOUNT>0.6</AMOUNT>
                 <LABORATORY>Fermentis&#32;&#47;&#32;Safale</LABORATORY>
                 <PRODUCT_ID>K&#45;&#57;&#55;</PRODUCT_ID>
-                <DISPLAY_AMOUNT>29.6 g</DISPLAY_AMOUNT>
+                <DISPLAY_AMOUNT>0.6 pkg</DISPLAY_AMOUNT>
                 <ATTENUATION>81</ATTENUATION>
                 <MIN_TEMPERATURE/>
                 <MAX_TEMPERATURE/>
@@ -167,12 +222,12 @@
         <BF_FERMENTATION_PROFILE_NAME>&#48;&#49;&#32;Ale&#32;&#43;&#32;DR&#32;&#43;&#32;Conditioning</BF_FERMENTATION_PROFILE_NAME>
         <FERMENTATION_STAGES>4</FERMENTATION_STAGES>
         <PRIMARY_AGE>10</PRIMARY_AGE>
-        <PRIMARY_TEMP>18</PRIMARY_TEMP>
+        <PRIMARY_TEMP>15</PRIMARY_TEMP>
         <SECONDARY_AGE>4</SECONDARY_AGE>
-        <SECONDARY_TEMP>21</SECONDARY_TEMP>
+        <SECONDARY_TEMP>19</SECONDARY_TEMP>
         <TERTIARY_AGE>14</TERTIARY_AGE>
-        <TERTIARY_TEMP>18</TERTIARY_TEMP>
+        <TERTIARY_TEMP>15</TERTIARY_TEMP>
         <AGE>28</AGE>
-        <AGE_TEMP>18</AGE_TEMP>
+        <AGE_TEMP>15</AGE_TEMP>
     </RECIPE>
 </RECIPES>
